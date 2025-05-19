@@ -1,0 +1,1001 @@
+Patient_ID,Age,Gender,Ethnicity,Education,Employment,Medical_History,Allergies,Comorbidities,Medication_History,Adherence_Level,Smoking,Alcohol,Sleep,Exercise,Stress_Level,Motivation,Trial_Understanding,Personal_Goals,Family_Support,Transportation_Access,Dropout_Label
+Patient_0001,56,Other,Asian,Bachelor,Retired,Asthma,Dust,None,Insulin,Good,Yes,Regular,7-9 hrs,Intense,High,Low,Poor,Trust in doctor,No,Public transport,0
+Patient_0002,69,Male,Other,None,Retired,Cancer,None,Anxiety,Insulin,Poor,Yes,None,<5 hrs,Intense,Low,High,Poor,Hope for cure,Yes,Public transport,1
+Patient_0003,46,Female,Black,Master,Student,Diabetes,Penicillin,Obesity,Aspirin,Average,Yes,Regular,5-7 hrs,Intense,Low,Medium,Poor,Trust in doctor,Yes,Own vehicle,0
+Patient_0004,32,Other,White,PhD,Student,Diabetes,None,Depression,Metformin,Poor,Yes,Occasional,5-7 hrs,Moderate,Moderate,Low,Good,Hope for cure,No,Own vehicle,0
+Patient_0005,60,Male,Asian,None,Unemployed,Cardiac issues,Pollen,None,Lisinopril,Good,Yes,Regular,>9 hrs,None,Low,Medium,Good,Improve symptoms,Yes,No access,0
+Patient_0006,25,Female,Black,None,Employed,Diabetes,Dust,None,Aspirin,Poor,Yes,None,<5 hrs,Light,Low,Low,Good,Trust in doctor,Yes,No access,0
+Patient_0007,78,Other,Black,Master,Employed,Asthma,Penicillin,Anxiety,Metformin,Good,No,None,5-7 hrs,None,Low,Medium,Good,No expectations,Yes,Own vehicle,0
+Patient_0008,38,Other,Asian,Master,Retired,Asthma,Pollen,Anxiety,None,Average,No,None,5-7 hrs,None,Low,Medium,Average,Hope for cure,Yes,Public transport,0
+Patient_0009,56,Male,Other,Bachelor,Unemployed,Hypertension,Pollen,None,Insulin,Good,Yes,Occasional,<5 hrs,Light,Moderate,Medium,Good,Improve symptoms,No,Own vehicle,0
+Patient_0010,75,Male,Black,Master,Student,Hypertension,Penicillin,Anxiety,Lisinopril,Average,No,Regular,5-7 hrs,Moderate,Moderate,Low,Good,No expectations,Yes,Public transport,0
+Patient_0011,36,Male,Hispanic,Bachelor,Retired,Diabetes,Pollen,Depression,Lisinopril,Average,No,Regular,7-9 hrs,Intense,Low,High,Good,Improve symptoms,No,Public transport,0
+Patient_0012,40,Female,Black,None,Unemployed,Cancer,Penicillin,Anxiety,Lisinopril,Good,Yes,Regular,5-7 hrs,Intense,Low,High,Good,Hope for cure,No,No access,0
+Patient_0013,28,Male,Other,High School,Employed,Hypertension,Penicillin,Anxiety,Insulin,Good,Yes,Occasional,<5 hrs,None,Moderate,High,Average,Trust in doctor,Yes,Own vehicle,0
+Patient_0014,28,Other,Other,PhD,Unemployed,Hypertension,Food,None,Metformin,Average,Yes,Occasional,7-9 hrs,Moderate,Moderate,Medium,Poor,Improve symptoms,Yes,Own vehicle,0
+Patient_0015,41,Other,Hispanic,None,Employed,Asthma,None,None,Aspirin,Poor,No,None,7-9 hrs,Intense,Low,Low,Poor,Trust in doctor,Yes,Public transport,0
+Patient_0016,70,Male,Black,Master,Unemployed,Cancer,Pollen,Obesity,Metformin,Good,No,None,5-7 hrs,Moderate,High,Medium,Good,Trust in doctor,No,Own vehicle,0
+Patient_0017,53,Male,Other,PhD,Retired,Cardiac issues,Pollen,Obesity,Aspirin,Average,Yes,Regular,>9 hrs,Light,Moderate,Low,Good,Improve symptoms,No,No access,0
+Patient_0018,57,Other,Asian,High School,Employed,Diabetes,Food,None,Lisinopril,Average,No,Occasional,7-9 hrs,None,Moderate,Medium,Good,Improve symptoms,No,No access,1
+Patient_0019,41,Female,White,High School,Retired,Hypertension,Food,Anxiety,Metformin,Poor,No,Occasional,<5 hrs,None,Moderate,Low,Poor,Improve symptoms,No,Own vehicle,0
+Patient_0020,20,Male,White,Bachelor,Retired,Cancer,Food,Anxiety,Lisinopril,Good,No,Regular,>9 hrs,Moderate,Low,Low,Poor,Trust in doctor,No,Own vehicle,0
+Patient_0021,39,Male,White,PhD,Employed,Cancer,Dust,Obesity,None,Average,Yes,Regular,>9 hrs,Intense,Low,Low,Good,No expectations,No,No access,0
+Patient_0022,70,Other,Black,Bachelor,Employed,Diabetes,Dust,Obesity,Lisinopril,Poor,No,None,7-9 hrs,Moderate,Moderate,Medium,Poor,Hope for cure,No,Own vehicle,0
+Patient_0023,19,Male,Hispanic,None,Student,Cancer,Dust,Obesity,Lisinopril,Average,No,None,5-7 hrs,Light,Low,High,Average,No expectations,Yes,Public transport,1
+Patient_0024,41,Female,Other,PhD,Student,Cancer,Penicillin,Depression,Aspirin,Good,No,None,>9 hrs,Intense,Low,Medium,Good,Trust in doctor,No,Own vehicle,0
+Patient_0025,61,Other,Asian,None,Student,Cancer,Pollen,Depression,None,Poor,No,Regular,5-7 hrs,Intense,Moderate,Medium,Good,Improve symptoms,No,Public transport,0
+Patient_0026,47,Male,Asian,Bachelor,Retired,Hypertension,None,Obesity,Lisinopril,Average,No,Regular,7-9 hrs,Moderate,Low,Low,Average,Improve symptoms,No,Own vehicle,0
+Patient_0027,55,Other,Black,PhD,Retired,Diabetes,Penicillin,Anxiety,Lisinopril,Poor,No,None,<5 hrs,Light,High,Low,Average,Hope for cure,No,Own vehicle,0
+Patient_0028,19,Male,White,Bachelor,Student,Cancer,Pollen,Obesity,None,Good,No,None,>9 hrs,Intense,Low,High,Poor,Hope for cure,Yes,No access,0
+Patient_0029,77,Male,Black,PhD,Retired,Cancer,Pollen,Depression,None,Poor,Yes,Occasional,<5 hrs,None,Low,High,Average,No expectations,No,Public transport,0
+Patient_0030,38,Male,Hispanic,Bachelor,Retired,Hypertension,Food,Anxiety,Metformin,Good,Yes,Occasional,5-7 hrs,Light,Moderate,Low,Good,No expectations,No,No access,1
+Patient_0031,50,Female,Hispanic,High School,Employed,Diabetes,Food,Depression,Aspirin,Average,No,None,5-7 hrs,Intense,Moderate,High,Poor,Hope for cure,Yes,Own vehicle,0
+Patient_0032,29,Female,Other,Bachelor,Employed,Asthma,Penicillin,Anxiety,None,Good,Yes,None,<5 hrs,Moderate,High,High,Average,Trust in doctor,Yes,No access,0
+Patient_0033,75,Other,Other,High School,Retired,Hypertension,Food,Depression,None,Average,No,Occasional,7-9 hrs,Intense,Low,Low,Poor,No expectations,No,Own vehicle,0
+Patient_0034,39,Male,Hispanic,Bachelor,Student,Diabetes,Pollen,Anxiety,Insulin,Average,No,None,7-9 hrs,None,High,Medium,Poor,Improve symptoms,No,Own vehicle,0
+Patient_0035,78,Male,Hispanic,PhD,Unemployed,Cancer,Food,Anxiety,None,Good,No,Occasional,>9 hrs,Light,High,High,Poor,Improve symptoms,No,Own vehicle,0
+Patient_0036,61,Female,Hispanic,PhD,Student,Diabetes,Dust,Anxiety,Aspirin,Average,Yes,Occasional,>9 hrs,Intense,Moderate,Low,Poor,Trust in doctor,No,Public transport,0
+Patient_0037,42,Male,Black,PhD,Unemployed,Diabetes,Food,Anxiety,Lisinopril,Poor,No,Occasional,7-9 hrs,None,Low,High,Average,Hope for cure,No,Public transport,0
+Patient_0038,66,Female,Hispanic,Master,Student,Cardiac issues,Pollen,None,Lisinopril,Average,No,Regular,7-9 hrs,Intense,Moderate,High,Good,No expectations,No,Public transport,0
+Patient_0039,44,Male,Asian,None,Employed,Diabetes,Penicillin,Depression,Lisinopril,Good,Yes,Regular,<5 hrs,Intense,High,Low,Good,Improve symptoms,Yes,No access,1
+Patient_0040,76,Other,White,PhD,Retired,Asthma,None,Depression,Lisinopril,Poor,Yes,None,5-7 hrs,Light,High,High,Average,Hope for cure,Yes,Own vehicle,0
+Patient_0041,59,Male,Hispanic,High School,Retired,Diabetes,Food,None,Insulin,Poor,No,Occasional,5-7 hrs,Moderate,Moderate,High,Good,No expectations,No,No access,1
+Patient_0042,45,Male,White,PhD,Employed,Asthma,Pollen,Anxiety,None,Average,Yes,Regular,>9 hrs,Moderate,Moderate,High,Poor,Trust in doctor,No,No access,0
+Patient_0043,77,Female,Black,Master,Unemployed,Cancer,None,Anxiety,Lisinopril,Average,Yes,None,7-9 hrs,None,Moderate,Medium,Poor,Improve symptoms,No,Own vehicle,0
+Patient_0044,33,Male,White,High School,Unemployed,Asthma,None,Depression,Metformin,Good,No,None,<5 hrs,None,Moderate,Medium,Poor,Trust in doctor,Yes,No access,1
+Patient_0045,32,Male,Black,Master,Unemployed,Cancer,Dust,None,Lisinopril,Poor,No,None,>9 hrs,None,Moderate,High,Average,Trust in doctor,No,Own vehicle,0
+Patient_0046,79,Female,Asian,High School,Employed,Cancer,None,Anxiety,None,Good,No,None,<5 hrs,Light,High,Low,Poor,Trust in doctor,Yes,Own vehicle,1
+Patient_0047,79,Other,Black,Bachelor,Unemployed,Asthma,Pollen,Anxiety,Lisinopril,Average,Yes,None,7-9 hrs,Moderate,Moderate,High,Poor,No expectations,Yes,Own vehicle,1
+Patient_0048,64,Other,Black,None,Employed,Hypertension,Pollen,Anxiety,Insulin,Poor,Yes,Occasional,7-9 hrs,None,Low,High,Average,Trust in doctor,No,Own vehicle,0
+Patient_0049,79,Female,Other,None,Student,None,Food,Obesity,Aspirin,Good,Yes,None,7-9 hrs,None,High,Medium,Poor,No expectations,Yes,No access,0
+Patient_0050,68,Female,Hispanic,Master,Student,Diabetes,Food,None,Aspirin,Good,No,Occasional,5-7 hrs,Intense,High,Medium,Poor,No expectations,No,No access,0
+Patient_0051,61,Female,Hispanic,None,Employed,Cardiac issues,Food,Anxiety,None,Good,Yes,Regular,7-9 hrs,Intense,Low,Medium,Good,Trust in doctor,Yes,No access,1
+Patient_0052,72,Female,Asian,Master,Retired,None,None,Obesity,Aspirin,Good,Yes,None,>9 hrs,None,Low,High,Average,Trust in doctor,No,Public transport,1
+Patient_0053,69,Female,Asian,Master,Student,Diabetes,None,None,Aspirin,Good,No,Regular,5-7 hrs,Intense,High,High,Poor,Hope for cure,No,No access,0
+Patient_0054,74,Other,Hispanic,Master,Unemployed,Diabetes,Dust,Anxiety,Metformin,Poor,No,Occasional,<5 hrs,Intense,Moderate,Low,Poor,Improve symptoms,Yes,No access,0
+Patient_0055,20,Other,Other,None,Employed,Cancer,Food,Depression,None,Good,No,Occasional,>9 hrs,Intense,High,High,Poor,Hope for cure,Yes,Public transport,0
+Patient_0056,54,Female,Hispanic,Master,Unemployed,Diabetes,Penicillin,Obesity,None,Poor,Yes,Regular,>9 hrs,Light,High,High,Poor,Improve symptoms,Yes,Own vehicle,0
+Patient_0057,68,Male,Other,None,Unemployed,Cardiac issues,Dust,Obesity,Aspirin,Good,No,None,<5 hrs,None,Low,Medium,Good,Improve symptoms,No,Own vehicle,0
+Patient_0058,24,Female,Asian,Master,Retired,Diabetes,Penicillin,Anxiety,Aspirin,Average,Yes,None,5-7 hrs,None,High,Medium,Good,Hope for cure,Yes,Own vehicle,0
+Patient_0059,38,Male,White,PhD,Unemployed,Asthma,None,Anxiety,Aspirin,Average,Yes,Regular,>9 hrs,Intense,Moderate,Medium,Good,Hope for cure,Yes,Public transport,0
+Patient_0060,26,Female,Asian,Master,Retired,None,Dust,Obesity,Insulin,Good,No,Regular,>9 hrs,Light,Low,Medium,Good,Improve symptoms,No,No access,0
+Patient_0061,56,Female,Asian,High School,Student,Asthma,Dust,Depression,Lisinopril,Average,No,Regular,>9 hrs,Intense,High,Medium,Average,Improve symptoms,No,No access,1
+Patient_0062,35,Other,Black,Master,Employed,Cardiac issues,Pollen,Depression,Insulin,Poor,No,None,5-7 hrs,Light,High,Low,Poor,Improve symptoms,Yes,No access,1
+Patient_0063,21,Male,Black,Bachelor,Unemployed,Diabetes,None,None,None,Good,No,None,5-7 hrs,None,Moderate,Low,Good,No expectations,Yes,No access,1
+Patient_0064,42,Male,Black,Master,Employed,Cardiac issues,None,Anxiety,Metformin,Poor,No,None,5-7 hrs,Intense,High,Low,Poor,Improve symptoms,Yes,Public transport,1
+Patient_0065,77,Other,Black,High School,Unemployed,Cancer,Dust,Depression,Lisinopril,Good,Yes,Regular,>9 hrs,None,High,Medium,Average,Trust in doctor,No,No access,0
+Patient_0066,31,Other,Other,High School,Employed,Asthma,None,None,Metformin,Average,Yes,None,7-9 hrs,Light,High,Medium,Poor,Trust in doctor,No,Own vehicle,0
+Patient_0067,67,Other,Hispanic,None,Unemployed,Asthma,Dust,Depression,None,Poor,Yes,Occasional,<5 hrs,Moderate,High,Medium,Poor,Trust in doctor,Yes,Public transport,0
+Patient_0068,75,Other,White,PhD,Unemployed,Hypertension,Pollen,Anxiety,None,Average,No,Regular,7-9 hrs,Light,Moderate,Low,Good,Hope for cure,No,Public transport,1
+Patient_0069,26,Male,Asian,Master,Unemployed,Diabetes,Dust,None,Metformin,Average,Yes,None,5-7 hrs,Moderate,High,Medium,Good,Hope for cure,Yes,Own vehicle,1
+Patient_0070,43,Male,Other,None,Unemployed,Cancer,None,None,Metformin,Good,No,Regular,>9 hrs,None,High,Low,Average,Hope for cure,Yes,Own vehicle,1
+Patient_0071,70,Female,White,PhD,Unemployed,Asthma,None,None,Metformin,Poor,No,Occasional,>9 hrs,None,High,Medium,Poor,Improve symptoms,No,No access,1
+Patient_0072,19,Female,Other,Master,Unemployed,Asthma,Dust,Depression,None,Average,Yes,Occasional,7-9 hrs,Intense,Low,High,Good,Trust in doctor,Yes,Own vehicle,0
+Patient_0073,37,Other,Other,Bachelor,Unemployed,Cancer,Dust,Anxiety,Aspirin,Good,Yes,Regular,7-9 hrs,Moderate,Moderate,Low,Good,Improve symptoms,Yes,Public transport,0
+Patient_0074,45,Other,Asian,Master,Unemployed,Cardiac issues,Dust,None,Metformin,Good,No,Regular,<5 hrs,Light,Low,High,Good,No expectations,No,Public transport,0
+Patient_0075,64,Other,Hispanic,High School,Unemployed,Cardiac issues,Food,Obesity,Lisinopril,Good,Yes,Occasional,>9 hrs,None,Low,Low,Average,No expectations,Yes,Public transport,0
+Patient_0076,77,Female,Black,High School,Employed,Diabetes,None,Anxiety,None,Average,No,Regular,7-9 hrs,Moderate,Moderate,Medium,Poor,Hope for cure,Yes,No access,0
+Patient_0077,24,Female,Hispanic,Bachelor,Retired,Hypertension,None,Obesity,Insulin,Good,Yes,Occasional,<5 hrs,Light,Low,Medium,Good,No expectations,No,No access,0
+Patient_0078,61,Female,Asian,None,Unemployed,Asthma,Food,Obesity,Insulin,Poor,Yes,Occasional,5-7 hrs,Moderate,Low,High,Poor,Trust in doctor,Yes,Own vehicle,0
+Patient_0079,78,Female,Asian,PhD,Retired,Hypertension,Dust,None,Lisinopril,Poor,Yes,None,7-9 hrs,Light,Low,Medium,Average,No expectations,Yes,No access,0
+Patient_0080,25,Female,Asian,Master,Unemployed,Cardiac issues,Pollen,None,Aspirin,Average,Yes,Regular,5-7 hrs,Light,Moderate,Low,Poor,Hope for cure,No,No access,0
+Patient_0081,64,Female,White,High School,Unemployed,Cardiac issues,Dust,Depression,Metformin,Poor,Yes,Regular,<5 hrs,Light,High,Medium,Good,Improve symptoms,No,Public transport,0
+Patient_0082,52,Female,Hispanic,None,Employed,None,Dust,Depression,None,Good,No,None,5-7 hrs,Light,Moderate,Medium,Poor,No expectations,No,Public transport,0
+Patient_0083,31,Other,Hispanic,Bachelor,Student,Diabetes,Food,Depression,Metformin,Average,Yes,Occasional,>9 hrs,Moderate,Moderate,Low,Poor,Trust in doctor,Yes,Own vehicle,0
+Patient_0084,34,Other,Other,High School,Student,None,None,Anxiety,None,Good,Yes,Regular,>9 hrs,Moderate,Moderate,High,Average,Trust in doctor,No,Public transport,0
+Patient_0085,53,Other,Other,Bachelor,Employed,None,Dust,Depression,Insulin,Average,Yes,None,5-7 hrs,Intense,Low,High,Average,Trust in doctor,Yes,No access,1
+Patient_0086,67,Other,Other,Master,Retired,None,None,Obesity,Metformin,Average,No,None,>9 hrs,Moderate,High,Medium,Poor,Improve symptoms,No,Own vehicle,0
+Patient_0087,57,Female,Asian,PhD,Student,Diabetes,Penicillin,Depression,Lisinopril,Good,No,Regular,<5 hrs,Moderate,Moderate,Low,Poor,Trust in doctor,Yes,Own vehicle,0
+Patient_0088,21,Male,Hispanic,High School,Employed,Diabetes,None,None,Aspirin,Poor,No,None,>9 hrs,Intense,Moderate,High,Poor,Hope for cure,Yes,Public transport,1
+Patient_0089,19,Female,Asian,High School,Employed,Cancer,Pollen,Depression,Lisinopril,Poor,No,Occasional,5-7 hrs,Moderate,High,High,Average,Hope for cure,No,Public transport,1
+Patient_0090,79,Male,White,Master,Student,Hypertension,Pollen,Anxiety,Aspirin,Average,No,None,5-7 hrs,Light,High,Medium,Average,Trust in doctor,Yes,Public transport,1
+Patient_0091,23,Other,Other,None,Retired,Hypertension,Dust,Anxiety,Metformin,Good,Yes,Occasional,5-7 hrs,None,High,Low,Poor,No expectations,Yes,Own vehicle,0
+Patient_0092,71,Female,Asian,PhD,Employed,Cancer,None,Obesity,Metformin,Good,Yes,Occasional,7-9 hrs,None,Low,High,Average,Trust in doctor,No,Public transport,0
+Patient_0093,59,Other,Asian,High School,Unemployed,Cancer,Dust,Anxiety,Aspirin,Average,Yes,Regular,5-7 hrs,Intense,High,Medium,Good,Hope for cure,Yes,No access,0
+Patient_0094,21,Female,White,PhD,Retired,Cardiac issues,Food,Depression,Insulin,Poor,No,None,<5 hrs,Moderate,Low,Medium,Average,Hope for cure,Yes,Own vehicle,0
+Patient_0095,71,Other,Black,High School,Retired,None,Pollen,None,None,Good,No,Occasional,>9 hrs,Moderate,Moderate,Medium,Average,Hope for cure,Yes,Public transport,1
+Patient_0096,46,Male,Hispanic,PhD,Student,Cancer,Dust,Anxiety,Lisinopril,Poor,Yes,Occasional,>9 hrs,Intense,Low,Medium,Average,No expectations,No,No access,0
+Patient_0097,35,Male,Black,Bachelor,Student,Asthma,Food,Obesity,Lisinopril,Poor,No,None,7-9 hrs,None,High,High,Good,No expectations,No,No access,0
+Patient_0098,43,Male,Other,High School,Unemployed,Hypertension,Dust,Depression,Lisinopril,Average,No,Occasional,7-9 hrs,Light,Low,Low,Good,No expectations,No,Public transport,0
+Patient_0099,61,Female,Asian,PhD,Employed,Cancer,None,Obesity,Metformin,Average,No,None,<5 hrs,Moderate,High,Medium,Good,Hope for cure,No,No access,0
+Patient_0100,51,Male,White,None,Student,Asthma,None,Anxiety,Lisinopril,Poor,Yes,Regular,5-7 hrs,Intense,Low,Medium,Poor,Improve symptoms,No,Own vehicle,0
+Patient_0101,27,Female,White,Bachelor,Student,Asthma,None,Anxiety,None,Good,Yes,Occasional,7-9 hrs,Light,Moderate,High,Poor,Trust in doctor,No,Own vehicle,1
+Patient_0102,79,Male,Hispanic,Bachelor,Retired,Asthma,None,Obesity,None,Good,No,Occasional,>9 hrs,Intense,Low,Medium,Good,Trust in doctor,No,No access,1
+Patient_0103,53,Male,Black,None,Student,Cardiac issues,Penicillin,Depression,Aspirin,Average,No,None,7-9 hrs,Intense,Moderate,Medium,Poor,Hope for cure,No,Own vehicle,1
+Patient_0104,31,Female,Hispanic,PhD,Student,Cardiac issues,Food,Anxiety,Metformin,Poor,No,None,7-9 hrs,Intense,High,Low,Poor,No expectations,Yes,Public transport,0
+Patient_0105,48,Female,Asian,Master,Student,Asthma,Food,None,None,Good,No,None,5-7 hrs,None,Moderate,Medium,Poor,Improve symptoms,Yes,No access,0
+Patient_0106,65,Male,Hispanic,None,Student,Cardiac issues,None,Anxiety,Insulin,Good,Yes,None,7-9 hrs,None,High,High,Good,Improve symptoms,Yes,Own vehicle,0
+Patient_0107,32,Female,White,PhD,Retired,None,Penicillin,Depression,Metformin,Average,No,Occasional,<5 hrs,Intense,High,Low,Average,No expectations,Yes,Public transport,0
+Patient_0108,25,Male,White,None,Unemployed,Asthma,None,Anxiety,Metformin,Poor,Yes,Regular,>9 hrs,Moderate,Moderate,High,Good,Trust in doctor,No,Public transport,1
+Patient_0109,31,Female,Other,None,Unemployed,None,Penicillin,Obesity,None,Good,Yes,Regular,5-7 hrs,Light,Moderate,Low,Good,Trust in doctor,Yes,Own vehicle,0
+Patient_0110,40,Other,Other,High School,Employed,None,None,Anxiety,Insulin,Average,Yes,Regular,>9 hrs,Moderate,Low,Low,Poor,Improve symptoms,Yes,No access,1
+Patient_0111,77,Other,Asian,PhD,Student,Asthma,Pollen,Anxiety,Aspirin,Good,No,Regular,<5 hrs,None,Low,Medium,Poor,Improve symptoms,Yes,Public transport,0
+Patient_0112,74,Other,Black,Master,Retired,Hypertension,Pollen,Depression,None,Good,Yes,None,<5 hrs,Light,Moderate,Medium,Average,No expectations,Yes,Public transport,0
+Patient_0113,79,Other,Hispanic,High School,Employed,Asthma,Dust,Obesity,Insulin,Good,Yes,Occasional,7-9 hrs,Intense,Moderate,Medium,Average,Trust in doctor,Yes,Public transport,0
+Patient_0114,57,Other,Asian,None,Employed,Asthma,None,Depression,Metformin,Average,No,Occasional,7-9 hrs,Moderate,Moderate,High,Average,Improve symptoms,No,Public transport,0
+Patient_0115,38,Male,Other,None,Unemployed,Cardiac issues,Food,Anxiety,Insulin,Poor,No,Occasional,7-9 hrs,Moderate,Moderate,Medium,Average,Trust in doctor,No,No access,1
+Patient_0116,33,Other,Hispanic,None,Retired,Asthma,Dust,None,Metformin,Average,No,None,>9 hrs,Intense,High,Medium,Good,Improve symptoms,Yes,Own vehicle,0
+Patient_0117,62,Other,Other,PhD,Retired,Hypertension,Pollen,Anxiety,None,Poor,Yes,Occasional,<5 hrs,Moderate,Moderate,Low,Average,No expectations,Yes,Own vehicle,1
+Patient_0118,35,Other,Hispanic,PhD,Retired,Cardiac issues,None,Depression,None,Good,No,None,5-7 hrs,None,Moderate,Medium,Good,Trust in doctor,Yes,Own vehicle,1
+Patient_0119,64,Other,Black,High School,Unemployed,Diabetes,Dust,None,Lisinopril,Poor,Yes,Occasional,7-9 hrs,Intense,Moderate,Medium,Poor,Improve symptoms,Yes,Public transport,0
+Patient_0120,70,Female,Asian,Master,Unemployed,Diabetes,None,Depression,Lisinopril,Good,Yes,Regular,>9 hrs,Moderate,Moderate,Medium,Average,Improve symptoms,No,No access,1
+Patient_0121,41,Male,Hispanic,High School,Unemployed,None,Pollen,Depression,Lisinopril,Good,No,None,7-9 hrs,Intense,High,Medium,Poor,Improve symptoms,Yes,Own vehicle,0
+Patient_0122,43,Other,White,Bachelor,Unemployed,None,Dust,Obesity,None,Average,Yes,Occasional,<5 hrs,Light,Low,Low,Poor,Improve symptoms,No,No access,0
+Patient_0123,42,Other,White,None,Unemployed,Hypertension,Pollen,None,Aspirin,Good,Yes,Regular,5-7 hrs,Intense,Low,Medium,Good,No expectations,Yes,Own vehicle,1
+Patient_0124,77,Other,Hispanic,None,Student,Cancer,Penicillin,Anxiety,None,Average,Yes,Regular,<5 hrs,Moderate,Low,Low,Average,Trust in doctor,No,Public transport,1
+Patient_0125,77,Male,Hispanic,None,Student,Diabetes,Pollen,Depression,Insulin,Poor,Yes,Regular,>9 hrs,None,Low,High,Good,Trust in doctor,No,Own vehicle,0
+Patient_0126,77,Female,Hispanic,High School,Retired,None,None,Anxiety,None,Poor,No,None,7-9 hrs,Intense,Low,Medium,Poor,Hope for cure,No,Public transport,0
+Patient_0127,62,Male,White,High School,Employed,Diabetes,Food,Obesity,None,Good,Yes,None,<5 hrs,Intense,High,Medium,Average,Trust in doctor,Yes,Public transport,0
+Patient_0128,58,Female,White,None,Retired,Hypertension,Pollen,Obesity,Metformin,Average,No,Occasional,>9 hrs,Moderate,Low,Medium,Poor,Hope for cure,Yes,Own vehicle,0
+Patient_0129,46,Other,Hispanic,High School,Employed,Hypertension,Food,None,Metformin,Good,Yes,Regular,7-9 hrs,None,High,Low,Poor,Improve symptoms,No,No access,0
+Patient_0130,32,Other,Other,PhD,Unemployed,Cancer,Penicillin,Obesity,Metformin,Average,Yes,Occasional,5-7 hrs,None,High,Medium,Average,No expectations,Yes,Public transport,1
+Patient_0131,62,Male,Other,PhD,Employed,Cancer,Dust,Obesity,None,Average,No,Occasional,<5 hrs,Light,Low,Medium,Average,No expectations,Yes,No access,0
+Patient_0132,18,Male,Black,High School,Retired,Cardiac issues,Dust,Anxiety,Aspirin,Average,Yes,Regular,7-9 hrs,Light,Low,High,Average,Improve symptoms,No,Own vehicle,0
+Patient_0133,42,Female,Asian,None,Retired,Hypertension,Food,Obesity,Insulin,Poor,Yes,Occasional,7-9 hrs,Moderate,Low,Low,Good,Hope for cure,Yes,Public transport,0
+Patient_0134,24,Female,Other,High School,Employed,None,Dust,Obesity,Insulin,Average,Yes,None,7-9 hrs,None,Moderate,Low,Good,Improve symptoms,No,No access,0
+Patient_0135,26,Male,White,High School,Student,Diabetes,Pollen,Depression,Aspirin,Poor,Yes,Occasional,7-9 hrs,None,High,High,Poor,No expectations,Yes,Public transport,0
+Patient_0136,41,Female,Other,High School,Unemployed,Asthma,Food,Obesity,Aspirin,Average,Yes,Regular,<5 hrs,Light,Low,Low,Average,No expectations,Yes,Own vehicle,0
+Patient_0137,18,Male,Black,Bachelor,Unemployed,Cancer,None,Depression,Insulin,Poor,Yes,None,7-9 hrs,Light,Moderate,Medium,Poor,Trust in doctor,No,Public transport,1
+Patient_0138,61,Female,Black,PhD,Retired,Asthma,Pollen,Obesity,Lisinopril,Poor,No,None,>9 hrs,Moderate,High,Medium,Poor,Hope for cure,No,Own vehicle,0
+Patient_0139,25,Male,Asian,Master,Student,None,Pollen,Obesity,Metformin,Poor,No,Occasional,<5 hrs,None,Moderate,High,Poor,Trust in doctor,No,No access,0
+Patient_0140,41,Male,Other,Master,Employed,Cancer,Pollen,None,Metformin,Good,No,Occasional,7-9 hrs,Intense,Moderate,Low,Poor,No expectations,No,Public transport,1
+Patient_0141,28,Male,White,Bachelor,Unemployed,Asthma,None,None,Insulin,Average,Yes,None,<5 hrs,Light,Low,Low,Poor,No expectations,Yes,No access,0
+Patient_0142,68,Female,White,High School,Student,None,Penicillin,Depression,Aspirin,Good,Yes,Occasional,>9 hrs,Moderate,High,Low,Average,Trust in doctor,Yes,Own vehicle,0
+Patient_0143,34,Female,Hispanic,Bachelor,Unemployed,Diabetes,Dust,Obesity,Lisinopril,Average,Yes,Regular,>9 hrs,None,Moderate,High,Good,Trust in doctor,Yes,Own vehicle,0
+Patient_0144,25,Female,White,Bachelor,Student,None,Food,Anxiety,Insulin,Average,No,Occasional,<5 hrs,None,High,Medium,Average,No expectations,No,No access,0
+Patient_0145,52,Male,Asian,None,Student,Cardiac issues,Penicillin,None,Metformin,Good,Yes,Occasional,7-9 hrs,Light,Low,High,Average,Trust in doctor,Yes,No access,0
+Patient_0146,52,Female,Asian,PhD,Retired,Cancer,Food,Anxiety,None,Poor,No,None,7-9 hrs,Moderate,High,Medium,Average,Trust in doctor,Yes,Own vehicle,0
+Patient_0147,50,Female,White,Master,Unemployed,Hypertension,Dust,None,Aspirin,Average,Yes,Occasional,>9 hrs,Intense,Moderate,High,Good,Hope for cure,Yes,No access,1
+Patient_0148,76,Male,White,High School,Employed,Diabetes,None,None,None,Poor,Yes,Occasional,7-9 hrs,Light,Moderate,Medium,Good,No expectations,No,Own vehicle,1
+Patient_0149,22,Other,Hispanic,Master,Retired,Asthma,Pollen,Obesity,Insulin,Good,Yes,Occasional,>9 hrs,Moderate,High,Low,Good,Improve symptoms,No,No access,0
+Patient_0150,59,Male,White,Master,Retired,Cancer,Pollen,None,Metformin,Poor,No,Regular,7-9 hrs,None,Moderate,Low,Average,Hope for cure,Yes,Own vehicle,0
+Patient_0151,56,Female,Hispanic,PhD,Employed,Hypertension,None,Anxiety,Lisinopril,Average,Yes,Occasional,>9 hrs,Intense,Moderate,Low,Good,Improve symptoms,Yes,Own vehicle,0
+Patient_0152,75,Male,Hispanic,Master,Retired,None,Penicillin,None,None,Average,No,Regular,5-7 hrs,Moderate,Moderate,High,Poor,Trust in doctor,No,Public transport,0
+Patient_0153,58,Other,White,Master,Student,Hypertension,Penicillin,Depression,Lisinopril,Average,Yes,Regular,7-9 hrs,Intense,Low,High,Good,Trust in doctor,No,Own vehicle,0
+Patient_0154,45,Male,Black,Bachelor,Student,Cancer,Food,Obesity,Metformin,Good,Yes,Regular,7-9 hrs,Moderate,Low,High,Average,Improve symptoms,No,Own vehicle,0
+Patient_0155,24,Female,Black,PhD,Unemployed,Cancer,None,Obesity,None,Average,No,Regular,7-9 hrs,Moderate,Moderate,Low,Average,Trust in doctor,No,Public transport,0
+Patient_0156,26,Other,Hispanic,None,Unemployed,Cardiac issues,Penicillin,Depression,Lisinopril,Good,Yes,None,<5 hrs,Moderate,High,Medium,Poor,Trust in doctor,Yes,Public transport,1
+Patient_0157,25,Female,White,High School,Employed,Cardiac issues,None,Depression,Lisinopril,Poor,Yes,Regular,7-9 hrs,Moderate,Low,Low,Good,Hope for cure,No,No access,0
+Patient_0158,29,Other,Black,Master,Unemployed,Hypertension,Dust,Depression,None,Average,Yes,Occasional,<5 hrs,Intense,High,Low,Good,Improve symptoms,Yes,No access,1
+Patient_0159,51,Other,White,High School,Student,None,Pollen,None,Metformin,Average,Yes,Regular,<5 hrs,Light,Moderate,Medium,Poor,Hope for cure,No,Own vehicle,1
+Patient_0160,50,Male,White,None,Employed,Hypertension,Pollen,Obesity,Lisinopril,Average,No,Occasional,>9 hrs,Intense,Moderate,Medium,Average,Improve symptoms,Yes,No access,0
+Patient_0161,65,Male,White,High School,Employed,Cancer,Pollen,Depression,Insulin,Poor,No,Regular,<5 hrs,Moderate,High,Medium,Average,Hope for cure,Yes,No access,1
+Patient_0162,72,Female,Other,None,Unemployed,Cancer,None,None,None,Average,Yes,None,<5 hrs,Intense,Low,Medium,Good,No expectations,No,Own vehicle,1
+Patient_0163,40,Male,White,Bachelor,Student,Asthma,None,Depression,Aspirin,Good,Yes,Regular,5-7 hrs,Intense,High,Low,Good,No expectations,Yes,Public transport,0
+Patient_0164,79,Male,Other,Master,Employed,Cardiac issues,Food,Anxiety,Aspirin,Poor,No,Regular,7-9 hrs,Intense,High,High,Good,Improve symptoms,Yes,Public transport,0
+Patient_0165,41,Other,Hispanic,None,Student,Asthma,Pollen,Anxiety,Metformin,Poor,Yes,None,<5 hrs,Moderate,Moderate,Low,Good,No expectations,Yes,Own vehicle,0
+Patient_0166,54,Male,Black,High School,Student,Diabetes,Food,Obesity,Insulin,Poor,No,Regular,7-9 hrs,Intense,Low,Medium,Good,Hope for cure,No,Own vehicle,1
+Patient_0167,52,Other,Black,Master,Student,Cancer,Pollen,None,Lisinopril,Poor,Yes,Occasional,<5 hrs,None,High,High,Average,Improve symptoms,No,Own vehicle,0
+Patient_0168,61,Other,Black,Bachelor,Unemployed,Asthma,Food,Anxiety,Aspirin,Poor,No,Regular,>9 hrs,Moderate,Low,High,Average,No expectations,No,Own vehicle,0
+Patient_0169,57,Other,Black,Master,Retired,Hypertension,Food,Anxiety,Metformin,Good,No,Regular,5-7 hrs,Intense,Moderate,Low,Average,No expectations,Yes,Own vehicle,0
+Patient_0170,39,Female,Black,None,Retired,Cardiac issues,Dust,None,Insulin,Poor,No,Regular,<5 hrs,None,Low,Low,Average,Improve symptoms,Yes,Own vehicle,0
+Patient_0171,44,Female,Black,Bachelor,Employed,Cardiac issues,Food,Depression,Insulin,Average,No,None,7-9 hrs,Intense,Moderate,Low,Poor,No expectations,Yes,No access,0
+Patient_0172,52,Female,Black,High School,Student,None,None,None,Metformin,Poor,Yes,Regular,>9 hrs,Light,Low,High,Average,No expectations,Yes,No access,1
+Patient_0173,18,Other,Hispanic,Bachelor,Unemployed,Hypertension,Food,Depression,Metformin,Poor,Yes,Regular,7-9 hrs,Intense,High,High,Poor,Improve symptoms,No,No access,0
+Patient_0174,52,Female,White,Bachelor,Student,None,Pollen,Anxiety,Lisinopril,Poor,No,Occasional,>9 hrs,Intense,Moderate,High,Average,No expectations,Yes,Public transport,1
+Patient_0175,54,Female,Asian,PhD,Student,Asthma,Food,Anxiety,Metformin,Poor,No,Regular,5-7 hrs,Light,High,Medium,Good,No expectations,Yes,Own vehicle,1
+Patient_0176,64,Male,Other,Bachelor,Unemployed,Diabetes,Penicillin,Anxiety,Lisinopril,Poor,No,Regular,>9 hrs,Moderate,Moderate,Medium,Good,No expectations,Yes,Own vehicle,0
+Patient_0177,31,Female,Asian,Bachelor,Retired,Hypertension,Pollen,Obesity,Lisinopril,Good,No,Regular,7-9 hrs,Light,Low,Low,Good,No expectations,No,No access,0
+Patient_0178,20,Female,Asian,Master,Student,Hypertension,Penicillin,Obesity,None,Good,Yes,Regular,7-9 hrs,Moderate,Low,High,Poor,Trust in doctor,Yes,Public transport,1
+Patient_0179,18,Other,White,High School,Student,Hypertension,Pollen,Obesity,Insulin,Poor,No,Occasional,<5 hrs,Light,Moderate,Low,Average,Improve symptoms,No,No access,1
+Patient_0180,22,Other,White,Master,Retired,None,None,None,Insulin,Good,No,Occasional,>9 hrs,Intense,Moderate,High,Average,Trust in doctor,No,Own vehicle,0
+Patient_0181,43,Other,White,Master,Unemployed,Asthma,None,Anxiety,Insulin,Average,No,None,7-9 hrs,Intense,Moderate,Low,Poor,Trust in doctor,Yes,Own vehicle,0
+Patient_0182,72,Other,Black,None,Employed,Hypertension,None,Anxiety,None,Poor,No,Regular,<5 hrs,Moderate,Low,Medium,Poor,Hope for cure,Yes,No access,0
+Patient_0183,31,Other,Hispanic,Master,Retired,Hypertension,Penicillin,None,Lisinopril,Average,No,None,5-7 hrs,Moderate,Moderate,High,Poor,Trust in doctor,Yes,No access,1
+Patient_0184,56,Other,Black,PhD,Employed,Cardiac issues,Dust,Obesity,Lisinopril,Average,No,None,7-9 hrs,None,Moderate,Medium,Poor,Trust in doctor,Yes,Own vehicle,1
+Patient_0185,44,Female,Hispanic,PhD,Employed,Diabetes,Pollen,None,Metformin,Poor,No,Regular,<5 hrs,None,High,High,Poor,Hope for cure,No,No access,0
+Patient_0186,26,Other,Hispanic,None,Retired,Cardiac issues,None,Obesity,None,Average,Yes,Occasional,7-9 hrs,Intense,Moderate,Low,Good,No expectations,No,Own vehicle,1
+Patient_0187,32,Other,Asian,High School,Student,Cardiac issues,Pollen,Anxiety,Metformin,Average,No,Occasional,>9 hrs,Intense,High,High,Average,No expectations,No,No access,0
+Patient_0188,32,Male,Asian,High School,Employed,Diabetes,Penicillin,Depression,None,Average,No,Regular,<5 hrs,None,High,Medium,Poor,Trust in doctor,No,Public transport,1
+Patient_0189,43,Female,Hispanic,Master,Employed,Asthma,Dust,Obesity,Metformin,Poor,No,Regular,>9 hrs,None,High,High,Good,Hope for cure,No,Own vehicle,0
+Patient_0190,59,Female,Hispanic,Master,Unemployed,Cardiac issues,Penicillin,Anxiety,Aspirin,Poor,Yes,Occasional,5-7 hrs,Moderate,Low,Low,Poor,No expectations,No,Public transport,0
+Patient_0191,77,Female,Black,Master,Student,Asthma,Pollen,Anxiety,Insulin,Average,Yes,Regular,>9 hrs,Light,High,High,Good,Hope for cure,No,No access,0
+Patient_0192,30,Other,Black,High School,Employed,Cardiac issues,Dust,Depression,Insulin,Poor,Yes,Regular,<5 hrs,Moderate,Moderate,Medium,Poor,Improve symptoms,No,Public transport,0
+Patient_0193,68,Other,Asian,Bachelor,Unemployed,Cancer,Dust,Anxiety,Lisinopril,Poor,No,Regular,7-9 hrs,None,Low,Low,Average,Improve symptoms,No,No access,0
+Patient_0194,49,Other,White,PhD,Student,Diabetes,Penicillin,Anxiety,Aspirin,Average,No,Occasional,<5 hrs,Intense,Low,Medium,Poor,Improve symptoms,No,Public transport,0
+Patient_0195,56,Male,Hispanic,Bachelor,Retired,Cardiac issues,None,Obesity,Insulin,Poor,No,None,>9 hrs,None,Low,High,Poor,Improve symptoms,Yes,Public transport,0
+Patient_0196,66,Other,Black,Bachelor,Retired,Cancer,Pollen,Obesity,Lisinopril,Good,Yes,None,>9 hrs,Intense,Low,Medium,Average,Trust in doctor,Yes,Public transport,0
+Patient_0197,69,Male,Asian,High School,Unemployed,None,Food,Depression,Aspirin,Poor,No,Regular,7-9 hrs,Intense,Low,High,Average,Improve symptoms,Yes,Own vehicle,0
+Patient_0198,78,Female,Black,Bachelor,Retired,Cancer,Food,Depression,Insulin,Good,Yes,Occasional,5-7 hrs,Intense,Low,Low,Poor,Improve symptoms,No,Public transport,1
+Patient_0199,49,Other,Hispanic,None,Employed,Hypertension,Penicillin,Anxiety,Metformin,Average,Yes,Regular,<5 hrs,Intense,Low,Medium,Average,Hope for cure,Yes,No access,1
+Patient_0200,21,Male,Hispanic,Master,Student,Cardiac issues,Pollen,Obesity,None,Poor,Yes,Occasional,7-9 hrs,Light,High,Medium,Average,No expectations,No,No access,0
+Patient_0201,47,Male,Other,None,Employed,Cancer,Pollen,Depression,Aspirin,Average,Yes,Regular,7-9 hrs,None,Moderate,High,Good,Hope for cure,No,Own vehicle,0
+Patient_0202,54,Other,White,PhD,Employed,Asthma,Penicillin,Depression,Lisinopril,Average,Yes,Occasional,7-9 hrs,Moderate,Moderate,Medium,Average,Trust in doctor,Yes,Own vehicle,0
+Patient_0203,40,Female,Other,Master,Retired,None,Pollen,None,Aspirin,Average,No,Occasional,<5 hrs,Intense,High,Medium,Average,Improve symptoms,No,No access,1
+Patient_0204,56,Female,Asian,Bachelor,Employed,Cardiac issues,None,Depression,Lisinopril,Average,No,None,<5 hrs,Intense,High,Low,Poor,No expectations,Yes,Public transport,1
+Patient_0205,62,Female,Black,PhD,Retired,Hypertension,Penicillin,Anxiety,Aspirin,Average,Yes,Regular,<5 hrs,Moderate,Low,High,Poor,No expectations,No,No access,0
+Patient_0206,32,Male,Asian,Master,Student,Cancer,None,Obesity,Lisinopril,Poor,No,None,5-7 hrs,Moderate,Low,High,Good,Improve symptoms,No,Own vehicle,1
+Patient_0207,60,Male,Hispanic,Bachelor,Student,None,Pollen,Depression,Insulin,Good,No,None,7-9 hrs,Intense,High,Low,Poor,Improve symptoms,Yes,Own vehicle,1
+Patient_0208,46,Male,Other,None,Employed,Cardiac issues,Penicillin,None,Metformin,Poor,Yes,Occasional,>9 hrs,Moderate,Low,Low,Average,Trust in doctor,Yes,No access,1
+Patient_0209,53,Male,Other,Master,Unemployed,None,Pollen,Obesity,Insulin,Poor,Yes,Regular,>9 hrs,Moderate,Moderate,High,Average,Trust in doctor,Yes,Public transport,0
+Patient_0210,30,Female,Other,Bachelor,Retired,Hypertension,Penicillin,Depression,Metformin,Poor,No,Occasional,7-9 hrs,Light,Moderate,Low,Average,Improve symptoms,Yes,Public transport,0
+Patient_0211,49,Other,Asian,None,Retired,Cancer,Pollen,None,Insulin,Poor,No,Occasional,>9 hrs,Moderate,Low,Low,Poor,Improve symptoms,Yes,Own vehicle,0
+Patient_0212,24,Male,Hispanic,PhD,Employed,None,None,Depression,Insulin,Good,No,Occasional,5-7 hrs,None,Low,Low,Average,Improve symptoms,Yes,No access,0
+Patient_0213,76,Male,Black,PhD,Retired,None,None,Obesity,Aspirin,Poor,No,Regular,5-7 hrs,None,Low,High,Average,Improve symptoms,No,No access,0
+Patient_0214,68,Female,Black,PhD,Retired,Diabetes,Pollen,Obesity,None,Average,Yes,Regular,<5 hrs,None,Moderate,Low,Good,No expectations,No,Own vehicle,0
+Patient_0215,39,Other,Asian,PhD,Unemployed,None,Penicillin,Obesity,Lisinopril,Poor,No,Occasional,<5 hrs,Intense,Low,Medium,Good,Trust in doctor,No,No access,0
+Patient_0216,45,Other,Other,High School,Unemployed,Diabetes,Food,Anxiety,Lisinopril,Poor,Yes,Regular,<5 hrs,None,High,Medium,Good,Improve symptoms,No,Own vehicle,0
+Patient_0217,19,Female,White,Master,Employed,Cancer,None,Depression,Lisinopril,Good,Yes,Occasional,<5 hrs,Light,Low,High,Poor,Improve symptoms,Yes,Public transport,0
+Patient_0218,59,Female,Asian,Master,Unemployed,Cardiac issues,None,Anxiety,Metformin,Good,No,Regular,<5 hrs,None,High,Low,Average,No expectations,No,Public transport,0
+Patient_0219,62,Other,Asian,High School,Employed,Cardiac issues,Food,Obesity,Lisinopril,Average,No,Regular,>9 hrs,Intense,Low,Medium,Average,Hope for cure,No,No access,1
+Patient_0220,79,Male,Hispanic,Bachelor,Student,Cancer,Pollen,None,Lisinopril,Poor,No,None,>9 hrs,Light,Low,High,Average,Improve symptoms,Yes,Public transport,1
+Patient_0221,74,Other,Black,Bachelor,Employed,Cancer,Penicillin,Depression,Aspirin,Poor,Yes,Occasional,<5 hrs,None,Moderate,Medium,Good,No expectations,No,Public transport,0
+Patient_0222,70,Female,Asian,PhD,Student,Asthma,Pollen,Anxiety,Insulin,Poor,Yes,None,5-7 hrs,Light,High,Low,Average,No expectations,Yes,Own vehicle,0
+Patient_0223,23,Male,Asian,None,Employed,Cancer,Dust,Depression,Lisinopril,Average,Yes,None,>9 hrs,Light,High,High,Average,Hope for cure,Yes,Own vehicle,0
+Patient_0224,45,Male,Other,Bachelor,Retired,None,None,None,None,Good,Yes,Occasional,5-7 hrs,Intense,High,Medium,Average,Trust in doctor,Yes,No access,0
+Patient_0225,45,Female,Other,None,Unemployed,Cardiac issues,Dust,Anxiety,Lisinopril,Average,No,Occasional,5-7 hrs,Intense,Moderate,High,Average,Trust in doctor,No,Own vehicle,1
+Patient_0226,61,Female,White,Master,Student,Hypertension,None,Obesity,Metformin,Poor,Yes,Regular,7-9 hrs,Light,High,Medium,Average,Trust in doctor,Yes,No access,0
+Patient_0227,61,Female,Hispanic,None,Employed,Cardiac issues,None,Anxiety,Metformin,Good,Yes,Occasional,7-9 hrs,None,Moderate,Medium,Poor,Improve symptoms,No,No access,0
+Patient_0228,37,Other,White,Master,Unemployed,Diabetes,Dust,Depression,Metformin,Good,No,None,<5 hrs,Intense,Low,Low,Average,Trust in doctor,No,Own vehicle,1
+Patient_0229,47,Other,Other,High School,Employed,Cardiac issues,Dust,Depression,Lisinopril,Average,Yes,None,5-7 hrs,Light,Low,Low,Poor,Improve symptoms,No,Public transport,0
+Patient_0230,79,Male,Black,High School,Unemployed,Asthma,Pollen,Depression,Aspirin,Good,Yes,Occasional,>9 hrs,Moderate,High,Medium,Average,Improve symptoms,Yes,Public transport,0
+Patient_0231,28,Female,Other,PhD,Unemployed,Cancer,Dust,Depression,None,Good,No,None,7-9 hrs,Moderate,Low,High,Poor,No expectations,Yes,Public transport,0
+Patient_0232,75,Male,Hispanic,Bachelor,Employed,Cancer,Pollen,Obesity,Lisinopril,Poor,Yes,Regular,7-9 hrs,Intense,Low,High,Average,Trust in doctor,Yes,Public transport,0
+Patient_0233,72,Male,Other,PhD,Student,Cardiac issues,Pollen,Anxiety,Aspirin,Poor,Yes,None,5-7 hrs,None,High,Low,Average,Trust in doctor,No,No access,0
+Patient_0234,45,Male,Hispanic,Master,Student,Hypertension,Pollen,Obesity,Aspirin,Good,Yes,Regular,7-9 hrs,Moderate,Low,Medium,Average,Trust in doctor,No,Public transport,0
+Patient_0235,42,Male,Hispanic,PhD,Retired,Hypertension,None,Obesity,Lisinopril,Good,Yes,None,7-9 hrs,Moderate,High,Low,Average,Improve symptoms,Yes,No access,0
+Patient_0236,56,Female,Hispanic,None,Unemployed,Asthma,None,Obesity,Lisinopril,Average,No,Regular,>9 hrs,Moderate,High,Medium,Good,Improve symptoms,No,Own vehicle,1
+Patient_0237,79,Male,Hispanic,Master,Retired,Diabetes,Dust,Depression,Aspirin,Average,Yes,Regular,5-7 hrs,None,Low,Medium,Average,Trust in doctor,Yes,Own vehicle,0
+Patient_0238,50,Female,Hispanic,High School,Retired,Cardiac issues,None,Depression,Aspirin,Good,No,Occasional,7-9 hrs,None,Low,Low,Poor,Improve symptoms,Yes,No access,1
+Patient_0239,18,Female,Black,Bachelor,Employed,Cancer,Dust,Depression,Aspirin,Poor,Yes,Regular,5-7 hrs,Intense,Low,High,Good,Improve symptoms,No,Public transport,0
+Patient_0240,74,Other,White,Master,Employed,Cardiac issues,None,Anxiety,Lisinopril,Good,No,Occasional,7-9 hrs,Intense,Low,Low,Good,Hope for cure,No,No access,0
+Patient_0241,44,Female,Asian,Master,Employed,Asthma,Penicillin,None,Aspirin,Good,No,None,>9 hrs,Moderate,Low,Medium,Average,Hope for cure,Yes,Public transport,0
+Patient_0242,79,Other,White,None,Unemployed,None,Penicillin,Depression,Metformin,Poor,No,None,5-7 hrs,None,Moderate,Low,Poor,Trust in doctor,No,Public transport,0
+Patient_0243,74,Female,Hispanic,Bachelor,Employed,None,Dust,Anxiety,Lisinopril,Poor,Yes,None,7-9 hrs,Light,Low,High,Poor,Trust in doctor,Yes,No access,0
+Patient_0244,69,Female,Black,High School,Employed,Asthma,None,Depression,Metformin,Average,Yes,Regular,>9 hrs,Moderate,Moderate,High,Good,Hope for cure,Yes,No access,0
+Patient_0245,30,Female,Other,Master,Unemployed,Cancer,None,Depression,Insulin,Average,Yes,None,7-9 hrs,Intense,High,Medium,Poor,Improve symptoms,No,Public transport,1
+Patient_0246,58,Other,Black,Master,Unemployed,Asthma,Pollen,Obesity,Lisinopril,Average,No,None,5-7 hrs,None,Low,Low,Average,Improve symptoms,Yes,No access,0
+Patient_0247,20,Other,Hispanic,None,Student,Cancer,Food,Obesity,Insulin,Average,Yes,Occasional,7-9 hrs,Intense,Low,High,Average,No expectations,No,Public transport,0
+Patient_0248,56,Male,Black,PhD,Employed,Hypertension,Dust,Obesity,Aspirin,Poor,Yes,Occasional,5-7 hrs,Intense,Low,Low,Average,Trust in doctor,Yes,No access,1
+Patient_0249,23,Other,Black,High School,Employed,Asthma,Food,Anxiety,Aspirin,Good,Yes,None,5-7 hrs,None,High,High,Average,Trust in doctor,No,Own vehicle,0
+Patient_0250,25,Other,Hispanic,Bachelor,Employed,Cancer,Food,None,None,Average,Yes,None,7-9 hrs,Moderate,Moderate,Medium,Average,Trust in doctor,No,Public transport,0
+Patient_0251,44,Other,Black,Master,Student,Asthma,Dust,None,Aspirin,Average,No,Regular,>9 hrs,None,Moderate,Medium,Good,No expectations,Yes,Own vehicle,1
+Patient_0252,26,Other,Asian,Master,Employed,Asthma,None,Anxiety,Insulin,Poor,No,Regular,<5 hrs,Moderate,Low,Low,Average,No expectations,No,No access,0
+Patient_0253,79,Male,Asian,High School,Student,Cancer,Dust,Depression,Aspirin,Poor,Yes,None,>9 hrs,Intense,Low,Medium,Average,Improve symptoms,No,Own vehicle,0
+Patient_0254,54,Other,Black,PhD,Retired,Cancer,Food,Anxiety,Lisinopril,Good,Yes,Occasional,>9 hrs,None,Low,High,Good,Hope for cure,Yes,No access,0
+Patient_0255,50,Female,Other,Master,Student,Diabetes,None,Depression,Aspirin,Good,Yes,None,7-9 hrs,Light,Low,Medium,Good,Hope for cure,No,Public transport,0
+Patient_0256,68,Female,Hispanic,High School,Retired,Asthma,Penicillin,Anxiety,None,Poor,No,Regular,>9 hrs,Moderate,High,High,Good,Hope for cure,Yes,No access,0
+Patient_0257,59,Other,Asian,None,Employed,None,Dust,Anxiety,Aspirin,Average,Yes,Occasional,>9 hrs,Light,Low,High,Poor,Improve symptoms,No,No access,0
+Patient_0258,61,Other,Other,PhD,Retired,Asthma,Dust,Anxiety,Insulin,Average,No,Occasional,<5 hrs,Moderate,High,Medium,Poor,Hope for cure,Yes,Public transport,1
+Patient_0259,41,Female,Black,Bachelor,Student,Asthma,None,None,Insulin,Average,No,Regular,>9 hrs,None,Low,High,Average,No expectations,Yes,No access,1
+Patient_0260,32,Female,Other,Master,Unemployed,Cancer,Penicillin,Obesity,Aspirin,Good,Yes,None,<5 hrs,Light,Moderate,High,Average,No expectations,Yes,Public transport,0
+Patient_0261,76,Male,White,High School,Retired,Asthma,Penicillin,Anxiety,Insulin,Average,Yes,None,7-9 hrs,None,Moderate,Low,Average,Trust in doctor,Yes,No access,0
+Patient_0262,71,Female,Asian,None,Retired,Cardiac issues,None,None,Insulin,Average,Yes,None,<5 hrs,Moderate,Low,Low,Poor,Hope for cure,No,Public transport,1
+Patient_0263,49,Female,Black,Bachelor,Employed,Asthma,Pollen,Obesity,None,Poor,No,Regular,5-7 hrs,Moderate,Low,Low,Average,No expectations,Yes,Own vehicle,0
+Patient_0264,49,Other,Hispanic,High School,Student,Cardiac issues,Dust,Obesity,Lisinopril,Average,No,Occasional,5-7 hrs,Moderate,High,Medium,Average,Trust in doctor,No,No access,0
+Patient_0265,41,Female,Black,High School,Retired,None,Dust,Anxiety,None,Poor,Yes,Regular,<5 hrs,Moderate,Low,Low,Poor,Hope for cure,Yes,No access,0
+Patient_0266,58,Male,Hispanic,Bachelor,Retired,Cancer,Food,Depression,Metformin,Average,No,None,5-7 hrs,Intense,Low,High,Good,Hope for cure,No,No access,1
+Patient_0267,69,Female,Black,None,Retired,Asthma,None,Depression,None,Good,Yes,Regular,7-9 hrs,Moderate,Low,Medium,Poor,No expectations,Yes,Public transport,0
+Patient_0268,66,Other,Other,None,Retired,Cardiac issues,Food,Depression,Aspirin,Average,Yes,Occasional,5-7 hrs,Light,Moderate,Medium,Average,Trust in doctor,No,No access,1
+Patient_0269,79,Other,Other,PhD,Unemployed,Cardiac issues,Food,Anxiety,Lisinopril,Average,No,Regular,<5 hrs,Moderate,High,Medium,Poor,Trust in doctor,No,Public transport,0
+Patient_0270,66,Female,Other,Master,Student,Cardiac issues,Penicillin,Depression,Aspirin,Poor,No,None,7-9 hrs,None,Moderate,Medium,Good,No expectations,Yes,No access,0
+Patient_0271,75,Other,White,Bachelor,Employed,Hypertension,Dust,None,Metformin,Poor,No,Occasional,5-7 hrs,Intense,High,High,Good,No expectations,Yes,Own vehicle,0
+Patient_0272,69,Male,Hispanic,Bachelor,Employed,Diabetes,Food,None,Lisinopril,Poor,No,Regular,7-9 hrs,Light,Moderate,High,Good,No expectations,Yes,No access,0
+Patient_0273,29,Male,Other,Bachelor,Unemployed,None,Penicillin,None,Insulin,Average,Yes,Regular,<5 hrs,Intense,Low,Low,Good,Hope for cure,No,Own vehicle,1
+Patient_0274,79,Female,White,None,Student,Asthma,None,None,None,Average,Yes,Occasional,5-7 hrs,Intense,Moderate,Medium,Good,No expectations,No,Public transport,1
+Patient_0275,56,Female,Hispanic,Master,Retired,Hypertension,Food,Obesity,Aspirin,Good,Yes,Occasional,7-9 hrs,Intense,Moderate,Low,Good,No expectations,No,Own vehicle,0
+Patient_0276,19,Female,Black,PhD,Unemployed,Asthma,Dust,None,Metformin,Average,No,None,7-9 hrs,None,High,High,Average,Improve symptoms,No,No access,1
+Patient_0277,20,Other,White,High School,Student,Asthma,Food,Depression,Insulin,Good,Yes,Occasional,5-7 hrs,Intense,High,Medium,Average,No expectations,Yes,No access,1
+Patient_0278,66,Male,Asian,High School,Retired,Cancer,None,Anxiety,None,Poor,No,None,7-9 hrs,Intense,Moderate,High,Poor,No expectations,Yes,Public transport,0
+Patient_0279,54,Male,White,Bachelor,Unemployed,Cancer,Food,Depression,Insulin,Poor,No,Regular,7-9 hrs,Moderate,High,Low,Average,Hope for cure,Yes,No access,0
+Patient_0280,66,Other,White,Master,Student,Cancer,Dust,None,None,Poor,No,None,<5 hrs,None,High,High,Good,Trust in doctor,Yes,No access,0
+Patient_0281,73,Male,Hispanic,None,Employed,Hypertension,Penicillin,Obesity,Lisinopril,Good,Yes,Regular,<5 hrs,Light,High,Medium,Average,Hope for cure,No,Public transport,0
+Patient_0282,34,Female,Black,Master,Employed,Asthma,Dust,None,Insulin,Average,No,Occasional,<5 hrs,Light,High,Medium,Poor,Improve symptoms,No,Public transport,0
+Patient_0283,76,Female,Asian,Master,Student,Diabetes,Penicillin,Anxiety,Insulin,Poor,No,Regular,<5 hrs,Light,High,Low,Good,No expectations,Yes,Own vehicle,0
+Patient_0284,66,Female,Other,None,Employed,None,Pollen,Depression,Insulin,Average,No,Occasional,<5 hrs,None,Moderate,Medium,Average,No expectations,No,Public transport,0
+Patient_0285,19,Male,Other,Bachelor,Student,Cancer,Dust,Anxiety,Lisinopril,Average,No,Regular,<5 hrs,Light,High,High,Average,No expectations,Yes,No access,1
+Patient_0286,19,Female,White,Master,Retired,Cancer,Dust,Anxiety,Metformin,Poor,No,Regular,5-7 hrs,None,Low,High,Poor,No expectations,No,Public transport,1
+Patient_0287,45,Other,Hispanic,High School,Student,Asthma,None,Anxiety,None,Good,No,Regular,<5 hrs,Moderate,Moderate,High,Good,No expectations,No,No access,0
+Patient_0288,71,Other,Hispanic,None,Retired,Asthma,Food,Depression,Insulin,Average,No,Regular,7-9 hrs,Moderate,Moderate,High,Poor,No expectations,No,Own vehicle,0
+Patient_0289,40,Male,Other,PhD,Unemployed,Hypertension,Penicillin,None,Lisinopril,Poor,No,None,5-7 hrs,None,Moderate,Low,Good,Improve symptoms,No,Public transport,0
+Patient_0290,54,Other,Asian,Bachelor,Student,Hypertension,Penicillin,Anxiety,Metformin,Average,No,Regular,7-9 hrs,Light,High,High,Good,No expectations,No,No access,0
+Patient_0291,49,Other,Black,None,Unemployed,Cancer,None,Depression,None,Average,No,None,<5 hrs,None,Low,Low,Average,No expectations,No,Public transport,0
+Patient_0292,50,Male,Asian,PhD,Employed,Asthma,None,Obesity,Lisinopril,Average,No,Occasional,<5 hrs,None,High,High,Poor,No expectations,Yes,Public transport,0
+Patient_0293,18,Female,Black,PhD,Retired,Diabetes,Food,Depression,None,Average,No,Occasional,7-9 hrs,Intense,Moderate,Low,Poor,Improve symptoms,No,Public transport,0
+Patient_0294,36,Female,Other,Master,Student,None,Food,Obesity,Insulin,Average,Yes,None,7-9 hrs,None,Moderate,High,Poor,No expectations,Yes,Public transport,0
+Patient_0295,79,Female,Black,Master,Unemployed,Asthma,Dust,Depression,Metformin,Good,Yes,Occasional,7-9 hrs,Intense,Moderate,High,Good,Improve symptoms,Yes,Own vehicle,0
+Patient_0296,19,Male,Hispanic,Master,Retired,Asthma,Pollen,None,Lisinopril,Good,No,Occasional,>9 hrs,Moderate,Moderate,Low,Poor,Hope for cure,Yes,No access,0
+Patient_0297,70,Other,White,None,Retired,Cardiac issues,Food,Anxiety,Metformin,Poor,No,Regular,>9 hrs,Intense,High,Medium,Good,No expectations,Yes,Public transport,1
+Patient_0298,61,Female,White,None,Employed,Hypertension,None,None,Insulin,Good,No,Regular,>9 hrs,None,Low,Medium,Poor,Trust in doctor,Yes,No access,1
+Patient_0299,43,Female,Other,Bachelor,Employed,None,Food,Depression,Metformin,Good,Yes,Regular,>9 hrs,Moderate,Low,Medium,Poor,Improve symptoms,Yes,Own vehicle,0
+Patient_0300,49,Male,Hispanic,Master,Retired,Cancer,Penicillin,Anxiety,Metformin,Good,Yes,None,5-7 hrs,Intense,Moderate,Low,Average,Hope for cure,No,No access,0
+Patient_0301,23,Female,Asian,PhD,Retired,Asthma,Pollen,Obesity,Aspirin,Average,Yes,None,<5 hrs,None,Low,Medium,Poor,Improve symptoms,No,No access,0
+Patient_0302,49,Male,Hispanic,High School,Student,Cancer,Dust,Depression,Metformin,Average,No,Occasional,7-9 hrs,Moderate,Moderate,Medium,Average,Improve symptoms,No,Own vehicle,0
+Patient_0303,72,Other,White,Bachelor,Retired,Asthma,Penicillin,Anxiety,None,Poor,No,Regular,<5 hrs,Intense,Moderate,Low,Average,Hope for cure,Yes,Public transport,0
+Patient_0304,21,Male,White,None,Student,Cancer,Penicillin,Obesity,Lisinopril,Poor,No,None,7-9 hrs,None,Low,Medium,Good,No expectations,Yes,No access,0
+Patient_0305,72,Male,Hispanic,Bachelor,Retired,None,Pollen,Obesity,Aspirin,Poor,No,None,<5 hrs,None,Moderate,Medium,Poor,No expectations,Yes,No access,1
+Patient_0306,28,Male,Hispanic,Bachelor,Employed,Hypertension,Dust,None,Lisinopril,Average,Yes,Regular,5-7 hrs,Light,Low,Medium,Poor,Improve symptoms,No,Public transport,0
+Patient_0307,73,Male,White,Bachelor,Student,None,None,Depression,Lisinopril,Good,No,None,>9 hrs,Light,Moderate,Low,Poor,Hope for cure,No,Public transport,1
+Patient_0308,76,Other,Asian,Bachelor,Unemployed,Cardiac issues,Dust,Obesity,Insulin,Good,Yes,Regular,<5 hrs,Intense,Low,Low,Average,No expectations,No,No access,0
+Patient_0309,34,Other,Other,High School,Employed,Diabetes,Food,Anxiety,Insulin,Average,Yes,Occasional,7-9 hrs,Intense,Moderate,Medium,Poor,Improve symptoms,Yes,Own vehicle,0
+Patient_0310,55,Female,Other,Master,Student,Hypertension,Penicillin,Obesity,Aspirin,Poor,No,Occasional,<5 hrs,Intense,Low,Medium,Good,Trust in doctor,Yes,Public transport,0
+Patient_0311,41,Other,Hispanic,PhD,Student,None,Food,Obesity,Insulin,Poor,Yes,Occasional,5-7 hrs,None,Moderate,Low,Good,Hope for cure,Yes,Public transport,0
+Patient_0312,22,Other,Other,Bachelor,Unemployed,Cardiac issues,None,None,Insulin,Poor,Yes,Regular,5-7 hrs,Intense,Moderate,Medium,Poor,Trust in doctor,No,Own vehicle,0
+Patient_0313,69,Female,White,Bachelor,Student,Diabetes,Food,None,Insulin,Average,Yes,None,<5 hrs,None,Moderate,Low,Average,Trust in doctor,Yes,No access,0
+Patient_0314,51,Other,White,Bachelor,Retired,Cardiac issues,Dust,Anxiety,Lisinopril,Poor,Yes,Occasional,>9 hrs,Intense,Low,Medium,Good,Improve symptoms,Yes,Public transport,0
+Patient_0315,23,Male,Hispanic,Master,Unemployed,Asthma,Food,None,Aspirin,Poor,No,Occasional,7-9 hrs,None,High,Low,Good,Hope for cure,Yes,No access,0
+Patient_0316,39,Male,Hispanic,None,Employed,Asthma,None,Obesity,Lisinopril,Average,No,Occasional,5-7 hrs,None,Moderate,High,Average,No expectations,Yes,No access,0
+Patient_0317,28,Female,Hispanic,None,Employed,Cancer,None,Obesity,None,Good,Yes,None,5-7 hrs,Light,Moderate,High,Good,No expectations,No,No access,1
+Patient_0318,65,Female,Asian,High School,Retired,Hypertension,None,None,Lisinopril,Average,No,None,<5 hrs,Moderate,Low,Low,Average,Improve symptoms,No,Own vehicle,0
+Patient_0319,33,Female,Other,None,Employed,Asthma,Dust,Obesity,None,Average,Yes,Regular,5-7 hrs,None,Moderate,High,Good,No expectations,Yes,No access,0
+Patient_0320,50,Male,Hispanic,Bachelor,Student,Cardiac issues,None,Obesity,Metformin,Average,No,Occasional,5-7 hrs,Intense,Moderate,Medium,Average,No expectations,Yes,No access,0
+Patient_0321,26,Other,Black,Bachelor,Student,Hypertension,Penicillin,Anxiety,Metformin,Average,No,None,7-9 hrs,Light,Moderate,Low,Good,Trust in doctor,No,Public transport,1
+Patient_0322,77,Male,Black,Bachelor,Retired,Asthma,None,None,None,Good,No,Regular,>9 hrs,Intense,Moderate,Low,Poor,Trust in doctor,No,Public transport,0
+Patient_0323,76,Female,White,High School,Employed,Cancer,Food,Obesity,None,Poor,No,Occasional,7-9 hrs,Intense,High,Medium,Good,Hope for cure,Yes,Own vehicle,0
+Patient_0324,23,Other,Other,Bachelor,Employed,None,Food,None,Lisinopril,Average,No,None,>9 hrs,None,High,Medium,Good,Trust in doctor,No,Own vehicle,0
+Patient_0325,33,Other,Hispanic,None,Retired,Cancer,Food,Anxiety,None,Good,Yes,None,7-9 hrs,None,Moderate,Low,Poor,No expectations,No,Public transport,0
+Patient_0326,46,Male,Black,Master,Unemployed,Diabetes,Dust,None,Aspirin,Poor,No,Regular,<5 hrs,Moderate,Moderate,Medium,Poor,Hope for cure,Yes,Public transport,0
+Patient_0327,20,Female,Other,Master,Employed,Asthma,Food,Obesity,Metformin,Poor,Yes,Occasional,5-7 hrs,None,Moderate,Low,Poor,Hope for cure,No,Own vehicle,1
+Patient_0328,37,Male,White,PhD,Unemployed,Diabetes,Dust,None,Metformin,Poor,Yes,Occasional,>9 hrs,None,High,Medium,Poor,Improve symptoms,No,No access,1
+Patient_0329,77,Other,Asian,None,Employed,Diabetes,Dust,Obesity,None,Average,No,None,<5 hrs,Moderate,High,Low,Average,Trust in doctor,No,Own vehicle,0
+Patient_0330,76,Male,Other,Bachelor,Employed,Cardiac issues,None,Obesity,Insulin,Average,Yes,Occasional,5-7 hrs,Intense,Low,Medium,Average,Hope for cure,No,No access,0
+Patient_0331,53,Male,Other,Master,Employed,Hypertension,Penicillin,Obesity,Insulin,Poor,No,Regular,5-7 hrs,Moderate,Low,Medium,Good,No expectations,Yes,Public transport,0
+Patient_0332,36,Female,Asian,None,Employed,Cardiac issues,None,Anxiety,None,Poor,Yes,None,5-7 hrs,Moderate,Moderate,High,Good,Hope for cure,No,Public transport,0
+Patient_0333,43,Female,Other,Master,Student,Asthma,None,None,Aspirin,Poor,Yes,None,7-9 hrs,Moderate,Moderate,High,Good,Hope for cure,No,Public transport,1
+Patient_0334,20,Other,White,Bachelor,Unemployed,Diabetes,Dust,Anxiety,Insulin,Poor,No,Regular,<5 hrs,Light,High,High,Average,Improve symptoms,Yes,No access,0
+Patient_0335,36,Male,White,Master,Unemployed,None,Dust,None,None,Poor,No,None,<5 hrs,Intense,Moderate,Medium,Good,No expectations,No,Own vehicle,0
+Patient_0336,37,Male,Asian,PhD,Employed,Diabetes,Food,Anxiety,Aspirin,Poor,No,Occasional,5-7 hrs,Light,Moderate,Low,Good,No expectations,Yes,No access,0
+Patient_0337,49,Male,Hispanic,PhD,Employed,None,Food,Depression,Aspirin,Good,No,Occasional,>9 hrs,Light,High,Medium,Average,Trust in doctor,Yes,Own vehicle,1
+Patient_0338,24,Other,Black,Master,Unemployed,Cardiac issues,None,Obesity,Lisinopril,Poor,Yes,None,<5 hrs,None,High,High,Good,No expectations,No,Own vehicle,0
+Patient_0339,69,Other,Hispanic,None,Student,Cardiac issues,Pollen,Obesity,Aspirin,Average,No,Regular,7-9 hrs,Moderate,High,Medium,Average,Hope for cure,No,Own vehicle,0
+Patient_0340,58,Female,Other,None,Retired,Hypertension,Pollen,Anxiety,Insulin,Average,Yes,Regular,>9 hrs,Moderate,High,High,Average,No expectations,No,Public transport,0
+Patient_0341,50,Female,Black,None,Retired,Diabetes,Food,Depression,Insulin,Average,Yes,Occasional,>9 hrs,Light,Low,High,Poor,No expectations,No,Own vehicle,0
+Patient_0342,57,Female,Asian,Master,Unemployed,Cancer,Pollen,Obesity,None,Poor,Yes,Regular,>9 hrs,None,High,Low,Poor,Hope for cure,No,Public transport,1
+Patient_0343,56,Male,Asian,None,Employed,Cardiac issues,Food,None,None,Average,Yes,None,>9 hrs,None,High,Low,Average,Improve symptoms,Yes,Own vehicle,0
+Patient_0344,35,Male,Black,Bachelor,Employed,Cardiac issues,Dust,Anxiety,Aspirin,Good,Yes,None,<5 hrs,None,Moderate,High,Average,Trust in doctor,No,Own vehicle,0
+Patient_0345,57,Female,White,PhD,Student,Hypertension,None,Obesity,Metformin,Poor,Yes,Occasional,5-7 hrs,Intense,Moderate,High,Poor,Trust in doctor,Yes,Public transport,0
+Patient_0346,18,Male,Black,Bachelor,Retired,None,Penicillin,Obesity,Lisinopril,Average,No,Occasional,>9 hrs,Light,Moderate,Medium,Good,Improve symptoms,No,Public transport,1
+Patient_0347,28,Female,Other,None,Student,Hypertension,None,Anxiety,Metformin,Good,Yes,Occasional,7-9 hrs,Intense,Low,High,Good,Hope for cure,Yes,No access,0
+Patient_0348,45,Other,White,Bachelor,Retired,Diabetes,Food,Anxiety,Aspirin,Good,Yes,Regular,7-9 hrs,None,High,Medium,Good,Trust in doctor,No,Own vehicle,0
+Patient_0349,74,Female,Asian,None,Unemployed,Asthma,Food,None,Aspirin,Average,Yes,None,5-7 hrs,None,High,High,Average,Improve symptoms,No,Public transport,0
+Patient_0350,42,Other,Black,Master,Retired,Asthma,None,None,Metformin,Good,No,None,<5 hrs,None,Low,Low,Poor,Improve symptoms,No,No access,0
+Patient_0351,67,Male,Hispanic,Bachelor,Student,None,Food,Obesity,Lisinopril,Average,No,None,5-7 hrs,Moderate,High,Low,Good,Improve symptoms,No,No access,1
+Patient_0352,40,Female,Hispanic,Master,Student,Cardiac issues,Pollen,Obesity,Metformin,Good,Yes,Occasional,>9 hrs,Light,Moderate,High,Poor,Trust in doctor,No,Public transport,1
+Patient_0353,48,Male,Other,Master,Student,None,Pollen,Anxiety,None,Poor,No,None,<5 hrs,Moderate,Low,Medium,Poor,Trust in doctor,Yes,Own vehicle,0
+Patient_0354,47,Other,Hispanic,High School,Unemployed,Cardiac issues,Food,Obesity,Insulin,Poor,Yes,Regular,<5 hrs,Intense,High,Medium,Average,Trust in doctor,No,No access,0
+Patient_0355,59,Other,Black,None,Retired,Cardiac issues,Food,Obesity,None,Poor,No,Regular,>9 hrs,Moderate,Low,Medium,Good,Trust in doctor,No,Own vehicle,1
+Patient_0356,52,Other,Black,PhD,Retired,Asthma,Pollen,Anxiety,Insulin,Poor,Yes,None,7-9 hrs,Light,Low,High,Poor,No expectations,No,Own vehicle,0
+Patient_0357,24,Male,Hispanic,None,Student,None,Food,Obesity,Aspirin,Poor,No,Occasional,>9 hrs,Moderate,High,High,Average,Improve symptoms,Yes,No access,0
+Patient_0358,77,Male,Black,PhD,Retired,Hypertension,Food,Obesity,Lisinopril,Average,No,None,5-7 hrs,None,Moderate,Low,Average,No expectations,No,Public transport,0
+Patient_0359,33,Male,Other,None,Employed,Cardiac issues,None,Depression,Metformin,Poor,No,Regular,>9 hrs,Intense,High,Low,Average,Improve symptoms,Yes,Own vehicle,0
+Patient_0360,43,Male,White,Master,Employed,Cancer,Penicillin,None,Lisinopril,Poor,Yes,Regular,7-9 hrs,Intense,High,High,Good,Trust in doctor,No,Public transport,0
+Patient_0361,65,Other,Other,Bachelor,Employed,Cancer,Pollen,Anxiety,Metformin,Poor,Yes,Regular,>9 hrs,None,Moderate,Low,Good,Trust in doctor,Yes,No access,1
+Patient_0362,74,Other,Other,Bachelor,Retired,Hypertension,None,Depression,None,Poor,Yes,None,5-7 hrs,None,High,Medium,Average,No expectations,No,Own vehicle,1
+Patient_0363,69,Female,Black,High School,Unemployed,Cancer,Penicillin,None,None,Good,No,Regular,5-7 hrs,None,High,Medium,Good,Hope for cure,No,Public transport,0
+Patient_0364,77,Female,White,PhD,Unemployed,Diabetes,Food,None,Metformin,Poor,No,Occasional,7-9 hrs,Light,High,High,Good,Trust in doctor,Yes,Public transport,0
+Patient_0365,66,Male,Black,PhD,Unemployed,Cardiac issues,Food,None,Lisinopril,Poor,Yes,None,5-7 hrs,Moderate,Low,Medium,Poor,Hope for cure,No,Own vehicle,0
+Patient_0366,19,Other,Asian,PhD,Unemployed,Hypertension,None,Depression,Metformin,Average,No,None,5-7 hrs,Intense,Low,High,Average,Improve symptoms,Yes,Public transport,0
+Patient_0367,18,Other,Black,Master,Employed,None,Food,Depression,Aspirin,Good,Yes,Regular,>9 hrs,Moderate,Low,Medium,Average,No expectations,No,Public transport,0
+Patient_0368,65,Other,Black,PhD,Employed,Cardiac issues,Dust,None,None,Average,Yes,Regular,<5 hrs,None,High,High,Good,Hope for cure,No,No access,0
+Patient_0369,79,Female,Black,Bachelor,Student,Hypertension,None,Obesity,Aspirin,Poor,Yes,Occasional,5-7 hrs,None,Moderate,Medium,Average,Hope for cure,Yes,No access,1
+Patient_0370,29,Female,White,Master,Retired,Asthma,Penicillin,Obesity,None,Average,Yes,None,5-7 hrs,Moderate,Low,Medium,Average,Trust in doctor,No,Public transport,1
+Patient_0371,22,Other,Black,None,Retired,None,None,Depression,None,Average,No,Regular,7-9 hrs,Intense,Moderate,Low,Average,Hope for cure,Yes,Public transport,0
+Patient_0372,54,Other,White,PhD,Unemployed,Asthma,Pollen,Depression,Insulin,Poor,No,Occasional,7-9 hrs,Light,High,Low,Good,Hope for cure,Yes,Own vehicle,0
+Patient_0373,49,Other,Hispanic,PhD,Employed,Cardiac issues,None,Depression,Aspirin,Good,No,Regular,>9 hrs,Moderate,Low,Low,Good,Improve symptoms,No,No access,0
+Patient_0374,76,Female,Asian,None,Unemployed,None,Food,None,Aspirin,Good,Yes,None,>9 hrs,None,High,Low,Good,No expectations,No,Own vehicle,1
+Patient_0375,72,Other,White,PhD,Student,Cancer,Food,Obesity,Insulin,Average,No,Regular,5-7 hrs,None,Moderate,Low,Poor,Trust in doctor,No,Public transport,0
+Patient_0376,26,Other,Hispanic,None,Retired,Hypertension,Dust,Depression,Lisinopril,Poor,Yes,None,<5 hrs,Light,Low,Low,Average,Trust in doctor,Yes,Own vehicle,0
+Patient_0377,58,Male,White,Master,Retired,Cardiac issues,Dust,Depression,Aspirin,Average,Yes,Regular,<5 hrs,Moderate,Low,High,Poor,Hope for cure,Yes,Public transport,0
+Patient_0378,52,Male,White,Bachelor,Unemployed,Diabetes,Dust,Anxiety,Metformin,Average,Yes,None,>9 hrs,Light,Low,High,Good,Improve symptoms,No,No access,1
+Patient_0379,36,Female,Asian,None,Student,None,Penicillin,None,Insulin,Average,Yes,Occasional,7-9 hrs,Light,Low,Low,Poor,Hope for cure,Yes,No access,1
+Patient_0380,65,Other,Other,High School,Retired,None,Dust,Anxiety,Aspirin,Poor,Yes,None,5-7 hrs,Intense,Moderate,High,Average,Hope for cure,Yes,Public transport,0
+Patient_0381,33,Other,Other,None,Student,Cardiac issues,Penicillin,Obesity,Lisinopril,Poor,Yes,Occasional,5-7 hrs,Intense,Low,Low,Average,Trust in doctor,Yes,No access,1
+Patient_0382,20,Male,White,PhD,Student,Cardiac issues,Dust,Anxiety,Aspirin,Good,No,None,<5 hrs,None,High,High,Good,Hope for cure,Yes,Public transport,0
+Patient_0383,37,Female,Black,Master,Unemployed,Asthma,Penicillin,Anxiety,None,Poor,No,Occasional,>9 hrs,Moderate,Low,Medium,Good,Hope for cure,No,Own vehicle,0
+Patient_0384,41,Male,Hispanic,Master,Employed,Cancer,None,Anxiety,Metformin,Average,No,Regular,<5 hrs,Intense,Moderate,High,Poor,Improve symptoms,No,Public transport,1
+Patient_0385,71,Male,Black,None,Unemployed,Asthma,None,None,Insulin,Average,No,None,<5 hrs,None,Low,High,Good,Trust in doctor,No,Own vehicle,1
+Patient_0386,73,Male,Black,Bachelor,Employed,Asthma,Food,Obesity,None,Good,Yes,Regular,>9 hrs,Moderate,Moderate,High,Poor,No expectations,Yes,Public transport,0
+Patient_0387,50,Male,White,High School,Student,Cancer,Penicillin,Anxiety,Lisinopril,Poor,Yes,Occasional,7-9 hrs,None,Moderate,Medium,Average,Improve symptoms,Yes,No access,0
+Patient_0388,41,Other,White,Master,Employed,Diabetes,Pollen,None,None,Average,No,None,5-7 hrs,Intense,High,Low,Average,Improve symptoms,Yes,Public transport,1
+Patient_0389,69,Other,White,PhD,Student,Asthma,Food,Obesity,None,Good,No,None,7-9 hrs,None,Low,High,Average,Improve symptoms,Yes,Public transport,1
+Patient_0390,28,Male,White,PhD,Retired,Asthma,None,Depression,Lisinopril,Good,No,Regular,>9 hrs,Moderate,Low,High,Average,Trust in doctor,No,Public transport,1
+Patient_0391,66,Female,Other,Bachelor,Retired,None,Penicillin,Anxiety,None,Average,No,None,>9 hrs,Moderate,Low,Medium,Average,Hope for cure,Yes,No access,0
+Patient_0392,25,Female,White,Master,Retired,Cancer,Dust,Obesity,Insulin,Average,No,None,5-7 hrs,None,High,Low,Poor,No expectations,Yes,Public transport,1
+Patient_0393,53,Female,Other,None,Unemployed,Hypertension,Pollen,Anxiety,Aspirin,Poor,No,Regular,7-9 hrs,Moderate,High,High,Average,Trust in doctor,No,No access,1
+Patient_0394,55,Female,Other,PhD,Unemployed,Diabetes,None,Depression,None,Good,No,None,5-7 hrs,None,Moderate,Medium,Poor,Hope for cure,No,Public transport,0
+Patient_0395,57,Male,White,Bachelor,Student,Diabetes,Food,Obesity,Insulin,Average,No,Regular,<5 hrs,Moderate,Moderate,Low,Average,Improve symptoms,No,Own vehicle,1
+Patient_0396,37,Other,Asian,Master,Retired,Cancer,Penicillin,None,Aspirin,Good,Yes,Regular,<5 hrs,None,Moderate,Low,Poor,Trust in doctor,Yes,Public transport,0
+Patient_0397,79,Female,Hispanic,Master,Unemployed,Cardiac issues,Pollen,Obesity,Aspirin,Poor,Yes,Regular,<5 hrs,None,High,High,Poor,Hope for cure,Yes,Own vehicle,0
+Patient_0398,52,Male,Black,Master,Retired,Cardiac issues,Penicillin,None,None,Average,Yes,Regular,7-9 hrs,None,High,High,Poor,No expectations,Yes,No access,0
+Patient_0399,65,Female,Other,Master,Unemployed,None,Dust,Obesity,Insulin,Poor,Yes,Regular,<5 hrs,Light,High,High,Good,No expectations,Yes,No access,0
+Patient_0400,79,Female,Hispanic,Master,Employed,None,Food,None,None,Good,No,Occasional,5-7 hrs,Moderate,Moderate,High,Poor,Hope for cure,Yes,Public transport,0
+Patient_0401,42,Male,Asian,PhD,Employed,Cancer,Penicillin,Depression,Lisinopril,Poor,Yes,Occasional,7-9 hrs,Intense,High,Medium,Poor,Trust in doctor,Yes,No access,1
+Patient_0402,52,Other,Black,Bachelor,Retired,None,None,Depression,Aspirin,Poor,No,Regular,5-7 hrs,None,Moderate,Medium,Average,Improve symptoms,No,Public transport,0
+Patient_0403,42,Other,Black,Master,Student,Diabetes,Food,Depression,None,Good,Yes,Occasional,>9 hrs,Light,Moderate,High,Poor,Hope for cure,Yes,No access,0
+Patient_0404,46,Male,Other,High School,Unemployed,Diabetes,None,Obesity,Aspirin,Poor,No,Occasional,7-9 hrs,Intense,Low,Low,Poor,Improve symptoms,No,Own vehicle,1
+Patient_0405,35,Other,White,High School,Unemployed,Hypertension,Penicillin,Depression,Insulin,Good,No,None,5-7 hrs,None,Low,High,Good,No expectations,No,No access,0
+Patient_0406,63,Male,Asian,Bachelor,Employed,Cardiac issues,Food,Anxiety,Metformin,Average,Yes,Regular,5-7 hrs,Intense,Low,Low,Average,Hope for cure,No,Own vehicle,0
+Patient_0407,35,Male,Other,None,Employed,Cancer,None,Depression,None,Good,Yes,Occasional,7-9 hrs,Light,Moderate,Low,Good,No expectations,Yes,Public transport,0
+Patient_0408,19,Male,Asian,None,Student,Asthma,Dust,None,None,Good,No,None,>9 hrs,Intense,Low,Low,Good,Improve symptoms,Yes,Public transport,0
+Patient_0409,71,Other,White,None,Student,Cardiac issues,Dust,None,Aspirin,Average,No,None,7-9 hrs,None,Low,Medium,Good,Improve symptoms,No,Public transport,0
+Patient_0410,52,Male,White,High School,Student,Asthma,Penicillin,None,Insulin,Good,No,Regular,<5 hrs,Intense,Low,Low,Poor,Hope for cure,Yes,Own vehicle,1
+Patient_0411,33,Female,Other,None,Retired,Hypertension,Food,Obesity,Lisinopril,Average,Yes,Regular,<5 hrs,Intense,High,Low,Good,Hope for cure,Yes,Public transport,0
+Patient_0412,78,Other,White,PhD,Employed,Hypertension,Pollen,Anxiety,Insulin,Average,Yes,None,>9 hrs,None,Moderate,Medium,Good,Hope for cure,No,Public transport,1
+Patient_0413,58,Other,Hispanic,Master,Retired,None,Food,Depression,None,Good,No,Regular,5-7 hrs,Light,Low,Low,Average,No expectations,Yes,Own vehicle,0
+Patient_0414,53,Other,Black,High School,Employed,Hypertension,Dust,Anxiety,Lisinopril,Poor,Yes,Regular,5-7 hrs,Light,High,Low,Average,Improve symptoms,Yes,No access,0
+Patient_0415,50,Other,Other,Bachelor,Employed,Hypertension,None,Anxiety,Insulin,Poor,No,None,5-7 hrs,Intense,High,High,Average,Improve symptoms,Yes,Public transport,0
+Patient_0416,21,Female,Asian,Bachelor,Unemployed,Asthma,Pollen,None,Metformin,Average,Yes,None,7-9 hrs,Moderate,High,Low,Average,No expectations,Yes,No access,1
+Patient_0417,50,Other,Hispanic,Master,Employed,None,Penicillin,None,Aspirin,Poor,Yes,Regular,7-9 hrs,Intense,Low,Low,Good,Hope for cure,No,No access,0
+Patient_0418,31,Other,Other,High School,Employed,Hypertension,Pollen,None,Insulin,Poor,Yes,Occasional,>9 hrs,Moderate,High,Low,Average,Trust in doctor,No,Public transport,0
+Patient_0419,38,Male,White,None,Retired,Cardiac issues,Penicillin,Obesity,Insulin,Good,Yes,Regular,<5 hrs,Intense,Moderate,Low,Poor,Hope for cure,Yes,Public transport,0
+Patient_0420,65,Other,White,None,Employed,Hypertension,Pollen,Anxiety,Metformin,Average,Yes,Occasional,5-7 hrs,Light,High,Low,Good,Trust in doctor,Yes,Own vehicle,0
+Patient_0421,37,Female,White,PhD,Retired,None,Penicillin,Anxiety,None,Average,No,None,<5 hrs,Intense,High,Medium,Average,Trust in doctor,Yes,Own vehicle,0
+Patient_0422,73,Female,White,PhD,Student,Cancer,Penicillin,Obesity,Aspirin,Good,No,Occasional,7-9 hrs,Intense,High,Low,Good,No expectations,No,Public transport,0
+Patient_0423,25,Female,Asian,None,Employed,None,Pollen,Obesity,Insulin,Poor,Yes,None,7-9 hrs,Moderate,High,Low,Average,Improve symptoms,Yes,No access,0
+Patient_0424,24,Female,Hispanic,Bachelor,Employed,Asthma,Pollen,Obesity,Lisinopril,Average,No,Regular,7-9 hrs,Light,Moderate,Medium,Good,Improve symptoms,Yes,Own vehicle,1
+Patient_0425,20,Other,Black,Bachelor,Retired,Cancer,Penicillin,Anxiety,Insulin,Poor,No,Regular,<5 hrs,Moderate,Low,Medium,Average,Improve symptoms,No,Own vehicle,0
+Patient_0426,34,Other,Asian,PhD,Student,Cardiac issues,Dust,Anxiety,Aspirin,Average,Yes,None,>9 hrs,Intense,Moderate,Low,Poor,Improve symptoms,Yes,Public transport,0
+Patient_0427,50,Female,Asian,Master,Unemployed,Diabetes,Pollen,None,Insulin,Average,No,None,>9 hrs,None,Moderate,Low,Average,No expectations,No,Public transport,0
+Patient_0428,65,Female,Black,None,Student,None,Food,None,Metformin,Average,Yes,None,7-9 hrs,Intense,Low,Low,Good,Trust in doctor,Yes,Public transport,0
+Patient_0429,29,Other,Black,PhD,Retired,Asthma,None,Anxiety,Insulin,Average,No,Regular,5-7 hrs,Intense,High,High,Good,Improve symptoms,No,Public transport,1
+Patient_0430,76,Female,White,PhD,Student,Cardiac issues,Penicillin,None,Insulin,Poor,No,Regular,<5 hrs,Moderate,Low,High,Poor,Trust in doctor,Yes,Own vehicle,0
+Patient_0431,68,Male,Asian,None,Retired,Cancer,Penicillin,Obesity,Lisinopril,Poor,No,Occasional,7-9 hrs,None,Low,Low,Good,No expectations,Yes,Own vehicle,0
+Patient_0432,39,Female,Other,None,Retired,Cardiac issues,None,Depression,Metformin,Poor,No,None,<5 hrs,None,Moderate,Medium,Poor,Hope for cure,No,Own vehicle,1
+Patient_0433,72,Female,Black,Bachelor,Unemployed,None,Dust,None,Metformin,Poor,No,Occasional,<5 hrs,Moderate,Low,Low,Good,No expectations,No,No access,0
+Patient_0434,39,Male,Black,Master,Employed,Hypertension,None,Anxiety,Insulin,Good,No,Regular,>9 hrs,Light,High,Medium,Good,Improve symptoms,No,Own vehicle,0
+Patient_0435,63,Male,Hispanic,Master,Retired,None,Pollen,None,Lisinopril,Average,No,Occasional,7-9 hrs,None,Moderate,Medium,Poor,Hope for cure,No,Own vehicle,0
+Patient_0436,47,Other,Other,None,Retired,Diabetes,None,None,Insulin,Average,Yes,Occasional,>9 hrs,None,High,Medium,Good,No expectations,No,Public transport,1
+Patient_0437,55,Other,Other,High School,Unemployed,None,Penicillin,None,Insulin,Average,Yes,Regular,7-9 hrs,Moderate,Moderate,Low,Good,No expectations,Yes,Own vehicle,1
+Patient_0438,55,Male,Black,PhD,Retired,Cancer,None,Depression,Aspirin,Good,Yes,Regular,<5 hrs,Light,High,Low,Poor,Trust in doctor,No,Own vehicle,1
+Patient_0439,62,Male,White,PhD,Employed,Cancer,Food,Obesity,Aspirin,Poor,Yes,None,>9 hrs,Light,Low,Medium,Average,No expectations,No,Own vehicle,0
+Patient_0440,68,Other,Hispanic,None,Unemployed,None,Pollen,Anxiety,Lisinopril,Average,No,Occasional,<5 hrs,Intense,Low,High,Poor,Hope for cure,No,Public transport,1
+Patient_0441,71,Female,Other,High School,Employed,Cancer,None,Depression,None,Poor,No,Regular,7-9 hrs,Intense,Low,High,Good,No expectations,No,Own vehicle,0
+Patient_0442,25,Male,Black,Bachelor,Employed,Hypertension,Penicillin,Anxiety,Aspirin,Poor,No,Regular,5-7 hrs,Moderate,High,High,Average,Improve symptoms,Yes,Own vehicle,0
+Patient_0443,44,Other,Other,None,Unemployed,Cardiac issues,Pollen,Anxiety,None,Good,Yes,Occasional,>9 hrs,Light,Moderate,Medium,Average,Trust in doctor,Yes,No access,1
+Patient_0444,44,Female,Hispanic,None,Retired,None,Penicillin,Anxiety,Metformin,Good,Yes,Regular,>9 hrs,Moderate,Moderate,Low,Average,Hope for cure,Yes,No access,0
+Patient_0445,51,Male,Hispanic,PhD,Employed,Hypertension,Dust,Depression,Aspirin,Poor,Yes,None,<5 hrs,Intense,Moderate,Medium,Poor,Hope for cure,Yes,No access,0
+Patient_0446,38,Female,Asian,None,Employed,Cardiac issues,Food,Obesity,Aspirin,Average,No,None,<5 hrs,Moderate,Low,High,Average,No expectations,Yes,No access,0
+Patient_0447,47,Other,Black,None,Employed,Cardiac issues,Dust,Anxiety,Lisinopril,Average,Yes,Occasional,5-7 hrs,Moderate,High,Low,Average,Improve symptoms,No,Public transport,0
+Patient_0448,50,Male,Hispanic,None,Employed,Hypertension,Food,Obesity,None,Good,No,None,>9 hrs,None,Moderate,Medium,Average,Trust in doctor,Yes,No access,1
+Patient_0449,45,Female,Asian,PhD,Unemployed,Asthma,None,Obesity,Aspirin,Good,Yes,Regular,7-9 hrs,None,High,Medium,Good,Hope for cure,Yes,Own vehicle,0
+Patient_0450,64,Male,Asian,Bachelor,Unemployed,None,Pollen,None,Aspirin,Good,No,Regular,7-9 hrs,None,Moderate,High,Poor,Trust in doctor,No,No access,0
+Patient_0451,50,Female,Other,Bachelor,Student,Cardiac issues,None,Depression,Lisinopril,Good,Yes,Regular,>9 hrs,Intense,Low,Medium,Poor,No expectations,No,Public transport,0
+Patient_0452,22,Other,Other,None,Student,Cardiac issues,Food,Depression,Lisinopril,Good,No,Regular,>9 hrs,Moderate,High,Low,Good,Improve symptoms,Yes,No access,1
+Patient_0453,77,Other,Asian,PhD,Employed,Cancer,Food,None,None,Good,Yes,Occasional,>9 hrs,None,Moderate,High,Average,No expectations,Yes,No access,1
+Patient_0454,78,Male,Other,Bachelor,Retired,Cardiac issues,Food,None,Metformin,Good,Yes,None,5-7 hrs,None,Moderate,High,Good,Trust in doctor,No,Public transport,0
+Patient_0455,65,Female,Hispanic,Bachelor,Employed,Hypertension,Penicillin,Obesity,Metformin,Average,No,None,7-9 hrs,None,Moderate,Low,Good,No expectations,Yes,Public transport,1
+Patient_0456,36,Male,White,Bachelor,Retired,Cardiac issues,Pollen,Anxiety,Insulin,Good,No,Regular,7-9 hrs,Intense,Moderate,High,Average,Trust in doctor,No,Public transport,1
+Patient_0457,21,Male,Hispanic,PhD,Employed,Asthma,None,Depression,Aspirin,Good,Yes,Occasional,<5 hrs,Intense,Low,Medium,Average,Hope for cure,No,Public transport,0
+Patient_0458,52,Female,Asian,PhD,Student,None,None,Anxiety,None,Average,No,Regular,<5 hrs,Moderate,Moderate,Medium,Poor,Hope for cure,Yes,Public transport,0
+Patient_0459,66,Female,Asian,None,Student,None,Dust,Anxiety,Aspirin,Average,Yes,Regular,>9 hrs,Moderate,Moderate,High,Average,No expectations,Yes,Public transport,0
+Patient_0460,34,Female,Hispanic,Master,Retired,Cardiac issues,Food,None,None,Poor,No,Occasional,<5 hrs,Moderate,Low,Low,Good,Hope for cure,Yes,Own vehicle,1
+Patient_0461,61,Other,Other,Bachelor,Employed,Diabetes,Food,Anxiety,None,Good,Yes,Occasional,5-7 hrs,None,Moderate,Medium,Good,Trust in doctor,No,No access,0
+Patient_0462,45,Male,Other,Master,Retired,Diabetes,Food,Obesity,None,Good,No,Regular,7-9 hrs,Light,High,Low,Average,Hope for cure,No,No access,0
+Patient_0463,47,Male,Asian,PhD,Student,Hypertension,None,None,Aspirin,Good,Yes,None,7-9 hrs,Intense,High,Medium,Poor,Improve symptoms,Yes,Public transport,0
+Patient_0464,46,Other,Black,PhD,Employed,Diabetes,Dust,Anxiety,Lisinopril,Good,Yes,Regular,<5 hrs,None,Moderate,Medium,Good,Improve symptoms,Yes,Public transport,1
+Patient_0465,63,Female,Other,PhD,Employed,Hypertension,Penicillin,None,Aspirin,Poor,Yes,None,>9 hrs,None,Low,High,Average,No expectations,Yes,Own vehicle,0
+Patient_0466,70,Other,Hispanic,Master,Retired,Cancer,Pollen,Obesity,None,Average,No,None,<5 hrs,Moderate,Low,High,Poor,No expectations,No,Own vehicle,1
+Patient_0467,23,Other,Other,PhD,Unemployed,Hypertension,Penicillin,Obesity,Insulin,Average,Yes,Occasional,>9 hrs,Moderate,Low,Low,Poor,No expectations,No,Public transport,1
+Patient_0468,52,Other,Hispanic,None,Retired,Diabetes,None,Anxiety,Metformin,Good,No,Occasional,5-7 hrs,None,Moderate,High,Good,No expectations,No,Own vehicle,0
+Patient_0469,77,Male,Asian,PhD,Student,Cardiac issues,Food,None,None,Good,No,Regular,7-9 hrs,Intense,Moderate,Medium,Good,Trust in doctor,Yes,Own vehicle,0
+Patient_0470,58,Other,Other,High School,Student,Cancer,Pollen,Anxiety,Insulin,Good,No,None,5-7 hrs,Intense,High,Medium,Poor,Trust in doctor,No,Public transport,0
+Patient_0471,54,Male,Hispanic,Master,Student,Diabetes,None,Anxiety,Lisinopril,Poor,Yes,None,7-9 hrs,None,Low,Low,Poor,Improve symptoms,No,Public transport,1
+Patient_0472,41,Male,Asian,High School,Student,Hypertension,None,None,None,Poor,No,Regular,5-7 hrs,Light,Moderate,Low,Poor,Trust in doctor,Yes,Public transport,0
+Patient_0473,46,Male,Black,PhD,Student,Asthma,None,Anxiety,Insulin,Average,No,Regular,<5 hrs,Light,Moderate,Medium,Average,Hope for cure,No,Public transport,0
+Patient_0474,66,Female,Hispanic,None,Unemployed,None,Pollen,Obesity,None,Good,No,Regular,5-7 hrs,Intense,Moderate,High,Good,Improve symptoms,Yes,No access,0
+Patient_0475,63,Male,Black,Bachelor,Employed,Diabetes,Pollen,None,Aspirin,Good,Yes,Occasional,5-7 hrs,Moderate,Low,High,Poor,No expectations,No,No access,0
+Patient_0476,70,Male,Black,PhD,Retired,Hypertension,Dust,None,Insulin,Good,No,Regular,<5 hrs,Light,Low,Low,Good,No expectations,Yes,Public transport,1
+Patient_0477,48,Female,White,None,Retired,Cancer,Dust,None,Aspirin,Good,No,Regular,7-9 hrs,Light,High,Low,Good,Trust in doctor,Yes,Own vehicle,0
+Patient_0478,52,Male,Other,Master,Student,Diabetes,Penicillin,None,Aspirin,Poor,No,None,7-9 hrs,Moderate,Low,Medium,Good,Improve symptoms,No,Public transport,1
+Patient_0479,77,Other,Hispanic,High School,Retired,Diabetes,Pollen,Anxiety,Insulin,Average,No,Regular,<5 hrs,Light,Moderate,Medium,Poor,Trust in doctor,Yes,No access,0
+Patient_0480,50,Other,Black,High School,Student,None,Pollen,Anxiety,Metformin,Average,Yes,None,5-7 hrs,None,High,Low,Average,Trust in doctor,No,Own vehicle,0
+Patient_0481,69,Male,White,High School,Unemployed,Hypertension,Pollen,Obesity,Insulin,Poor,Yes,None,5-7 hrs,Light,Low,Medium,Poor,Trust in doctor,Yes,No access,1
+Patient_0482,78,Female,Asian,Master,Unemployed,Asthma,Dust,Depression,Metformin,Good,No,Occasional,5-7 hrs,Moderate,Low,Low,Good,Improve symptoms,Yes,Public transport,0
+Patient_0483,38,Other,Hispanic,None,Employed,Cancer,None,Depression,None,Average,No,Regular,>9 hrs,None,Low,Low,Poor,No expectations,Yes,No access,1
+Patient_0484,49,Female,Black,Master,Unemployed,Hypertension,Food,Obesity,None,Average,No,Regular,7-9 hrs,Light,Low,High,Poor,Hope for cure,No,No access,0
+Patient_0485,40,Female,Other,High School,Unemployed,Cancer,Dust,Depression,Insulin,Poor,No,None,5-7 hrs,Intense,Moderate,Low,Good,No expectations,Yes,No access,0
+Patient_0486,50,Other,White,PhD,Employed,Diabetes,Pollen,Obesity,None,Good,Yes,Occasional,7-9 hrs,None,Low,Medium,Good,Improve symptoms,Yes,Own vehicle,0
+Patient_0487,20,Female,Black,Bachelor,Retired,None,Dust,Anxiety,Lisinopril,Average,Yes,Occasional,5-7 hrs,None,Moderate,High,Poor,No expectations,No,No access,1
+Patient_0488,35,Other,Other,Master,Student,None,Penicillin,None,Aspirin,Good,Yes,Regular,<5 hrs,Intense,Moderate,High,Poor,No expectations,Yes,Own vehicle,1
+Patient_0489,42,Female,Black,Master,Student,Cardiac issues,Pollen,None,Aspirin,Average,Yes,None,<5 hrs,Intense,Moderate,Medium,Poor,Hope for cure,Yes,Public transport,0
+Patient_0490,59,Other,Hispanic,None,Retired,Asthma,Penicillin,Anxiety,Metformin,Poor,No,Regular,7-9 hrs,Light,High,Medium,Poor,No expectations,Yes,Public transport,0
+Patient_0491,48,Male,Hispanic,None,Employed,None,Pollen,None,None,Good,No,Regular,7-9 hrs,Light,Moderate,Medium,Average,No expectations,Yes,No access,0
+Patient_0492,71,Other,Hispanic,Master,Retired,Diabetes,Dust,None,Metformin,Poor,Yes,Regular,<5 hrs,Moderate,Low,Low,Poor,No expectations,No,Own vehicle,0
+Patient_0493,75,Other,White,High School,Unemployed,Asthma,None,Depression,Aspirin,Average,Yes,Regular,>9 hrs,Moderate,High,High,Average,Trust in doctor,Yes,Public transport,1
+Patient_0494,20,Other,Hispanic,Bachelor,Employed,Hypertension,Food,Anxiety,Aspirin,Poor,No,None,<5 hrs,None,Low,Low,Good,Improve symptoms,Yes,Own vehicle,0
+Patient_0495,57,Other,Other,None,Employed,None,Penicillin,Depression,None,Poor,No,Occasional,5-7 hrs,Intense,Moderate,Low,Average,Improve symptoms,No,Own vehicle,1
+Patient_0496,63,Female,Black,High School,Employed,Asthma,Dust,Depression,Lisinopril,Poor,No,Regular,>9 hrs,Intense,Low,Low,Good,Hope for cure,Yes,No access,0
+Patient_0497,41,Male,Asian,PhD,Student,Diabetes,None,None,Lisinopril,Average,No,Regular,<5 hrs,Moderate,High,Low,Average,Trust in doctor,Yes,No access,1
+Patient_0498,67,Other,Other,None,Retired,Cardiac issues,Dust,None,None,Good,No,Regular,>9 hrs,None,High,High,Good,Trust in doctor,No,Own vehicle,0
+Patient_0499,49,Female,Other,High School,Employed,Cancer,Penicillin,Anxiety,None,Poor,Yes,Regular,>9 hrs,None,Low,High,Poor,No expectations,No,Own vehicle,0
+Patient_0500,64,Male,Hispanic,High School,Employed,Cancer,Food,None,Metformin,Good,Yes,Occasional,>9 hrs,Moderate,Low,Low,Average,Improve symptoms,No,No access,1
+Patient_0501,39,Male,White,Bachelor,Employed,Diabetes,Dust,None,None,Average,No,Occasional,7-9 hrs,Moderate,Low,Medium,Average,Hope for cure,No,Own vehicle,0
+Patient_0502,40,Male,Black,Bachelor,Retired,Diabetes,Pollen,Anxiety,Lisinopril,Good,No,Occasional,<5 hrs,Moderate,High,High,Good,Trust in doctor,Yes,No access,1
+Patient_0503,19,Male,White,PhD,Student,Cancer,None,None,None,Poor,Yes,Occasional,7-9 hrs,Light,Moderate,Low,Good,No expectations,No,Own vehicle,1
+Patient_0504,44,Other,Black,High School,Unemployed,Cardiac issues,Dust,Depression,Metformin,Poor,No,Regular,7-9 hrs,None,Low,Medium,Average,Hope for cure,Yes,No access,0
+Patient_0505,59,Other,Black,High School,Student,Asthma,None,Anxiety,Metformin,Poor,Yes,None,5-7 hrs,None,Moderate,Medium,Good,Trust in doctor,No,Own vehicle,0
+Patient_0506,19,Female,White,Bachelor,Employed,Cancer,Pollen,None,Metformin,Poor,Yes,Occasional,5-7 hrs,None,High,Low,Poor,Hope for cure,Yes,No access,0
+Patient_0507,43,Female,Other,None,Student,Diabetes,Food,Obesity,Metformin,Poor,Yes,Occasional,>9 hrs,Moderate,Low,High,Average,Trust in doctor,No,Own vehicle,0
+Patient_0508,34,Female,Black,None,Student,None,Food,Anxiety,Insulin,Poor,Yes,Regular,>9 hrs,Moderate,Low,Medium,Poor,Hope for cure,No,Public transport,0
+Patient_0509,57,Male,White,Master,Unemployed,Hypertension,Pollen,Anxiety,None,Average,No,Regular,5-7 hrs,Moderate,High,High,Average,Trust in doctor,Yes,Public transport,0
+Patient_0510,50,Male,Black,Bachelor,Retired,Cardiac issues,None,Obesity,Aspirin,Average,No,Regular,5-7 hrs,Moderate,Low,High,Poor,Trust in doctor,No,Own vehicle,0
+Patient_0511,26,Other,Asian,Master,Retired,Cardiac issues,Dust,None,None,Average,Yes,Regular,<5 hrs,Intense,Moderate,Medium,Average,Hope for cure,No,Public transport,0
+Patient_0512,60,Male,Other,Bachelor,Student,None,Pollen,None,Insulin,Good,No,None,>9 hrs,Moderate,High,Low,Good,Trust in doctor,No,Own vehicle,0
+Patient_0513,71,Male,Hispanic,PhD,Student,None,Penicillin,Anxiety,Metformin,Good,No,None,>9 hrs,Light,High,Medium,Average,Trust in doctor,Yes,Own vehicle,0
+Patient_0514,65,Male,Black,High School,Retired,Diabetes,None,Anxiety,Insulin,Average,No,Occasional,5-7 hrs,Intense,Low,Medium,Poor,Trust in doctor,No,Public transport,0
+Patient_0515,56,Female,Asian,PhD,Retired,Cancer,Food,None,Lisinopril,Good,No,None,<5 hrs,Intense,High,High,Average,Hope for cure,No,Own vehicle,0
+Patient_0516,46,Female,Hispanic,Bachelor,Unemployed,Asthma,Pollen,None,Lisinopril,Good,Yes,Occasional,5-7 hrs,Moderate,Low,Low,Poor,Hope for cure,Yes,No access,0
+Patient_0517,59,Other,Hispanic,High School,Employed,Cardiac issues,Food,Depression,None,Poor,No,Occasional,5-7 hrs,None,Low,High,Poor,Trust in doctor,Yes,Own vehicle,0
+Patient_0518,72,Male,Black,None,Student,Cardiac issues,None,Anxiety,None,Poor,Yes,None,7-9 hrs,Moderate,High,Medium,Poor,Trust in doctor,No,Own vehicle,0
+Patient_0519,43,Male,White,None,Retired,None,Food,Anxiety,Aspirin,Good,Yes,Occasional,>9 hrs,None,Low,Low,Good,Hope for cure,Yes,Public transport,0
+Patient_0520,52,Other,Black,Master,Student,Cancer,Pollen,Obesity,Aspirin,Good,No,Regular,<5 hrs,Moderate,Moderate,Low,Average,No expectations,Yes,No access,1
+Patient_0521,67,Male,Asian,Bachelor,Student,Cardiac issues,None,Depression,Lisinopril,Average,Yes,Occasional,7-9 hrs,Moderate,Moderate,Low,Poor,Trust in doctor,Yes,Own vehicle,0
+Patient_0522,42,Male,Hispanic,Bachelor,Retired,Asthma,Penicillin,None,Metformin,Good,No,Regular,>9 hrs,None,Low,Low,Good,No expectations,No,Own vehicle,0
+Patient_0523,41,Female,Black,None,Unemployed,None,Pollen,Depression,Insulin,Poor,No,None,5-7 hrs,None,Moderate,Low,Poor,Hope for cure,No,Own vehicle,1
+Patient_0524,30,Other,White,PhD,Student,Asthma,Dust,None,Aspirin,Good,Yes,None,<5 hrs,None,Low,Medium,Average,Trust in doctor,Yes,Own vehicle,1
+Patient_0525,77,Other,Black,High School,Unemployed,Cancer,Pollen,None,Aspirin,Average,No,Occasional,>9 hrs,None,Moderate,Medium,Good,No expectations,No,Own vehicle,0
+Patient_0526,75,Other,Other,PhD,Retired,Cardiac issues,None,Depression,Metformin,Poor,Yes,Regular,5-7 hrs,Light,High,Medium,Poor,Hope for cure,Yes,Own vehicle,0
+Patient_0527,24,Other,White,PhD,Employed,Hypertension,Pollen,Anxiety,Metformin,Poor,Yes,Occasional,7-9 hrs,None,Low,High,Poor,No expectations,No,No access,0
+Patient_0528,74,Female,Asian,None,Employed,Cardiac issues,Penicillin,None,None,Poor,No,None,<5 hrs,Moderate,Low,Low,Poor,Improve symptoms,Yes,No access,0
+Patient_0529,53,Female,Hispanic,None,Student,Cancer,Penicillin,Depression,Insulin,Poor,No,Occasional,>9 hrs,Moderate,Low,Low,Average,Hope for cure,No,Own vehicle,1
+Patient_0530,62,Male,Black,None,Retired,Cardiac issues,Dust,Obesity,Metformin,Good,No,Occasional,7-9 hrs,Light,Low,Medium,Good,Improve symptoms,Yes,Own vehicle,0
+Patient_0531,37,Male,White,Master,Unemployed,Cardiac issues,Food,Depression,Aspirin,Average,Yes,Regular,5-7 hrs,None,Low,Low,Good,Hope for cure,No,Public transport,1
+Patient_0532,18,Male,Other,PhD,Student,Diabetes,None,Obesity,Aspirin,Good,No,None,5-7 hrs,Moderate,Low,High,Good,Hope for cure,No,No access,0
+Patient_0533,25,Male,White,Bachelor,Retired,Cardiac issues,None,None,Lisinopril,Good,Yes,Occasional,>9 hrs,Light,High,Low,Poor,Trust in doctor,Yes,No access,1
+Patient_0534,63,Female,Other,High School,Retired,Cardiac issues,Food,Depression,Metformin,Poor,Yes,Regular,5-7 hrs,Moderate,High,Low,Good,Improve symptoms,No,Own vehicle,0
+Patient_0535,33,Other,Asian,Master,Unemployed,Asthma,Penicillin,Depression,None,Average,No,Occasional,<5 hrs,Light,Moderate,High,Poor,Improve symptoms,No,No access,0
+Patient_0536,31,Female,Hispanic,Bachelor,Student,Hypertension,Penicillin,Obesity,Insulin,Poor,No,Regular,>9 hrs,Light,Low,Medium,Average,Improve symptoms,No,No access,0
+Patient_0537,29,Male,Asian,PhD,Retired,Asthma,Pollen,Depression,None,Good,No,Regular,7-9 hrs,Intense,Moderate,Medium,Good,Hope for cure,No,Public transport,0
+Patient_0538,68,Female,Black,None,Retired,Asthma,Dust,Depression,Aspirin,Good,Yes,Occasional,>9 hrs,Intense,Moderate,Low,Poor,Improve symptoms,No,Public transport,0
+Patient_0539,40,Other,White,PhD,Retired,None,Dust,None,None,Poor,No,None,>9 hrs,None,High,High,Good,Improve symptoms,No,No access,1
+Patient_0540,32,Other,Other,High School,Unemployed,Diabetes,Dust,Depression,Aspirin,Good,Yes,None,7-9 hrs,Intense,Moderate,Medium,Good,Trust in doctor,No,No access,0
+Patient_0541,45,Female,Other,Master,Student,Asthma,Pollen,Anxiety,Aspirin,Good,No,Regular,5-7 hrs,Light,High,Medium,Average,No expectations,No,No access,1
+Patient_0542,51,Female,White,Master,Student,Cancer,Dust,Obesity,Aspirin,Poor,No,None,7-9 hrs,Moderate,Moderate,Medium,Good,No expectations,Yes,Own vehicle,0
+Patient_0543,19,Female,White,High School,Student,Cancer,Food,Depression,Aspirin,Good,Yes,Regular,<5 hrs,Moderate,Low,Low,Average,Improve symptoms,No,Public transport,0
+Patient_0544,49,Male,Black,Bachelor,Student,Cardiac issues,Pollen,Obesity,Aspirin,Average,Yes,None,5-7 hrs,None,Moderate,High,Good,Improve symptoms,Yes,Own vehicle,1
+Patient_0545,40,Female,Asian,Bachelor,Employed,None,Food,Obesity,Lisinopril,Poor,No,Occasional,>9 hrs,Intense,High,Low,Good,Improve symptoms,No,Public transport,0
+Patient_0546,39,Female,Other,Master,Employed,Diabetes,Pollen,Obesity,None,Average,No,None,5-7 hrs,None,High,Medium,Good,Improve symptoms,Yes,Public transport,0
+Patient_0547,68,Female,Black,Master,Student,Diabetes,Dust,Depression,Lisinopril,Good,No,Regular,5-7 hrs,Light,High,High,Good,No expectations,No,Public transport,0
+Patient_0548,42,Other,Asian,None,Unemployed,Cardiac issues,Food,Depression,Lisinopril,Good,No,Regular,<5 hrs,Intense,Moderate,Low,Good,Trust in doctor,Yes,No access,0
+Patient_0549,75,Other,Black,Bachelor,Employed,Cancer,Food,Obesity,Metformin,Poor,No,None,5-7 hrs,None,Moderate,Medium,Good,Hope for cure,Yes,Public transport,1
+Patient_0550,79,Male,Other,High School,Retired,Hypertension,Food,Anxiety,Metformin,Good,Yes,Occasional,5-7 hrs,Moderate,High,Medium,Average,Improve symptoms,No,Own vehicle,0
+Patient_0551,78,Male,White,Bachelor,Employed,None,Pollen,Obesity,Metformin,Poor,Yes,Regular,5-7 hrs,Moderate,Low,Low,Average,Improve symptoms,Yes,Public transport,0
+Patient_0552,39,Other,White,None,Retired,Cardiac issues,None,Anxiety,Insulin,Poor,Yes,Regular,>9 hrs,None,Low,Medium,Poor,No expectations,No,Own vehicle,1
+Patient_0553,75,Other,Asian,Master,Student,None,Dust,Obesity,Metformin,Poor,Yes,Regular,5-7 hrs,None,Moderate,Medium,Good,Improve symptoms,No,Public transport,0
+Patient_0554,75,Other,Hispanic,Master,Employed,Cancer,Food,None,None,Poor,No,Regular,7-9 hrs,None,Moderate,High,Average,Trust in doctor,Yes,Public transport,0
+Patient_0555,39,Female,Asian,None,Unemployed,Cancer,None,Obesity,Lisinopril,Poor,Yes,Regular,5-7 hrs,Light,High,Medium,Good,Trust in doctor,No,No access,1
+Patient_0556,66,Female,Hispanic,High School,Employed,Hypertension,Dust,Obesity,None,Average,Yes,Occasional,<5 hrs,Light,Moderate,Low,Good,Improve symptoms,Yes,Own vehicle,0
+Patient_0557,69,Other,Black,Master,Employed,Hypertension,Dust,Depression,Metformin,Poor,Yes,None,5-7 hrs,Moderate,Moderate,High,Average,No expectations,Yes,Public transport,1
+Patient_0558,59,Female,Black,PhD,Employed,Diabetes,Food,Anxiety,Insulin,Average,No,Occasional,5-7 hrs,Light,High,Low,Good,Improve symptoms,No,Public transport,0
+Patient_0559,23,Female,Other,Master,Student,None,Food,None,Insulin,Good,Yes,Occasional,>9 hrs,Light,High,Medium,Average,Improve symptoms,No,Own vehicle,1
+Patient_0560,32,Male,Hispanic,PhD,Unemployed,None,Pollen,Anxiety,Lisinopril,Poor,No,Regular,7-9 hrs,Intense,Moderate,High,Average,No expectations,No,Public transport,1
+Patient_0561,71,Other,Other,None,Employed,Cancer,None,None,None,Good,Yes,Occasional,5-7 hrs,Light,Low,High,Poor,Trust in doctor,No,No access,0
+Patient_0562,60,Other,White,None,Unemployed,Diabetes,None,Obesity,Aspirin,Poor,No,Regular,7-9 hrs,Intense,Moderate,High,Poor,Hope for cure,No,Own vehicle,0
+Patient_0563,77,Female,Hispanic,Master,Student,Cardiac issues,Food,Depression,None,Average,Yes,Occasional,<5 hrs,Light,Low,High,Poor,Improve symptoms,Yes,No access,0
+Patient_0564,54,Other,Asian,Bachelor,Retired,None,Dust,Depression,Metformin,Average,No,Regular,>9 hrs,Moderate,Low,Low,Poor,Trust in doctor,Yes,Own vehicle,1
+Patient_0565,50,Male,White,PhD,Employed,Diabetes,Food,Anxiety,Aspirin,Average,Yes,Regular,7-9 hrs,None,Low,Medium,Good,Improve symptoms,No,Own vehicle,0
+Patient_0566,25,Male,White,High School,Unemployed,Diabetes,Dust,Depression,Insulin,Good,No,Occasional,>9 hrs,Moderate,High,Medium,Good,Hope for cure,No,Own vehicle,0
+Patient_0567,70,Male,Asian,Master,Unemployed,Cancer,Dust,Anxiety,Lisinopril,Poor,No,Occasional,5-7 hrs,Light,High,High,Poor,No expectations,No,Public transport,0
+Patient_0568,77,Other,White,High School,Student,Diabetes,Food,Anxiety,Lisinopril,Good,Yes,None,<5 hrs,None,High,Medium,Average,Trust in doctor,Yes,Own vehicle,1
+Patient_0569,61,Other,Hispanic,Master,Employed,Hypertension,Penicillin,None,Insulin,Average,No,None,>9 hrs,None,Moderate,Low,Average,Hope for cure,Yes,Own vehicle,0
+Patient_0570,61,Other,Other,Bachelor,Retired,Hypertension,None,Anxiety,Metformin,Good,No,None,5-7 hrs,None,High,Medium,Average,Improve symptoms,Yes,Own vehicle,0
+Patient_0571,22,Other,White,Bachelor,Unemployed,Asthma,Dust,None,Insulin,Average,Yes,Occasional,7-9 hrs,Intense,High,Low,Average,Hope for cure,No,No access,0
+Patient_0572,56,Other,Hispanic,Bachelor,Employed,Cancer,Dust,Depression,Metformin,Average,Yes,Occasional,<5 hrs,Moderate,Moderate,Low,Good,Trust in doctor,No,Own vehicle,0
+Patient_0573,21,Male,Black,Bachelor,Retired,Cardiac issues,Penicillin,Anxiety,Aspirin,Average,No,Regular,<5 hrs,Intense,Moderate,Medium,Average,No expectations,Yes,Public transport,0
+Patient_0574,23,Female,Hispanic,None,Unemployed,Asthma,Pollen,Anxiety,Insulin,Poor,Yes,None,7-9 hrs,None,Low,Low,Average,Improve symptoms,No,Own vehicle,0
+Patient_0575,62,Male,Other,None,Unemployed,Hypertension,Penicillin,Obesity,Metformin,Poor,Yes,Regular,7-9 hrs,Moderate,Moderate,Low,Poor,No expectations,No,Own vehicle,1
+Patient_0576,49,Other,Hispanic,PhD,Retired,Asthma,Penicillin,Anxiety,Aspirin,Average,Yes,Regular,<5 hrs,Moderate,Moderate,Low,Average,No expectations,Yes,No access,1
+Patient_0577,69,Male,Asian,High School,Retired,Cancer,Dust,Anxiety,Insulin,Good,No,Regular,>9 hrs,Light,High,Low,Good,Hope for cure,Yes,Public transport,0
+Patient_0578,47,Other,Other,Master,Student,Cancer,None,Obesity,Lisinopril,Good,No,Regular,<5 hrs,Intense,Low,High,Average,Hope for cure,No,Public transport,0
+Patient_0579,64,Other,Black,Master,Employed,Diabetes,Penicillin,Obesity,Insulin,Poor,No,None,7-9 hrs,Intense,Low,Medium,Average,Trust in doctor,Yes,Public transport,0
+Patient_0580,52,Male,Asian,None,Employed,None,Pollen,Depression,None,Average,No,Regular,>9 hrs,Light,Moderate,High,Good,Trust in doctor,No,Own vehicle,0
+Patient_0581,72,Other,Hispanic,Master,Student,Diabetes,Food,Anxiety,Insulin,Good,No,Occasional,5-7 hrs,Intense,High,Low,Poor,No expectations,Yes,Own vehicle,0
+Patient_0582,57,Female,Other,None,Unemployed,Cancer,Penicillin,Depression,None,Average,No,Occasional,<5 hrs,None,High,Medium,Good,Trust in doctor,Yes,Public transport,0
+Patient_0583,69,Other,Black,PhD,Retired,Hypertension,Penicillin,Depression,Aspirin,Good,No,Occasional,7-9 hrs,None,High,Low,Poor,No expectations,No,Public transport,0
+Patient_0584,33,Female,Asian,High School,Retired,Cardiac issues,Pollen,Obesity,Insulin,Poor,Yes,None,5-7 hrs,Intense,High,Medium,Average,Improve symptoms,No,No access,1
+Patient_0585,30,Female,Black,PhD,Retired,Hypertension,None,None,Aspirin,Average,No,Regular,<5 hrs,Light,Moderate,High,Poor,No expectations,Yes,Public transport,1
+Patient_0586,67,Other,Hispanic,Bachelor,Unemployed,Diabetes,Penicillin,Depression,Aspirin,Average,No,None,<5 hrs,Moderate,High,Medium,Poor,Trust in doctor,No,Own vehicle,0
+Patient_0587,77,Male,Black,Bachelor,Retired,Cardiac issues,Penicillin,None,Metformin,Good,Yes,Regular,>9 hrs,Intense,Low,Low,Poor,Trust in doctor,Yes,Own vehicle,0
+Patient_0588,59,Female,White,Bachelor,Retired,Cancer,None,Anxiety,Aspirin,Good,Yes,None,7-9 hrs,Moderate,Low,Medium,Average,No expectations,No,Own vehicle,1
+Patient_0589,47,Male,Asian,PhD,Student,Hypertension,Pollen,Obesity,Aspirin,Good,Yes,None,5-7 hrs,Light,Moderate,Medium,Poor,Hope for cure,Yes,No access,1
+Patient_0590,36,Female,Black,Master,Unemployed,Cancer,Penicillin,Anxiety,Insulin,Average,No,Regular,<5 hrs,Moderate,High,High,Poor,No expectations,Yes,Public transport,0
+Patient_0591,34,Other,Hispanic,High School,Employed,Cardiac issues,None,Anxiety,Insulin,Poor,Yes,None,>9 hrs,Light,High,Low,Average,No expectations,Yes,Own vehicle,0
+Patient_0592,73,Other,Hispanic,Bachelor,Student,Cardiac issues,Penicillin,Obesity,Lisinopril,Poor,No,Regular,5-7 hrs,Light,High,Medium,Good,Hope for cure,No,No access,0
+Patient_0593,36,Female,Black,Bachelor,Student,Hypertension,Food,Anxiety,Metformin,Good,No,Occasional,5-7 hrs,None,High,High,Good,Improve symptoms,Yes,No access,0
+Patient_0594,45,Other,Hispanic,Bachelor,Employed,Cancer,Dust,Obesity,Aspirin,Poor,No,Occasional,<5 hrs,None,Moderate,Medium,Good,Hope for cure,Yes,Own vehicle,0
+Patient_0595,75,Female,Other,High School,Student,Asthma,Food,None,Metformin,Good,Yes,Occasional,5-7 hrs,Light,High,Low,Average,Trust in doctor,Yes,No access,0
+Patient_0596,72,Other,Other,Bachelor,Unemployed,Cancer,Penicillin,Anxiety,None,Poor,Yes,None,<5 hrs,Intense,Moderate,Medium,Average,Hope for cure,Yes,No access,0
+Patient_0597,43,Male,Other,High School,Retired,Cardiac issues,Pollen,Obesity,Aspirin,Average,No,Occasional,>9 hrs,None,High,Medium,Good,Trust in doctor,No,Own vehicle,0
+Patient_0598,54,Other,White,Bachelor,Unemployed,Cancer,Dust,Depression,Metformin,Good,No,Regular,>9 hrs,Light,High,Medium,Poor,Trust in doctor,No,No access,0
+Patient_0599,43,Male,Black,PhD,Employed,Diabetes,Food,Anxiety,Lisinopril,Poor,No,Occasional,5-7 hrs,Moderate,Low,Medium,Good,No expectations,Yes,Own vehicle,1
+Patient_0600,70,Other,White,PhD,Employed,Asthma,None,None,Lisinopril,Average,Yes,Occasional,<5 hrs,Moderate,Moderate,Low,Average,No expectations,Yes,Own vehicle,0
+Patient_0601,79,Male,Hispanic,High School,Student,None,Pollen,Obesity,Aspirin,Poor,No,None,7-9 hrs,Intense,Low,High,Poor,Improve symptoms,No,No access,0
+Patient_0602,40,Other,White,PhD,Unemployed,Diabetes,Food,Anxiety,None,Average,Yes,Regular,>9 hrs,Moderate,Moderate,High,Poor,Trust in doctor,Yes,Own vehicle,0
+Patient_0603,26,Male,Hispanic,High School,Unemployed,None,None,Anxiety,Lisinopril,Average,No,None,<5 hrs,Moderate,High,Medium,Average,No expectations,No,Own vehicle,0
+Patient_0604,29,Female,Hispanic,PhD,Employed,Hypertension,Penicillin,Anxiety,Lisinopril,Poor,Yes,None,<5 hrs,Light,High,Low,Poor,Trust in doctor,Yes,Public transport,0
+Patient_0605,70,Female,Asian,PhD,Unemployed,None,None,None,None,Poor,No,Regular,<5 hrs,Moderate,Moderate,Low,Good,Improve symptoms,No,Own vehicle,0
+Patient_0606,18,Male,Other,High School,Employed,Cancer,Food,Obesity,Metformin,Average,Yes,None,5-7 hrs,Moderate,Low,Low,Average,Trust in doctor,Yes,Public transport,0
+Patient_0607,75,Other,Hispanic,Master,Unemployed,None,Food,Depression,Lisinopril,Average,Yes,Regular,7-9 hrs,Moderate,Moderate,Low,Average,Improve symptoms,No,Public transport,0
+Patient_0608,75,Male,Asian,PhD,Unemployed,Cardiac issues,Penicillin,Depression,Insulin,Average,Yes,Occasional,5-7 hrs,Moderate,Moderate,Low,Average,Improve symptoms,No,Public transport,0
+Patient_0609,18,Other,Other,Bachelor,Unemployed,Diabetes,None,Depression,Lisinopril,Good,Yes,Regular,>9 hrs,Light,High,Low,Average,Improve symptoms,No,Public transport,1
+Patient_0610,64,Female,Hispanic,Master,Employed,Diabetes,None,Obesity,Metformin,Average,Yes,Regular,5-7 hrs,Moderate,Low,Medium,Poor,No expectations,Yes,No access,0
+Patient_0611,51,Other,Hispanic,High School,Student,None,Penicillin,Depression,Metformin,Good,Yes,Regular,<5 hrs,Intense,Moderate,High,Average,Hope for cure,No,No access,0
+Patient_0612,49,Female,White,Master,Unemployed,Diabetes,None,None,Aspirin,Average,No,None,5-7 hrs,None,Low,High,Average,Hope for cure,No,Own vehicle,0
+Patient_0613,79,Other,White,None,Employed,Cardiac issues,Penicillin,Obesity,Insulin,Good,No,Regular,<5 hrs,Intense,Low,Medium,Poor,No expectations,Yes,Own vehicle,0
+Patient_0614,71,Other,Other,None,Employed,Diabetes,Pollen,Anxiety,Metformin,Average,No,Regular,7-9 hrs,None,Moderate,High,Average,Trust in doctor,Yes,Own vehicle,0
+Patient_0615,65,Other,Hispanic,PhD,Unemployed,None,Food,None,None,Average,No,Regular,5-7 hrs,Intense,Low,Low,Poor,No expectations,Yes,No access,0
+Patient_0616,42,Male,Black,PhD,Unemployed,Asthma,Pollen,Anxiety,Insulin,Average,Yes,Occasional,5-7 hrs,None,High,Low,Poor,Trust in doctor,Yes,Public transport,1
+Patient_0617,57,Male,White,Bachelor,Student,Asthma,Dust,Depression,Insulin,Poor,No,Regular,5-7 hrs,None,High,High,Average,Improve symptoms,No,No access,1
+Patient_0618,62,Female,Other,Master,Employed,Hypertension,Dust,None,None,Poor,Yes,None,<5 hrs,None,High,Low,Good,No expectations,Yes,No access,0
+Patient_0619,70,Female,Hispanic,None,Employed,Diabetes,Dust,Obesity,Lisinopril,Average,Yes,Regular,<5 hrs,None,High,Low,Average,Hope for cure,Yes,Own vehicle,1
+Patient_0620,18,Male,Hispanic,PhD,Retired,None,Penicillin,None,None,Good,Yes,Regular,5-7 hrs,Light,Low,High,Good,Trust in doctor,Yes,Own vehicle,0
+Patient_0621,33,Female,Black,Master,Employed,Diabetes,None,Anxiety,None,Good,No,Occasional,5-7 hrs,Intense,High,Medium,Poor,No expectations,Yes,Own vehicle,1
+Patient_0622,78,Male,Other,PhD,Student,Cancer,Pollen,Obesity,Lisinopril,Average,Yes,Regular,7-9 hrs,None,Moderate,High,Good,No expectations,Yes,Public transport,0
+Patient_0623,56,Other,Hispanic,PhD,Retired,Cardiac issues,Pollen,None,Lisinopril,Poor,No,None,7-9 hrs,Intense,High,High,Average,Trust in doctor,Yes,Public transport,0
+Patient_0624,22,Female,White,None,Retired,Diabetes,Pollen,None,Lisinopril,Good,No,Regular,>9 hrs,Moderate,Moderate,High,Average,Improve symptoms,Yes,No access,0
+Patient_0625,39,Female,Black,None,Retired,Diabetes,Pollen,None,Lisinopril,Poor,No,None,7-9 hrs,None,Moderate,High,Good,Improve symptoms,No,Public transport,0
+Patient_0626,46,Male,Other,PhD,Unemployed,Asthma,Dust,None,Lisinopril,Good,No,Occasional,7-9 hrs,Intense,High,Medium,Average,Improve symptoms,No,Own vehicle,1
+Patient_0627,72,Female,Black,High School,Unemployed,Cardiac issues,Pollen,Obesity,None,Average,No,Regular,7-9 hrs,Light,High,Medium,Good,Improve symptoms,No,Public transport,1
+Patient_0628,20,Female,White,PhD,Employed,None,None,Anxiety,Aspirin,Poor,Yes,Occasional,<5 hrs,Intense,Low,Low,Poor,Trust in doctor,No,Public transport,0
+Patient_0629,29,Other,Other,PhD,Retired,Diabetes,Dust,None,Aspirin,Good,Yes,Regular,7-9 hrs,None,Moderate,Low,Good,Hope for cure,No,Public transport,1
+Patient_0630,43,Female,Black,Bachelor,Student,Asthma,Pollen,Obesity,Metformin,Average,No,None,7-9 hrs,Moderate,High,High,Good,No expectations,Yes,Public transport,1
+Patient_0631,33,Other,Asian,Bachelor,Unemployed,Hypertension,Penicillin,Anxiety,Aspirin,Average,Yes,Occasional,5-7 hrs,Intense,Low,Low,Good,No expectations,Yes,Own vehicle,0
+Patient_0632,68,Male,White,Bachelor,Student,Cardiac issues,Food,None,Aspirin,Average,No,Regular,<5 hrs,Moderate,High,Medium,Good,Improve symptoms,Yes,Own vehicle,0
+Patient_0633,54,Female,White,High School,Student,Asthma,Food,Anxiety,None,Poor,Yes,None,>9 hrs,Light,High,Low,Poor,Trust in doctor,Yes,No access,0
+Patient_0634,39,Other,White,High School,Unemployed,Asthma,Food,Anxiety,Lisinopril,Poor,Yes,Occasional,>9 hrs,Intense,High,Low,Poor,Hope for cure,No,No access,0
+Patient_0635,74,Male,Asian,PhD,Unemployed,Asthma,Dust,Obesity,Lisinopril,Average,Yes,Regular,7-9 hrs,Intense,Moderate,Low,Poor,Hope for cure,No,No access,0
+Patient_0636,46,Female,Asian,Bachelor,Unemployed,Diabetes,Pollen,Anxiety,None,Poor,Yes,Occasional,>9 hrs,Light,High,High,Good,No expectations,Yes,Public transport,0
+Patient_0637,31,Male,Hispanic,High School,Unemployed,Diabetes,Dust,Obesity,Aspirin,Good,Yes,Regular,>9 hrs,Light,Low,Low,Poor,Improve symptoms,Yes,Public transport,0
+Patient_0638,45,Female,Black,None,Retired,Hypertension,None,None,None,Average,Yes,None,>9 hrs,Light,High,Medium,Average,No expectations,No,Own vehicle,0
+Patient_0639,22,Male,Hispanic,PhD,Retired,Cancer,Penicillin,Anxiety,Metformin,Average,Yes,None,7-9 hrs,None,High,Medium,Poor,No expectations,No,No access,1
+Patient_0640,64,Male,Black,Master,Retired,Cancer,Penicillin,Anxiety,Lisinopril,Poor,Yes,Occasional,>9 hrs,None,Low,Medium,Good,Hope for cure,No,Own vehicle,0
+Patient_0641,66,Other,Asian,PhD,Retired,Cancer,Food,Depression,Insulin,Average,Yes,Occasional,7-9 hrs,Intense,Low,Medium,Average,Trust in doctor,Yes,No access,0
+Patient_0642,47,Male,Asian,Master,Employed,Cardiac issues,Food,None,Metformin,Good,Yes,Regular,5-7 hrs,Intense,Moderate,Low,Good,Hope for cure,Yes,No access,0
+Patient_0643,63,Female,Hispanic,Bachelor,Retired,Cardiac issues,Food,None,Metformin,Poor,Yes,None,5-7 hrs,Intense,Moderate,High,Average,No expectations,No,No access,0
+Patient_0644,79,Female,Other,Master,Unemployed,Hypertension,Pollen,Depression,None,Poor,Yes,Regular,>9 hrs,Moderate,Moderate,Medium,Good,Improve symptoms,No,Public transport,0
+Patient_0645,69,Other,Hispanic,Bachelor,Student,Cardiac issues,None,Depression,Aspirin,Average,Yes,None,5-7 hrs,Light,Moderate,Medium,Good,Improve symptoms,Yes,No access,0
+Patient_0646,22,Female,Black,None,Retired,Cancer,None,Obesity,Lisinopril,Average,No,Occasional,7-9 hrs,Intense,Low,High,Average,Trust in doctor,Yes,No access,0
+Patient_0647,29,Female,Hispanic,Master,Employed,Cancer,None,Obesity,Insulin,Average,Yes,Regular,5-7 hrs,Light,High,High,Poor,Trust in doctor,Yes,Public transport,0
+Patient_0648,33,Female,White,PhD,Unemployed,Asthma,None,Anxiety,Metformin,Poor,Yes,Regular,>9 hrs,None,High,Medium,Average,Trust in doctor,Yes,No access,0
+Patient_0649,43,Male,Black,Bachelor,Student,Cardiac issues,Food,Anxiety,Insulin,Average,Yes,None,7-9 hrs,Light,High,Medium,Average,No expectations,No,Public transport,0
+Patient_0650,43,Male,Black,PhD,Student,Diabetes,Penicillin,Anxiety,Aspirin,Good,Yes,None,<5 hrs,Moderate,Moderate,High,Average,No expectations,No,Public transport,0
+Patient_0651,65,Female,Other,High School,Retired,Diabetes,Food,Anxiety,Aspirin,Average,Yes,None,7-9 hrs,Moderate,Low,Medium,Average,Trust in doctor,No,Own vehicle,0
+Patient_0652,38,Other,Asian,Bachelor,Student,Asthma,None,Obesity,Insulin,Average,Yes,Occasional,5-7 hrs,Light,Low,Medium,Average,Improve symptoms,Yes,Public transport,0
+Patient_0653,56,Male,Black,Master,Retired,Asthma,Food,None,Lisinopril,Poor,No,Regular,<5 hrs,Moderate,Low,Low,Good,Improve symptoms,Yes,Public transport,0
+Patient_0654,53,Other,Asian,Bachelor,Retired,Asthma,None,Anxiety,Aspirin,Average,No,None,7-9 hrs,Moderate,High,High,Good,Improve symptoms,Yes,Public transport,1
+Patient_0655,50,Female,Hispanic,PhD,Unemployed,Diabetes,Dust,None,Insulin,Poor,No,Occasional,<5 hrs,None,Moderate,Low,Poor,No expectations,No,No access,0
+Patient_0656,79,Female,White,None,Unemployed,Cancer,Penicillin,Anxiety,Metformin,Average,Yes,None,<5 hrs,Intense,Low,Low,Poor,Hope for cure,No,Own vehicle,1
+Patient_0657,47,Male,Other,Bachelor,Employed,Asthma,Dust,Depression,Insulin,Good,Yes,Regular,<5 hrs,Moderate,Moderate,High,Average,Improve symptoms,No,No access,1
+Patient_0658,54,Female,Asian,Master,Unemployed,Hypertension,Pollen,Anxiety,Insulin,Good,Yes,None,7-9 hrs,Intense,Low,Low,Poor,Improve symptoms,Yes,Public transport,0
+Patient_0659,40,Male,Black,High School,Unemployed,Asthma,Food,Anxiety,None,Poor,No,Regular,5-7 hrs,Light,Moderate,Medium,Poor,Improve symptoms,Yes,Public transport,0
+Patient_0660,75,Female,Asian,None,Retired,None,Pollen,Anxiety,Aspirin,Poor,Yes,Occasional,7-9 hrs,Light,Low,Low,Average,Trust in doctor,No,Own vehicle,0
+Patient_0661,27,Female,Black,High School,Unemployed,Asthma,Food,Obesity,Lisinopril,Average,Yes,Occasional,5-7 hrs,Moderate,Moderate,High,Good,No expectations,Yes,Own vehicle,0
+Patient_0662,71,Male,Asian,Bachelor,Retired,Diabetes,Dust,Depression,Lisinopril,Average,No,None,7-9 hrs,Light,Low,Medium,Good,Trust in doctor,No,Public transport,0
+Patient_0663,22,Male,Black,PhD,Retired,Cardiac issues,None,Anxiety,None,Good,No,Regular,7-9 hrs,None,Low,Medium,Poor,Trust in doctor,No,Public transport,0
+Patient_0664,53,Male,Hispanic,PhD,Unemployed,Asthma,None,Anxiety,Lisinopril,Average,Yes,Regular,7-9 hrs,Moderate,Moderate,Medium,Good,Hope for cure,No,No access,0
+Patient_0665,51,Female,Black,Master,Employed,Cardiac issues,Food,None,Insulin,Good,Yes,Regular,5-7 hrs,Moderate,Moderate,Medium,Good,Trust in doctor,No,Public transport,0
+Patient_0666,69,Female,Black,PhD,Employed,None,None,Depression,None,Poor,Yes,None,7-9 hrs,Moderate,High,Low,Poor,Hope for cure,Yes,No access,1
+Patient_0667,48,Other,White,None,Student,Hypertension,Dust,Anxiety,Metformin,Average,Yes,Regular,<5 hrs,Light,Moderate,Low,Average,Trust in doctor,Yes,Own vehicle,0
+Patient_0668,27,Male,Black,PhD,Student,Cardiac issues,None,None,Aspirin,Poor,No,Regular,7-9 hrs,Light,Low,Medium,Poor,Improve symptoms,Yes,No access,1
+Patient_0669,75,Female,White,Master,Unemployed,Cancer,Dust,None,Aspirin,Average,Yes,Regular,<5 hrs,Moderate,Low,High,Poor,No expectations,Yes,Public transport,1
+Patient_0670,36,Female,Other,Bachelor,Employed,Asthma,Pollen,Obesity,Aspirin,Good,Yes,Regular,>9 hrs,Intense,Moderate,Medium,Poor,Trust in doctor,Yes,No access,1
+Patient_0671,75,Male,White,Bachelor,Retired,None,Dust,None,Insulin,Poor,No,None,>9 hrs,Light,High,Low,Average,Hope for cure,Yes,No access,1
+Patient_0672,49,Other,Hispanic,PhD,Student,None,Penicillin,Anxiety,Metformin,Poor,Yes,None,5-7 hrs,Light,Moderate,Medium,Average,No expectations,No,Own vehicle,0
+Patient_0673,18,Male,White,High School,Retired,Cardiac issues,Penicillin,Obesity,None,Average,Yes,Regular,5-7 hrs,Moderate,Low,Low,Average,Hope for cure,Yes,No access,0
+Patient_0674,73,Other,Other,Bachelor,Student,Hypertension,Penicillin,Obesity,None,Poor,No,Regular,>9 hrs,Intense,Low,Medium,Average,Improve symptoms,Yes,Public transport,0
+Patient_0675,22,Female,Hispanic,PhD,Unemployed,Diabetes,Food,Anxiety,Aspirin,Good,No,Occasional,7-9 hrs,Moderate,High,High,Poor,Trust in doctor,Yes,No access,0
+Patient_0676,62,Other,Asian,Master,Employed,Asthma,Food,Depression,Metformin,Poor,Yes,Occasional,7-9 hrs,Light,Moderate,Medium,Good,No expectations,No,No access,1
+Patient_0677,21,Female,Asian,PhD,Student,None,Food,None,Metformin,Poor,No,Regular,7-9 hrs,Moderate,Low,High,Poor,Improve symptoms,Yes,No access,1
+Patient_0678,33,Male,White,Bachelor,Employed,Hypertension,Dust,Obesity,Metformin,Average,No,Regular,>9 hrs,Moderate,Low,High,Average,Trust in doctor,No,Public transport,0
+Patient_0679,41,Male,White,Master,Retired,Cancer,Food,Depression,Lisinopril,Poor,Yes,Occasional,<5 hrs,Moderate,Low,Medium,Good,Trust in doctor,Yes,No access,0
+Patient_0680,33,Male,Other,PhD,Unemployed,None,Pollen,Anxiety,Lisinopril,Average,No,Occasional,5-7 hrs,Intense,Moderate,High,Poor,Hope for cure,Yes,Public transport,0
+Patient_0681,72,Other,Other,None,Employed,Hypertension,Penicillin,None,Aspirin,Average,Yes,Regular,<5 hrs,Moderate,Moderate,High,Good,Hope for cure,Yes,No access,0
+Patient_0682,19,Female,Black,Master,Unemployed,Diabetes,Dust,None,Metformin,Poor,Yes,None,>9 hrs,Light,High,Low,Average,Improve symptoms,No,Own vehicle,0
+Patient_0683,66,Male,Other,None,Employed,Diabetes,Penicillin,Obesity,Metformin,Good,Yes,None,<5 hrs,Moderate,Low,Low,Good,Hope for cure,No,Own vehicle,0
+Patient_0684,45,Male,Black,High School,Retired,None,Food,None,None,Average,Yes,Regular,7-9 hrs,Intense,Low,High,Good,Improve symptoms,Yes,Own vehicle,1
+Patient_0685,49,Female,Hispanic,Master,Retired,None,Dust,None,None,Poor,No,Regular,7-9 hrs,None,High,Medium,Average,Improve symptoms,Yes,Public transport,0
+Patient_0686,44,Male,White,None,Unemployed,Cardiac issues,None,None,Aspirin,Average,Yes,Occasional,<5 hrs,Intense,Low,High,Good,Improve symptoms,Yes,Public transport,1
+Patient_0687,37,Female,Hispanic,Bachelor,Retired,Asthma,Pollen,None,Metformin,Good,Yes,Occasional,>9 hrs,Moderate,High,Medium,Poor,Hope for cure,No,Public transport,0
+Patient_0688,41,Female,Other,Bachelor,Student,Hypertension,Food,Anxiety,Aspirin,Good,Yes,None,<5 hrs,None,High,Low,Good,No expectations,No,No access,1
+Patient_0689,29,Female,Hispanic,High School,Employed,None,Food,Depression,None,Average,Yes,Regular,7-9 hrs,Moderate,Low,Medium,Poor,Improve symptoms,Yes,Public transport,0
+Patient_0690,67,Female,Hispanic,Master,Retired,Asthma,Pollen,Anxiety,None,Good,No,Occasional,7-9 hrs,Intense,Moderate,High,Good,No expectations,No,Public transport,1
+Patient_0691,52,Female,Hispanic,Master,Student,Cardiac issues,Pollen,Anxiety,Lisinopril,Poor,No,None,>9 hrs,None,Moderate,High,Good,Trust in doctor,No,Public transport,0
+Patient_0692,77,Other,Other,Master,Unemployed,Asthma,None,Obesity,Aspirin,Poor,No,None,<5 hrs,None,Moderate,High,Average,Hope for cure,No,Public transport,0
+Patient_0693,50,Male,Hispanic,High School,Student,None,Food,None,Aspirin,Average,Yes,None,7-9 hrs,Moderate,Moderate,High,Average,Hope for cure,No,Own vehicle,0
+Patient_0694,50,Other,Black,Master,Unemployed,Diabetes,Food,Anxiety,Metformin,Good,No,Occasional,7-9 hrs,Moderate,Low,High,Poor,No expectations,Yes,No access,1
+Patient_0695,78,Male,Other,Bachelor,Unemployed,Hypertension,Penicillin,None,Metformin,Poor,No,Occasional,<5 hrs,Intense,High,Medium,Average,Trust in doctor,Yes,Own vehicle,0
+Patient_0696,68,Other,Hispanic,None,Employed,Hypertension,Dust,Anxiety,Lisinopril,Poor,Yes,Regular,<5 hrs,Moderate,High,High,Average,Trust in doctor,No,No access,0
+Patient_0697,60,Female,Other,Bachelor,Employed,Diabetes,Dust,Anxiety,Insulin,Poor,No,Regular,5-7 hrs,None,Low,Low,Average,Improve symptoms,No,No access,0
+Patient_0698,54,Male,Asian,Bachelor,Student,None,Penicillin,Obesity,Insulin,Average,Yes,None,>9 hrs,Light,Moderate,High,Average,Hope for cure,No,Own vehicle,0
+Patient_0699,29,Male,Black,None,Employed,Hypertension,Dust,Depression,Insulin,Average,No,None,>9 hrs,Light,High,Medium,Average,Trust in doctor,Yes,Public transport,1
+Patient_0700,20,Other,Hispanic,Bachelor,Employed,None,Pollen,Depression,Aspirin,Poor,No,Occasional,<5 hrs,Intense,Low,High,Poor,Trust in doctor,Yes,Own vehicle,0
+Patient_0701,18,Other,Asian,High School,Employed,Cardiac issues,Dust,Anxiety,Aspirin,Poor,No,Occasional,>9 hrs,Moderate,Low,High,Poor,Improve symptoms,No,No access,0
+Patient_0702,50,Male,Asian,None,Student,None,Dust,Obesity,None,Good,No,Regular,7-9 hrs,Intense,Moderate,Medium,Average,Improve symptoms,No,No access,1
+Patient_0703,57,Other,Other,Bachelor,Retired,Asthma,Penicillin,None,Aspirin,Good,Yes,Regular,<5 hrs,Light,Low,High,Average,No expectations,No,Public transport,1
+Patient_0704,27,Other,Asian,PhD,Employed,Diabetes,None,None,Aspirin,Good,Yes,Regular,<5 hrs,Light,High,Medium,Poor,Hope for cure,No,Own vehicle,1
+Patient_0705,60,Other,Black,Bachelor,Employed,None,Dust,Anxiety,Aspirin,Average,No,Occasional,<5 hrs,Moderate,High,High,Good,Trust in doctor,Yes,No access,0
+Patient_0706,61,Female,Black,High School,Student,Cardiac issues,Dust,Depression,Lisinopril,Poor,Yes,None,5-7 hrs,None,Low,Low,Poor,No expectations,Yes,Own vehicle,0
+Patient_0707,46,Female,White,Master,Retired,Cancer,None,Obesity,Aspirin,Average,No,Regular,>9 hrs,Moderate,High,High,Good,Hope for cure,Yes,Public transport,0
+Patient_0708,30,Other,Black,Bachelor,Employed,Diabetes,Penicillin,Depression,Metformin,Poor,No,Regular,5-7 hrs,Light,Low,Medium,Average,No expectations,Yes,Public transport,1
+Patient_0709,29,Other,Asian,Master,Unemployed,Hypertension,None,None,Metformin,Good,No,Occasional,7-9 hrs,None,High,Low,Average,Hope for cure,Yes,No access,0
+Patient_0710,48,Female,Black,PhD,Student,Asthma,Penicillin,Depression,None,Good,No,Regular,>9 hrs,Intense,Moderate,Medium,Poor,Hope for cure,Yes,Public transport,0
+Patient_0711,63,Female,Other,Bachelor,Employed,Hypertension,Pollen,None,Lisinopril,Good,No,None,5-7 hrs,Light,High,High,Average,Trust in doctor,No,No access,0
+Patient_0712,19,Male,White,None,Employed,Cardiac issues,Penicillin,Obesity,Metformin,Good,No,Occasional,<5 hrs,Intense,Moderate,Low,Good,Hope for cure,No,No access,0
+Patient_0713,78,Male,Asian,Master,Unemployed,Cardiac issues,Pollen,Obesity,Lisinopril,Poor,Yes,Regular,5-7 hrs,None,Moderate,Medium,Good,Improve symptoms,Yes,Public transport,1
+Patient_0714,68,Female,White,PhD,Unemployed,Hypertension,Pollen,Anxiety,Lisinopril,Good,Yes,Regular,<5 hrs,Intense,Low,Low,Poor,Trust in doctor,Yes,Public transport,0
+Patient_0715,67,Other,Asian,None,Student,Diabetes,Penicillin,Anxiety,None,Poor,No,Occasional,5-7 hrs,Light,Moderate,Low,Good,Improve symptoms,Yes,Own vehicle,0
+Patient_0716,52,Other,Other,None,Student,Hypertension,Food,Depression,Lisinopril,Poor,Yes,Occasional,5-7 hrs,Moderate,High,Medium,Poor,No expectations,No,Own vehicle,1
+Patient_0717,40,Other,White,None,Unemployed,None,Penicillin,Obesity,Aspirin,Average,No,Regular,5-7 hrs,Intense,High,Low,Poor,No expectations,No,No access,0
+Patient_0718,34,Other,Hispanic,None,Student,Hypertension,Dust,Obesity,Lisinopril,Good,Yes,None,<5 hrs,Light,Moderate,Medium,Good,Hope for cure,No,Own vehicle,0
+Patient_0719,43,Male,Asian,Bachelor,Unemployed,Asthma,Dust,Anxiety,None,Good,Yes,Occasional,5-7 hrs,Light,Low,Low,Good,Hope for cure,No,No access,1
+Patient_0720,25,Female,Hispanic,Bachelor,Employed,Asthma,Food,None,None,Average,Yes,None,>9 hrs,None,Moderate,Low,Good,Improve symptoms,Yes,Public transport,1
+Patient_0721,46,Other,White,Bachelor,Unemployed,Cancer,Pollen,Depression,None,Poor,No,Regular,>9 hrs,Light,High,Low,Good,Improve symptoms,No,Public transport,0
+Patient_0722,43,Male,Hispanic,PhD,Unemployed,Asthma,Food,Depression,Metformin,Good,Yes,None,>9 hrs,Moderate,High,High,Good,Improve symptoms,Yes,Own vehicle,0
+Patient_0723,27,Other,Hispanic,PhD,Retired,Hypertension,Dust,Anxiety,Aspirin,Poor,No,Regular,<5 hrs,Moderate,Moderate,High,Good,No expectations,No,No access,0
+Patient_0724,43,Female,White,PhD,Unemployed,Asthma,Food,Obesity,Metformin,Average,No,Regular,<5 hrs,Intense,Moderate,Medium,Good,Improve symptoms,No,No access,1
+Patient_0725,79,Male,Other,High School,Unemployed,Diabetes,Penicillin,Anxiety,Insulin,Poor,No,Regular,>9 hrs,Intense,Moderate,Low,Average,Trust in doctor,No,Own vehicle,1
+Patient_0726,51,Female,Hispanic,PhD,Retired,Asthma,Food,Anxiety,Aspirin,Good,Yes,Regular,>9 hrs,Intense,High,Medium,Poor,Trust in doctor,No,No access,0
+Patient_0727,68,Female,Hispanic,Bachelor,Student,None,Pollen,Anxiety,Lisinopril,Poor,Yes,None,>9 hrs,Intense,High,High,Poor,No expectations,Yes,No access,0
+Patient_0728,58,Male,Other,Bachelor,Retired,Diabetes,Penicillin,Anxiety,None,Poor,Yes,Regular,7-9 hrs,Moderate,High,High,Good,Improve symptoms,Yes,Public transport,0
+Patient_0729,24,Male,Hispanic,High School,Employed,Cancer,None,None,Insulin,Good,No,Regular,>9 hrs,None,Low,High,Poor,Improve symptoms,Yes,No access,0
+Patient_0730,21,Male,Hispanic,High School,Retired,None,Dust,None,Aspirin,Good,No,None,5-7 hrs,Intense,High,High,Good,Hope for cure,Yes,No access,0
+Patient_0731,75,Male,Hispanic,PhD,Employed,Hypertension,Dust,Obesity,Metformin,Poor,Yes,Occasional,7-9 hrs,None,High,Medium,Average,Trust in doctor,Yes,No access,1
+Patient_0732,70,Male,Black,Master,Student,Hypertension,Food,Anxiety,None,Poor,No,None,7-9 hrs,Light,Low,Low,Poor,No expectations,Yes,Own vehicle,0
+Patient_0733,67,Male,Other,High School,Retired,Hypertension,Penicillin,None,Metformin,Average,Yes,None,<5 hrs,Light,Low,Medium,Poor,Improve symptoms,Yes,Own vehicle,0
+Patient_0734,62,Male,Hispanic,None,Retired,None,None,Obesity,Aspirin,Good,Yes,None,5-7 hrs,Intense,Low,Low,Average,Hope for cure,No,Own vehicle,0
+Patient_0735,28,Other,Other,Bachelor,Student,None,Penicillin,Anxiety,Aspirin,Poor,Yes,Regular,<5 hrs,Light,Low,High,Average,No expectations,Yes,No access,0
+Patient_0736,46,Female,Asian,None,Employed,None,Dust,Depression,Insulin,Good,Yes,Regular,<5 hrs,None,Low,Low,Average,No expectations,No,No access,0
+Patient_0737,73,Male,Asian,Bachelor,Retired,Diabetes,Penicillin,None,Lisinopril,Average,No,Regular,5-7 hrs,None,Low,High,Poor,Trust in doctor,Yes,Own vehicle,0
+Patient_0738,53,Other,Hispanic,Bachelor,Employed,Cardiac issues,None,Obesity,Metformin,Poor,Yes,Occasional,<5 hrs,Light,Moderate,Medium,Poor,Improve symptoms,No,Own vehicle,0
+Patient_0739,42,Other,Other,High School,Retired,Diabetes,Food,Depression,Insulin,Poor,Yes,Regular,5-7 hrs,Intense,Moderate,Low,Average,No expectations,Yes,No access,0
+Patient_0740,38,Other,Other,High School,Unemployed,Hypertension,Pollen,Anxiety,None,Poor,Yes,Occasional,5-7 hrs,None,Moderate,Medium,Average,Hope for cure,No,No access,0
+Patient_0741,78,Female,Other,None,Retired,Cardiac issues,Penicillin,Anxiety,Lisinopril,Good,Yes,Regular,<5 hrs,None,Moderate,High,Average,Hope for cure,Yes,Public transport,1
+Patient_0742,74,Male,Black,Bachelor,Student,Asthma,Pollen,Anxiety,Insulin,Average,Yes,None,>9 hrs,Moderate,High,Medium,Average,No expectations,Yes,Own vehicle,0
+Patient_0743,53,Other,Asian,None,Student,Hypertension,Dust,None,Metformin,Good,Yes,Regular,<5 hrs,Intense,Low,High,Average,Hope for cure,Yes,No access,0
+Patient_0744,27,Female,Other,Master,Employed,Cancer,Food,Obesity,Aspirin,Poor,Yes,Occasional,7-9 hrs,Moderate,High,High,Good,No expectations,Yes,Own vehicle,1
+Patient_0745,54,Female,Other,None,Retired,Diabetes,Food,Depression,None,Average,No,Occasional,<5 hrs,Light,Low,High,Average,Hope for cure,No,Own vehicle,0
+Patient_0746,26,Female,Black,PhD,Employed,None,Penicillin,Obesity,Metformin,Poor,No,Regular,5-7 hrs,Light,Low,Medium,Good,No expectations,Yes,Own vehicle,1
+Patient_0747,41,Other,Black,None,Employed,Diabetes,Food,None,Lisinopril,Poor,No,None,7-9 hrs,Moderate,High,Medium,Poor,No expectations,Yes,Public transport,0
+Patient_0748,52,Male,Other,PhD,Unemployed,None,Penicillin,Obesity,Lisinopril,Good,No,Regular,5-7 hrs,Intense,Moderate,Low,Poor,No expectations,No,No access,1
+Patient_0749,66,Other,White,PhD,Unemployed,Cardiac issues,Penicillin,None,Aspirin,Poor,Yes,Regular,>9 hrs,None,High,Low,Good,Hope for cure,Yes,No access,1
+Patient_0750,52,Other,Other,PhD,Student,Cancer,Pollen,Anxiety,Aspirin,Average,No,Regular,>9 hrs,Light,High,Medium,Average,No expectations,No,Own vehicle,1
+Patient_0751,65,Male,Other,Master,Employed,Cardiac issues,Food,Depression,None,Poor,No,None,7-9 hrs,Intense,Low,Medium,Poor,Trust in doctor,No,No access,0
+Patient_0752,53,Male,Black,None,Student,Cancer,Penicillin,Anxiety,None,Poor,No,Occasional,>9 hrs,Intense,Low,Medium,Average,No expectations,Yes,Public transport,0
+Patient_0753,35,Male,Black,None,Retired,Diabetes,Pollen,Obesity,Aspirin,Good,Yes,None,>9 hrs,Light,Low,Medium,Average,Improve symptoms,Yes,Own vehicle,0
+Patient_0754,66,Female,Other,Master,Employed,None,None,Anxiety,Aspirin,Average,No,Occasional,<5 hrs,Light,Moderate,High,Good,Improve symptoms,No,Public transport,0
+Patient_0755,56,Male,Other,Bachelor,Employed,Cardiac issues,Pollen,Depression,Lisinopril,Good,No,Occasional,<5 hrs,Intense,High,High,Poor,Trust in doctor,Yes,Public transport,1
+Patient_0756,49,Other,Other,High School,Retired,Cancer,Pollen,Anxiety,Aspirin,Poor,Yes,Occasional,>9 hrs,None,High,High,Poor,No expectations,No,No access,0
+Patient_0757,41,Male,Black,None,Retired,Hypertension,Penicillin,Depression,Insulin,Good,No,None,>9 hrs,Moderate,Moderate,Medium,Good,Improve symptoms,Yes,No access,0
+Patient_0758,40,Other,Other,High School,Student,Hypertension,Dust,Depression,Metformin,Good,Yes,Regular,<5 hrs,Light,High,High,Average,No expectations,Yes,Public transport,0
+Patient_0759,79,Female,Other,Master,Student,Cardiac issues,Dust,Anxiety,Aspirin,Good,No,Regular,>9 hrs,Moderate,High,High,Average,Improve symptoms,No,No access,0
+Patient_0760,49,Other,Hispanic,Bachelor,Retired,None,Dust,None,None,Good,Yes,Regular,>9 hrs,Intense,Low,Low,Poor,Hope for cure,Yes,Public transport,1
+Patient_0761,54,Other,White,Bachelor,Student,Cardiac issues,Pollen,Obesity,Insulin,Poor,No,Regular,5-7 hrs,Moderate,Moderate,Low,Good,Hope for cure,Yes,Public transport,1
+Patient_0762,29,Male,Asian,Bachelor,Retired,Diabetes,Penicillin,None,None,Poor,No,Regular,>9 hrs,None,Low,High,Good,Trust in doctor,Yes,Own vehicle,0
+Patient_0763,66,Male,White,Master,Employed,Cancer,Food,None,Insulin,Average,No,None,7-9 hrs,Intense,Moderate,High,Average,Trust in doctor,No,Public transport,0
+Patient_0764,72,Other,Hispanic,PhD,Employed,Diabetes,Pollen,Anxiety,Aspirin,Good,Yes,None,5-7 hrs,None,Low,High,Average,No expectations,Yes,Public transport,0
+Patient_0765,30,Male,Asian,PhD,Unemployed,Hypertension,Pollen,Obesity,Metformin,Good,No,None,7-9 hrs,Intense,High,Medium,Good,Trust in doctor,No,No access,0
+Patient_0766,40,Female,Other,High School,Employed,Cancer,Penicillin,Obesity,None,Average,Yes,None,>9 hrs,None,Moderate,Low,Poor,No expectations,Yes,Own vehicle,1
+Patient_0767,42,Female,Hispanic,PhD,Retired,Cardiac issues,None,None,Insulin,Good,Yes,None,<5 hrs,Intense,Moderate,Low,Average,Hope for cure,No,No access,1
+Patient_0768,52,Male,Other,PhD,Student,Diabetes,Pollen,Anxiety,Lisinopril,Average,Yes,None,5-7 hrs,None,Low,Low,Good,Hope for cure,Yes,Own vehicle,0
+Patient_0769,58,Female,Black,Bachelor,Unemployed,Asthma,None,Obesity,Aspirin,Poor,Yes,None,<5 hrs,Intense,Moderate,High,Good,Improve symptoms,Yes,No access,0
+Patient_0770,47,Male,Hispanic,Bachelor,Student,None,None,None,Metformin,Average,No,Regular,5-7 hrs,None,High,Medium,Good,No expectations,No,Public transport,0
+Patient_0771,34,Other,Black,High School,Retired,None,Dust,Obesity,Aspirin,Good,No,Occasional,<5 hrs,Intense,High,Low,Poor,Hope for cure,Yes,Own vehicle,0
+Patient_0772,66,Other,Hispanic,None,Employed,Asthma,Penicillin,Anxiety,Lisinopril,Average,No,None,5-7 hrs,None,High,Low,Average,Hope for cure,No,Own vehicle,0
+Patient_0773,79,Female,Hispanic,High School,Unemployed,Hypertension,None,Anxiety,Metformin,Poor,Yes,Occasional,5-7 hrs,Light,Low,Medium,Average,No expectations,Yes,Own vehicle,0
+Patient_0774,37,Male,Black,High School,Retired,Cancer,Penicillin,Anxiety,Lisinopril,Good,No,None,7-9 hrs,Moderate,Moderate,High,Average,Improve symptoms,No,Own vehicle,0
+Patient_0775,65,Male,Asian,Master,Unemployed,None,Dust,Obesity,Aspirin,Poor,Yes,None,<5 hrs,Intense,Low,High,Poor,Improve symptoms,Yes,No access,0
+Patient_0776,42,Female,White,Master,Unemployed,Asthma,Penicillin,Depression,Insulin,Poor,Yes,Regular,7-9 hrs,None,High,Low,Average,Improve symptoms,No,No access,0
+Patient_0777,39,Other,Other,High School,Employed,Cardiac issues,Pollen,Obesity,Aspirin,Average,Yes,Occasional,7-9 hrs,Light,Moderate,Low,Average,Improve symptoms,Yes,Own vehicle,1
+Patient_0778,30,Female,Hispanic,High School,Retired,Asthma,None,Depression,Aspirin,Poor,No,Regular,<5 hrs,Intense,High,Medium,Average,Hope for cure,No,Own vehicle,1
+Patient_0779,76,Other,Other,High School,Student,Hypertension,Penicillin,Anxiety,Aspirin,Good,No,Regular,5-7 hrs,Intense,Moderate,Low,Average,No expectations,No,Own vehicle,0
+Patient_0780,36,Male,Black,PhD,Unemployed,Hypertension,Food,None,None,Poor,Yes,Occasional,7-9 hrs,Intense,Moderate,Medium,Poor,No expectations,Yes,No access,0
+Patient_0781,66,Other,Other,Master,Unemployed,Diabetes,Penicillin,Depression,Lisinopril,Poor,No,Regular,<5 hrs,Moderate,Low,Low,Good,Hope for cure,No,Own vehicle,0
+Patient_0782,53,Female,Black,High School,Student,None,None,Anxiety,Lisinopril,Average,No,None,5-7 hrs,None,Moderate,Low,Good,Hope for cure,No,Own vehicle,0
+Patient_0783,29,Male,Other,Bachelor,Retired,Diabetes,Dust,Anxiety,Lisinopril,Poor,Yes,None,7-9 hrs,None,High,Low,Average,Hope for cure,Yes,Own vehicle,0
+Patient_0784,78,Female,White,Bachelor,Unemployed,Asthma,Dust,Depression,None,Average,Yes,None,7-9 hrs,Intense,Moderate,High,Average,Trust in doctor,Yes,No access,1
+Patient_0785,58,Female,White,PhD,Unemployed,Cancer,None,None,Insulin,Average,No,None,7-9 hrs,Intense,High,Medium,Average,No expectations,Yes,Public transport,0
+Patient_0786,36,Other,White,PhD,Unemployed,Cancer,Pollen,Anxiety,Aspirin,Good,Yes,None,5-7 hrs,Intense,Low,Medium,Poor,No expectations,Yes,Public transport,0
+Patient_0787,29,Female,White,None,Retired,Hypertension,Pollen,Depression,Insulin,Good,Yes,Regular,7-9 hrs,Light,High,High,Average,No expectations,Yes,No access,0
+Patient_0788,26,Other,White,None,Retired,Cancer,Dust,None,None,Good,No,Regular,5-7 hrs,Intense,Moderate,High,Poor,Improve symptoms,Yes,Public transport,1
+Patient_0789,24,Male,White,None,Student,Cancer,Dust,None,Lisinopril,Good,No,None,>9 hrs,Moderate,High,High,Average,Hope for cure,No,Own vehicle,1
+Patient_0790,45,Other,Black,PhD,Retired,Cancer,None,Anxiety,Aspirin,Average,Yes,None,7-9 hrs,None,High,Medium,Average,Hope for cure,No,Own vehicle,0
+Patient_0791,31,Male,Hispanic,PhD,Retired,Asthma,Pollen,Obesity,Metformin,Poor,No,Regular,>9 hrs,Moderate,Moderate,Low,Good,Hope for cure,No,No access,0
+Patient_0792,48,Other,Other,PhD,Employed,Cancer,Dust,Obesity,Metformin,Good,Yes,Occasional,<5 hrs,Intense,High,High,Average,Trust in doctor,Yes,No access,0
+Patient_0793,69,Female,White,Bachelor,Student,Cardiac issues,Pollen,Anxiety,Insulin,Good,Yes,Regular,7-9 hrs,Light,Moderate,High,Poor,No expectations,Yes,Public transport,0
+Patient_0794,36,Other,Black,PhD,Unemployed,Cancer,Dust,None,Lisinopril,Good,No,Regular,<5 hrs,Intense,Low,High,Good,Hope for cure,No,Public transport,0
+Patient_0795,75,Other,Black,Bachelor,Retired,Cancer,Penicillin,Anxiety,Metformin,Poor,Yes,Regular,<5 hrs,Intense,High,Low,Poor,Trust in doctor,No,Own vehicle,0
+Patient_0796,64,Male,Black,None,Unemployed,Diabetes,Food,Depression,Insulin,Good,Yes,Regular,<5 hrs,Intense,Low,Low,Good,Hope for cure,Yes,No access,0
+Patient_0797,33,Female,Hispanic,None,Unemployed,Asthma,Penicillin,Obesity,None,Poor,Yes,Regular,>9 hrs,Intense,High,High,Poor,Improve symptoms,No,Public transport,0
+Patient_0798,70,Other,Other,None,Employed,Hypertension,Dust,Depression,Insulin,Average,No,Occasional,5-7 hrs,Intense,High,Low,Good,No expectations,Yes,Public transport,0
+Patient_0799,22,Female,Hispanic,High School,Retired,Diabetes,Food,Anxiety,Insulin,Average,No,None,>9 hrs,None,Low,High,Poor,Trust in doctor,Yes,Own vehicle,1
+Patient_0800,52,Other,Asian,High School,Student,None,Food,Anxiety,Insulin,Average,No,None,>9 hrs,Moderate,High,Low,Poor,Hope for cure,No,Own vehicle,0
+Patient_0801,29,Other,Black,Master,Retired,Asthma,Dust,None,Aspirin,Poor,Yes,Occasional,<5 hrs,Light,High,Medium,Average,No expectations,Yes,Own vehicle,0
+Patient_0802,42,Female,Asian,Master,Unemployed,Cardiac issues,Dust,None,Insulin,Good,Yes,None,7-9 hrs,Intense,Low,Medium,Good,Trust in doctor,Yes,Own vehicle,0
+Patient_0803,69,Other,White,Master,Student,Asthma,Pollen,None,Insulin,Good,No,None,5-7 hrs,Light,High,Low,Good,No expectations,Yes,Public transport,0
+Patient_0804,76,Female,White,High School,Retired,None,Dust,Depression,Aspirin,Good,No,None,<5 hrs,None,Moderate,Medium,Average,No expectations,Yes,No access,0
+Patient_0805,38,Other,Hispanic,High School,Unemployed,None,None,None,Aspirin,Good,No,Occasional,5-7 hrs,Moderate,High,Medium,Poor,Improve symptoms,No,No access,0
+Patient_0806,53,Male,Other,Master,Unemployed,None,Dust,Anxiety,None,Good,Yes,Occasional,>9 hrs,Intense,High,Medium,Poor,No expectations,Yes,Own vehicle,0
+Patient_0807,70,Female,Asian,Master,Employed,Hypertension,None,None,Lisinopril,Poor,No,None,5-7 hrs,None,High,High,Good,Trust in doctor,Yes,Own vehicle,0
+Patient_0808,40,Other,Other,PhD,Employed,Cancer,Dust,Obesity,Metformin,Average,Yes,None,5-7 hrs,None,Low,Low,Poor,No expectations,No,Public transport,0
+Patient_0809,33,Other,Hispanic,Master,Employed,Asthma,Pollen,None,Metformin,Good,No,None,7-9 hrs,Moderate,Moderate,Low,Good,Trust in doctor,Yes,Own vehicle,0
+Patient_0810,74,Male,White,PhD,Unemployed,Cancer,None,Depression,Insulin,Average,Yes,Regular,<5 hrs,Intense,Moderate,Low,Good,No expectations,Yes,No access,1
+Patient_0811,56,Female,Other,Bachelor,Retired,Cancer,Penicillin,Obesity,None,Poor,Yes,Regular,5-7 hrs,Moderate,High,Medium,Poor,Hope for cure,No,Own vehicle,0
+Patient_0812,62,Other,Other,High School,Employed,Cardiac issues,None,Obesity,Insulin,Poor,No,Regular,5-7 hrs,Moderate,Low,High,Poor,Improve symptoms,No,No access,0
+Patient_0813,70,Male,White,Master,Retired,None,Pollen,Obesity,Metformin,Good,Yes,Occasional,>9 hrs,Light,Low,Low,Poor,Hope for cure,Yes,Own vehicle,0
+Patient_0814,59,Other,Asian,High School,Employed,Hypertension,None,Depression,Aspirin,Poor,No,None,>9 hrs,Light,Moderate,Medium,Average,Improve symptoms,Yes,Own vehicle,1
+Patient_0815,75,Female,White,High School,Student,Cardiac issues,Dust,Anxiety,Lisinopril,Average,Yes,Occasional,5-7 hrs,Moderate,Low,High,Good,Trust in doctor,No,No access,0
+Patient_0816,56,Other,Other,High School,Student,Diabetes,Dust,None,None,Good,Yes,Occasional,<5 hrs,Light,High,High,Poor,Improve symptoms,Yes,Public transport,1
+Patient_0817,31,Other,Asian,Bachelor,Employed,Hypertension,Pollen,Obesity,Aspirin,Good,No,Occasional,5-7 hrs,None,High,Low,Average,No expectations,Yes,Public transport,1
+Patient_0818,48,Other,Asian,None,Unemployed,Cancer,Food,Obesity,Lisinopril,Average,Yes,None,5-7 hrs,Moderate,Low,Low,Poor,No expectations,Yes,Own vehicle,0
+Patient_0819,75,Other,White,Master,Employed,Hypertension,Dust,Obesity,None,Good,No,Regular,7-9 hrs,Intense,High,Medium,Good,Hope for cure,No,Own vehicle,0
+Patient_0820,22,Male,Other,None,Employed,None,Penicillin,Anxiety,None,Good,No,None,<5 hrs,Intense,Moderate,Low,Average,Improve symptoms,Yes,No access,0
+Patient_0821,52,Male,Hispanic,None,Unemployed,Diabetes,Pollen,Anxiety,Metformin,Average,No,None,7-9 hrs,None,High,Medium,Good,Trust in doctor,No,No access,1
+Patient_0822,40,Female,Other,None,Student,None,None,Depression,Aspirin,Good,Yes,Occasional,<5 hrs,Intense,Low,High,Poor,Trust in doctor,No,Own vehicle,0
+Patient_0823,46,Male,Black,High School,Retired,Diabetes,None,Anxiety,None,Good,Yes,Occasional,<5 hrs,Intense,Moderate,High,Poor,No expectations,No,No access,0
+Patient_0824,60,Male,Hispanic,PhD,Employed,Cardiac issues,Penicillin,None,None,Average,Yes,Occasional,<5 hrs,Moderate,High,High,Poor,Trust in doctor,No,Public transport,0
+Patient_0825,28,Female,Asian,High School,Unemployed,Cancer,Dust,Depression,Lisinopril,Poor,No,Regular,7-9 hrs,None,Moderate,High,Average,No expectations,Yes,Public transport,0
+Patient_0826,35,Male,Hispanic,High School,Employed,Diabetes,Pollen,Depression,Metformin,Average,No,Regular,7-9 hrs,Moderate,Low,Low,Average,No expectations,No,No access,0
+Patient_0827,64,Male,Asian,None,Unemployed,Diabetes,Penicillin,None,Insulin,Good,Yes,Regular,7-9 hrs,None,High,Low,Average,No expectations,Yes,No access,0
+Patient_0828,29,Female,Asian,High School,Retired,Diabetes,Dust,None,Metformin,Average,Yes,None,>9 hrs,Moderate,High,Medium,Average,Hope for cure,No,No access,0
+Patient_0829,26,Female,Hispanic,None,Retired,Hypertension,Pollen,None,Insulin,Good,No,Occasional,7-9 hrs,Moderate,Moderate,Medium,Poor,Hope for cure,No,Public transport,0
+Patient_0830,27,Female,Asian,PhD,Student,Cardiac issues,None,Depression,Aspirin,Good,Yes,None,>9 hrs,Light,High,Medium,Poor,No expectations,Yes,Own vehicle,0
+Patient_0831,75,Other,Asian,Master,Unemployed,Hypertension,Pollen,Depression,Aspirin,Average,No,Regular,>9 hrs,Intense,High,Medium,Poor,No expectations,No,No access,1
+Patient_0832,61,Other,Black,None,Unemployed,Cancer,Food,Depression,None,Good,Yes,Occasional,>9 hrs,None,High,Medium,Average,No expectations,No,No access,0
+Patient_0833,34,Female,Other,PhD,Student,Diabetes,Pollen,None,Aspirin,Poor,No,Regular,5-7 hrs,Intense,High,High,Average,Trust in doctor,Yes,No access,1
+Patient_0834,78,Female,Other,Master,Student,Cardiac issues,Food,None,None,Good,Yes,Occasional,5-7 hrs,Light,Low,High,Poor,No expectations,No,Own vehicle,0
+Patient_0835,55,Female,Black,Bachelor,Unemployed,Cardiac issues,Pollen,Obesity,Metformin,Average,Yes,Occasional,5-7 hrs,None,High,High,Poor,No expectations,No,No access,0
+Patient_0836,24,Other,Hispanic,None,Student,Asthma,Food,Anxiety,Aspirin,Poor,No,None,>9 hrs,Light,Moderate,Medium,Average,Improve symptoms,No,No access,1
+Patient_0837,63,Other,White,None,Retired,Cancer,None,Obesity,Metformin,Poor,No,None,>9 hrs,Intense,Low,High,Good,Improve symptoms,Yes,Public transport,0
+Patient_0838,30,Male,White,Bachelor,Employed,Cardiac issues,Dust,None,Metformin,Good,No,Regular,<5 hrs,Moderate,Moderate,High,Poor,Improve symptoms,No,No access,1
+Patient_0839,57,Male,White,Bachelor,Retired,Diabetes,Food,Depression,Aspirin,Average,Yes,None,>9 hrs,Light,Moderate,High,Poor,Improve symptoms,Yes,Public transport,1
+Patient_0840,59,Female,Black,None,Student,Diabetes,Food,None,Metformin,Good,No,None,5-7 hrs,Light,Moderate,High,Poor,No expectations,Yes,Own vehicle,0
+Patient_0841,26,Other,Black,Bachelor,Unemployed,Cardiac issues,None,Anxiety,Aspirin,Good,No,None,>9 hrs,Moderate,Low,Low,Average,Improve symptoms,Yes,No access,0
+Patient_0842,67,Other,Asian,High School,Unemployed,Hypertension,Food,Obesity,Aspirin,Average,Yes,Occasional,>9 hrs,Intense,Low,Medium,Poor,Trust in doctor,No,No access,0
+Patient_0843,44,Other,White,Master,Retired,Cancer,Penicillin,Obesity,Aspirin,Average,No,None,<5 hrs,Light,Low,Medium,Poor,Trust in doctor,No,Public transport,0
+Patient_0844,75,Female,Hispanic,Master,Unemployed,Diabetes,None,Depression,Insulin,Good,No,Regular,>9 hrs,Intense,High,Low,Poor,Improve symptoms,No,Own vehicle,0
+Patient_0845,19,Male,Hispanic,Master,Student,Cardiac issues,Penicillin,Obesity,Metformin,Poor,No,Occasional,7-9 hrs,Moderate,Moderate,High,Poor,Hope for cure,No,Own vehicle,0
+Patient_0846,22,Female,White,High School,Retired,Diabetes,None,Obesity,Lisinopril,Good,Yes,Occasional,<5 hrs,None,Low,High,Poor,Trust in doctor,Yes,Public transport,0
+Patient_0847,46,Male,White,Bachelor,Unemployed,Cardiac issues,Food,None,Aspirin,Poor,Yes,None,>9 hrs,Light,Moderate,High,Good,Trust in doctor,Yes,Own vehicle,0
+Patient_0848,54,Male,White,PhD,Employed,Cancer,Penicillin,Obesity,Metformin,Good,Yes,Occasional,>9 hrs,Intense,Low,Medium,Good,Improve symptoms,No,Own vehicle,1
+Patient_0849,55,Female,Black,Bachelor,Employed,Cardiac issues,Food,Obesity,None,Average,No,Regular,<5 hrs,Moderate,Low,Medium,Poor,Improve symptoms,No,Own vehicle,1
+Patient_0850,36,Male,Black,None,Student,Asthma,None,Obesity,Aspirin,Poor,Yes,Regular,>9 hrs,Moderate,Low,Medium,Poor,No expectations,Yes,Own vehicle,0
+Patient_0851,25,Male,Black,Master,Unemployed,Cardiac issues,Food,Depression,Aspirin,Average,No,Occasional,5-7 hrs,Light,Moderate,Medium,Poor,Trust in doctor,No,Own vehicle,1
+Patient_0852,65,Other,Other,Bachelor,Student,Cardiac issues,Penicillin,Depression,Lisinopril,Average,No,None,7-9 hrs,None,High,Medium,Poor,Improve symptoms,No,Own vehicle,0
+Patient_0853,62,Male,Hispanic,PhD,Retired,Cancer,Penicillin,None,Insulin,Average,No,None,7-9 hrs,Light,Low,Low,Average,Improve symptoms,No,Own vehicle,0
+Patient_0854,18,Female,Hispanic,None,Employed,Cardiac issues,Food,Obesity,Insulin,Average,Yes,Occasional,5-7 hrs,Intense,Low,Medium,Average,No expectations,No,Own vehicle,0
+Patient_0855,39,Female,Asian,High School,Retired,Cancer,Pollen,Depression,Aspirin,Average,Yes,Regular,>9 hrs,Moderate,Low,High,Average,Trust in doctor,No,No access,0
+Patient_0856,69,Male,Black,High School,Unemployed,Asthma,None,Depression,Metformin,Good,No,Occasional,>9 hrs,None,High,Medium,Good,Improve symptoms,No,Public transport,0
+Patient_0857,34,Other,Other,PhD,Student,Cancer,None,None,None,Poor,No,None,7-9 hrs,Intense,Moderate,Low,Poor,No expectations,Yes,Own vehicle,1
+Patient_0858,24,Other,Other,None,Student,Diabetes,Food,Anxiety,None,Good,Yes,None,>9 hrs,Light,Moderate,High,Average,Improve symptoms,Yes,Public transport,1
+Patient_0859,42,Male,Hispanic,Master,Student,Cancer,Pollen,Obesity,Metformin,Good,Yes,Occasional,7-9 hrs,Moderate,Moderate,Low,Poor,Hope for cure,Yes,Own vehicle,0
+Patient_0860,62,Male,Black,Bachelor,Retired,Asthma,Penicillin,Depression,Aspirin,Good,Yes,Regular,7-9 hrs,Light,Moderate,High,Poor,Hope for cure,Yes,Own vehicle,1
+Patient_0861,21,Female,Asian,None,Employed,None,Dust,None,None,Average,No,Occasional,5-7 hrs,None,Low,Medium,Good,Improve symptoms,No,No access,0
+Patient_0862,53,Male,Black,High School,Retired,Cardiac issues,Dust,None,Insulin,Good,Yes,Regular,7-9 hrs,None,High,Low,Good,Trust in doctor,No,Public transport,0
+Patient_0863,23,Other,White,PhD,Retired,Cancer,Food,None,Metformin,Poor,Yes,Regular,>9 hrs,None,Low,High,Average,Hope for cure,Yes,Public transport,1
+Patient_0864,77,Male,Black,PhD,Unemployed,Cardiac issues,Pollen,Depression,Lisinopril,Good,Yes,Occasional,>9 hrs,None,High,Medium,Average,No expectations,Yes,No access,0
+Patient_0865,48,Female,White,Bachelor,Unemployed,Hypertension,Pollen,Obesity,Aspirin,Average,No,Occasional,<5 hrs,None,Moderate,High,Good,Improve symptoms,Yes,No access,0
+Patient_0866,36,Female,White,PhD,Unemployed,Diabetes,None,Anxiety,Metformin,Poor,Yes,Regular,>9 hrs,Light,High,Low,Good,No expectations,Yes,Public transport,0
+Patient_0867,78,Female,Asian,PhD,Employed,Diabetes,Penicillin,Obesity,None,Poor,No,Regular,<5 hrs,None,Low,Low,Poor,Hope for cure,Yes,Own vehicle,0
+Patient_0868,61,Female,Hispanic,None,Employed,Hypertension,Pollen,None,Aspirin,Poor,No,Regular,7-9 hrs,None,Low,Low,Poor,Trust in doctor,No,Own vehicle,0
+Patient_0869,71,Female,Black,Master,Unemployed,Hypertension,Dust,None,Insulin,Poor,No,Regular,>9 hrs,Moderate,Moderate,Low,Average,No expectations,No,Public transport,0
+Patient_0870,56,Male,White,Bachelor,Unemployed,Cancer,Penicillin,Anxiety,Aspirin,Good,Yes,None,5-7 hrs,None,Low,Medium,Average,Hope for cure,Yes,Own vehicle,0
+Patient_0871,44,Male,Black,None,Employed,Hypertension,Penicillin,Obesity,Aspirin,Average,Yes,Occasional,5-7 hrs,Moderate,Low,High,Good,Hope for cure,Yes,No access,0
+Patient_0872,27,Male,Hispanic,Master,Student,None,Food,None,Insulin,Poor,Yes,Regular,5-7 hrs,Moderate,High,Medium,Average,Hope for cure,No,No access,0
+Patient_0873,43,Male,Hispanic,None,Employed,Cardiac issues,Pollen,None,Insulin,Poor,No,Occasional,7-9 hrs,Moderate,Low,Low,Poor,No expectations,No,No access,0
+Patient_0874,36,Female,Other,None,Employed,Cardiac issues,Food,Obesity,Aspirin,Average,Yes,Regular,7-9 hrs,Light,Moderate,High,Good,Hope for cure,No,Public transport,1
+Patient_0875,56,Other,Hispanic,PhD,Employed,Asthma,Pollen,None,Insulin,Good,No,Occasional,<5 hrs,Light,Moderate,Low,Poor,Improve symptoms,Yes,Public transport,0
+Patient_0876,79,Male,Asian,Master,Unemployed,Hypertension,None,Obesity,Metformin,Poor,Yes,Occasional,5-7 hrs,Intense,Low,Medium,Good,Hope for cure,No,Public transport,0
+Patient_0877,20,Other,White,Bachelor,Student,Hypertension,Food,None,Insulin,Good,Yes,Regular,<5 hrs,Intense,Moderate,Medium,Good,Improve symptoms,Yes,Own vehicle,0
+Patient_0878,62,Male,Other,Bachelor,Employed,None,Food,Obesity,Insulin,Good,Yes,Regular,<5 hrs,Moderate,High,Medium,Poor,Trust in doctor,Yes,Public transport,0
+Patient_0879,30,Male,Asian,Master,Unemployed,Diabetes,Dust,Anxiety,Aspirin,Good,Yes,Occasional,>9 hrs,Light,High,High,Average,Improve symptoms,No,Public transport,0
+Patient_0880,67,Other,Black,PhD,Retired,Diabetes,Food,None,Metformin,Good,No,Occasional,>9 hrs,None,Low,High,Average,Trust in doctor,No,No access,0
+Patient_0881,45,Female,White,High School,Retired,Cardiac issues,Pollen,Anxiety,Lisinopril,Poor,No,Occasional,5-7 hrs,Intense,Low,Low,Average,Trust in doctor,No,Own vehicle,1
+Patient_0882,79,Male,Hispanic,None,Employed,Cardiac issues,Dust,None,Lisinopril,Poor,No,None,7-9 hrs,Light,High,High,Average,Improve symptoms,Yes,Own vehicle,0
+Patient_0883,75,Male,White,PhD,Retired,Cancer,Food,None,None,Good,No,Regular,>9 hrs,None,Moderate,High,Poor,Trust in doctor,No,No access,0
+Patient_0884,37,Male,Black,Master,Student,None,Food,Depression,Insulin,Good,Yes,None,7-9 hrs,None,Low,Medium,Good,Improve symptoms,No,Own vehicle,0
+Patient_0885,45,Other,Other,None,Retired,Asthma,None,Obesity,Insulin,Average,No,None,<5 hrs,Light,Low,Low,Poor,No expectations,Yes,Public transport,0
+Patient_0886,25,Female,Other,Bachelor,Retired,Asthma,Food,Anxiety,Metformin,Average,No,Regular,<5 hrs,Intense,Moderate,Medium,Average,Trust in doctor,No,Own vehicle,0
+Patient_0887,78,Other,Other,High School,Student,None,Penicillin,Anxiety,Lisinopril,Average,No,Regular,<5 hrs,Light,Low,Low,Average,Improve symptoms,No,No access,0
+Patient_0888,58,Other,Hispanic,Bachelor,Employed,Asthma,Dust,Anxiety,None,Poor,Yes,None,<5 hrs,Intense,Moderate,Low,Poor,Trust in doctor,Yes,Own vehicle,1
+Patient_0889,56,Female,Asian,Master,Employed,Diabetes,Penicillin,Obesity,Metformin,Average,No,Regular,5-7 hrs,Moderate,Moderate,High,Good,Hope for cure,Yes,No access,0
+Patient_0890,18,Other,Asian,None,Student,Asthma,Dust,Depression,Insulin,Poor,No,Occasional,<5 hrs,Light,Moderate,Medium,Poor,Improve symptoms,Yes,Public transport,1
+Patient_0891,20,Female,White,Master,Student,Asthma,None,Anxiety,Lisinopril,Poor,Yes,Occasional,>9 hrs,Light,Moderate,High,Poor,Hope for cure,Yes,Public transport,0
+Patient_0892,30,Male,Hispanic,None,Student,None,Food,Obesity,None,Poor,Yes,None,<5 hrs,Intense,Moderate,High,Poor,Trust in doctor,Yes,No access,0
+Patient_0893,45,Female,Other,PhD,Retired,None,Food,None,Aspirin,Poor,No,None,7-9 hrs,Intense,High,High,Good,Trust in doctor,No,Public transport,0
+Patient_0894,79,Male,Other,High School,Student,Asthma,Food,Anxiety,Lisinopril,Average,No,Regular,>9 hrs,Light,Moderate,Low,Poor,No expectations,No,Public transport,0
+Patient_0895,74,Other,Black,PhD,Unemployed,Hypertension,Dust,Anxiety,None,Good,Yes,Regular,7-9 hrs,None,High,Medium,Poor,Improve symptoms,Yes,Own vehicle,1
+Patient_0896,77,Other,Black,PhD,Retired,None,Food,Depression,Metformin,Good,No,None,7-9 hrs,None,Moderate,Medium,Average,Hope for cure,No,Public transport,0
+Patient_0897,66,Male,Other,Master,Employed,Cancer,Penicillin,Anxiety,Aspirin,Good,Yes,None,5-7 hrs,None,Low,High,Poor,No expectations,No,No access,0
+Patient_0898,42,Other,Other,High School,Employed,Cancer,Food,Anxiety,None,Average,No,Occasional,5-7 hrs,Moderate,High,Low,Average,Trust in doctor,Yes,Public transport,1
+Patient_0899,73,Female,Hispanic,None,Employed,Diabetes,None,None,None,Good,No,Occasional,7-9 hrs,Moderate,Low,Medium,Average,Trust in doctor,Yes,Own vehicle,1
+Patient_0900,50,Male,Asian,None,Retired,Asthma,Penicillin,Obesity,Insulin,Average,No,Regular,7-9 hrs,Intense,Moderate,Medium,Average,No expectations,Yes,No access,1
+Patient_0901,55,Other,Black,Bachelor,Unemployed,Hypertension,Food,Obesity,Lisinopril,Average,No,Occasional,<5 hrs,Moderate,Moderate,High,Good,Hope for cure,No,Public transport,1
+Patient_0902,70,Male,Asian,None,Student,Diabetes,Food,Depression,Insulin,Average,No,Regular,>9 hrs,None,Low,Low,Average,Trust in doctor,Yes,Public transport,0
+Patient_0903,23,Female,Hispanic,Master,Student,Asthma,Pollen,None,Aspirin,Good,Yes,Regular,<5 hrs,Light,Moderate,High,Poor,Trust in doctor,No,Public transport,1
+Patient_0904,75,Female,Other,PhD,Employed,None,Dust,Obesity,None,Good,Yes,Regular,5-7 hrs,Moderate,Low,Medium,Poor,Improve symptoms,No,No access,0
+Patient_0905,61,Other,Asian,PhD,Employed,Cancer,Penicillin,None,Insulin,Good,No,Occasional,5-7 hrs,Moderate,Moderate,Low,Average,No expectations,No,Own vehicle,1
+Patient_0906,62,Female,Other,PhD,Retired,Cardiac issues,Pollen,Obesity,Lisinopril,Poor,No,None,<5 hrs,None,Moderate,High,Average,Trust in doctor,No,No access,1
+Patient_0907,49,Male,Other,High School,Unemployed,Hypertension,None,None,Aspirin,Average,No,None,>9 hrs,Moderate,High,Medium,Poor,Hope for cure,Yes,No access,0
+Patient_0908,62,Female,White,None,Student,Cardiac issues,Dust,Depression,Metformin,Poor,Yes,Occasional,7-9 hrs,Intense,Low,High,Average,Improve symptoms,No,Own vehicle,1
+Patient_0909,78,Male,Asian,Master,Retired,Cancer,Penicillin,Anxiety,Insulin,Average,Yes,None,<5 hrs,Light,Moderate,High,Good,No expectations,Yes,No access,0
+Patient_0910,64,Male,Asian,High School,Student,Cardiac issues,Food,Depression,Aspirin,Good,Yes,Regular,5-7 hrs,None,Low,High,Average,Hope for cure,No,No access,0
+Patient_0911,38,Female,Other,Bachelor,Employed,None,Penicillin,Obesity,Metformin,Average,Yes,None,>9 hrs,Intense,High,Low,Good,Trust in doctor,Yes,Public transport,0
+Patient_0912,33,Other,Hispanic,Master,Student,Asthma,Food,Depression,Insulin,Average,Yes,Occasional,5-7 hrs,None,Low,Medium,Good,No expectations,Yes,No access,1
+Patient_0913,71,Female,White,Master,Unemployed,None,Dust,Anxiety,Aspirin,Poor,Yes,None,>9 hrs,Intense,High,Medium,Good,No expectations,Yes,Public transport,0
+Patient_0914,38,Male,Other,Master,Unemployed,Cardiac issues,Food,Depression,Aspirin,Average,Yes,Regular,>9 hrs,Light,Low,Medium,Average,Hope for cure,No,No access,0
+Patient_0915,28,Male,Black,PhD,Employed,None,None,Obesity,Insulin,Good,Yes,Regular,>9 hrs,Light,Low,Medium,Good,No expectations,No,Public transport,0
+Patient_0916,77,Female,Black,Master,Unemployed,Cancer,Food,Obesity,Aspirin,Average,No,Occasional,<5 hrs,Intense,High,Low,Good,Hope for cure,No,Public transport,1
+Patient_0917,54,Other,White,None,Unemployed,Hypertension,None,Depression,None,Average,Yes,Occasional,<5 hrs,Intense,Moderate,High,Average,Trust in doctor,Yes,Public transport,0
+Patient_0918,53,Other,Hispanic,Master,Retired,None,Dust,Anxiety,Insulin,Average,Yes,Occasional,<5 hrs,Intense,Moderate,Medium,Good,Improve symptoms,No,Own vehicle,1
+Patient_0919,52,Male,Other,PhD,Student,Cancer,Dust,Depression,Aspirin,Poor,Yes,Regular,>9 hrs,Intense,Moderate,Low,Average,Hope for cure,No,No access,1
+Patient_0920,36,Male,Asian,Master,Employed,Hypertension,Penicillin,Anxiety,Metformin,Average,Yes,None,>9 hrs,Intense,Low,High,Poor,Improve symptoms,No,No access,0
+Patient_0921,37,Other,White,Bachelor,Employed,Asthma,None,None,Metformin,Average,No,None,5-7 hrs,Intense,Low,Low,Good,No expectations,Yes,No access,0
+Patient_0922,74,Female,Hispanic,Bachelor,Employed,Cardiac issues,None,Anxiety,None,Poor,Yes,Occasional,7-9 hrs,Light,Moderate,Low,Average,Hope for cure,No,Own vehicle,1
+Patient_0923,35,Male,Asian,PhD,Employed,Asthma,Pollen,None,Insulin,Poor,No,None,<5 hrs,Intense,Low,Medium,Poor,Trust in doctor,No,Public transport,1
+Patient_0924,64,Male,Black,None,Employed,Diabetes,Pollen,Depression,Aspirin,Poor,No,None,>9 hrs,Moderate,Low,Medium,Good,Hope for cure,Yes,No access,1
+Patient_0925,58,Other,Black,None,Unemployed,Cancer,Pollen,Anxiety,Aspirin,Poor,No,Occasional,5-7 hrs,Light,Moderate,High,Good,Hope for cure,Yes,Own vehicle,0
+Patient_0926,66,Female,Asian,High School,Retired,Hypertension,Food,None,Metformin,Good,Yes,Occasional,5-7 hrs,None,High,High,Average,Hope for cure,Yes,Own vehicle,1
+Patient_0927,31,Other,White,PhD,Employed,None,Pollen,None,None,Good,Yes,Regular,5-7 hrs,Light,Low,Medium,Poor,Improve symptoms,Yes,No access,0
+Patient_0928,32,Female,Black,Master,Retired,Asthma,None,None,Metformin,Average,Yes,Regular,<5 hrs,None,Low,Low,Average,Improve symptoms,Yes,Public transport,0
+Patient_0929,48,Female,Other,PhD,Retired,Hypertension,Food,Obesity,Metformin,Good,No,Regular,<5 hrs,None,Low,Medium,Good,No expectations,Yes,Own vehicle,1
+Patient_0930,18,Female,Asian,High School,Unemployed,Cancer,Dust,Depression,None,Average,No,Regular,7-9 hrs,Moderate,Low,High,Good,No expectations,No,No access,0
+Patient_0931,70,Male,Asian,PhD,Employed,Diabetes,Penicillin,None,Insulin,Good,No,None,5-7 hrs,Intense,High,Low,Good,No expectations,No,Public transport,1
+Patient_0932,71,Other,Black,PhD,Unemployed,Asthma,Pollen,Anxiety,Aspirin,Poor,No,None,<5 hrs,Intense,Moderate,Low,Good,No expectations,Yes,Own vehicle,0
+Patient_0933,71,Other,White,High School,Employed,Cardiac issues,Dust,None,Insulin,Poor,Yes,Regular,5-7 hrs,Light,Low,Low,Poor,Hope for cure,No,Own vehicle,1
+Patient_0934,20,Female,Other,None,Unemployed,Hypertension,None,Obesity,Lisinopril,Good,Yes,Regular,>9 hrs,Intense,Moderate,Medium,Poor,Improve symptoms,Yes,No access,0
+Patient_0935,33,Male,White,Master,Retired,Cardiac issues,Penicillin,Depression,Lisinopril,Good,Yes,Occasional,5-7 hrs,Moderate,Low,Medium,Average,Improve symptoms,No,No access,0
+Patient_0936,40,Male,Hispanic,High School,Employed,Hypertension,Dust,Obesity,Lisinopril,Average,No,None,7-9 hrs,Light,High,High,Average,Improve symptoms,Yes,Public transport,1
+Patient_0937,74,Other,Hispanic,Bachelor,Student,Hypertension,Penicillin,Obesity,None,Average,No,None,<5 hrs,Light,Moderate,Low,Average,Improve symptoms,Yes,No access,0
+Patient_0938,28,Male,Black,None,Retired,Cancer,Pollen,Obesity,Metformin,Average,Yes,Regular,>9 hrs,Light,High,Low,Good,No expectations,No,No access,0
+Patient_0939,29,Male,Black,Bachelor,Student,Cancer,None,Anxiety,Insulin,Poor,Yes,None,<5 hrs,Intense,Low,Medium,Average,Hope for cure,No,Public transport,1
+Patient_0940,27,Female,Black,None,Retired,Cancer,Penicillin,Depression,Aspirin,Poor,No,Occasional,>9 hrs,Intense,High,High,Poor,Improve symptoms,No,No access,0
+Patient_0941,49,Male,Hispanic,Master,Unemployed,None,Dust,Depression,Lisinopril,Poor,Yes,Occasional,5-7 hrs,Intense,High,High,Average,Trust in doctor,No,Public transport,1
+Patient_0942,33,Female,White,Master,Employed,Hypertension,Pollen,Anxiety,Insulin,Poor,Yes,None,5-7 hrs,Light,Low,Low,Average,Hope for cure,No,Public transport,0
+Patient_0943,25,Other,White,PhD,Retired,Asthma,Pollen,Depression,Lisinopril,Average,No,Regular,7-9 hrs,Light,Low,Medium,Poor,Trust in doctor,No,Public transport,0
+Patient_0944,55,Male,Black,Bachelor,Unemployed,Cardiac issues,Dust,Obesity,Lisinopril,Poor,No,None,7-9 hrs,None,Moderate,Low,Poor,Hope for cure,No,No access,1
+Patient_0945,29,Other,Other,None,Employed,Cancer,Dust,Depression,Aspirin,Poor,No,Occasional,>9 hrs,None,Low,Medium,Good,Hope for cure,No,Public transport,0
+Patient_0946,41,Other,White,Master,Employed,Cancer,Penicillin,Anxiety,None,Poor,Yes,Regular,7-9 hrs,Intense,Moderate,High,Poor,Hope for cure,Yes,No access,0
+Patient_0947,45,Male,Hispanic,High School,Retired,Cardiac issues,Food,Obesity,Metformin,Poor,No,None,7-9 hrs,Light,High,Low,Poor,Trust in doctor,No,Public transport,0
+Patient_0948,70,Male,Asian,Master,Employed,Cardiac issues,Pollen,Anxiety,None,Good,Yes,Regular,7-9 hrs,Intense,High,Low,Average,Improve symptoms,No,No access,1
+Patient_0949,25,Other,Asian,High School,Retired,Hypertension,Penicillin,None,Insulin,Average,Yes,Regular,7-9 hrs,Intense,Moderate,Low,Poor,Improve symptoms,Yes,Public transport,0
+Patient_0950,75,Male,Asian,None,Employed,Cancer,Dust,Obesity,None,Average,No,Occasional,5-7 hrs,None,Low,High,Good,Trust in doctor,Yes,Own vehicle,0
+Patient_0951,45,Female,Other,Master,Student,Cardiac issues,Penicillin,Obesity,Insulin,Poor,Yes,Regular,7-9 hrs,Moderate,Low,Low,Average,Improve symptoms,Yes,Own vehicle,0
+Patient_0952,53,Female,Black,Master,Unemployed,None,Dust,Depression,Insulin,Good,No,None,5-7 hrs,Intense,High,High,Good,No expectations,Yes,Own vehicle,0
+Patient_0953,43,Male,Hispanic,None,Student,None,None,Obesity,Metformin,Average,No,Regular,5-7 hrs,Moderate,Moderate,Medium,Poor,Improve symptoms,No,Public transport,0
+Patient_0954,25,Other,Other,Master,Retired,Cancer,Dust,Anxiety,Aspirin,Average,Yes,Regular,<5 hrs,Moderate,High,High,Good,No expectations,No,No access,0
+Patient_0955,75,Male,Hispanic,High School,Student,Cardiac issues,Dust,Depression,Metformin,Poor,Yes,None,5-7 hrs,Light,High,Medium,Good,No expectations,Yes,Public transport,0
+Patient_0956,77,Male,Hispanic,Master,Retired,Hypertension,Dust,None,None,Poor,No,Occasional,5-7 hrs,Light,Low,High,Poor,No expectations,Yes,Public transport,0
+Patient_0957,67,Other,Black,Bachelor,Employed,Hypertension,Food,Anxiety,Insulin,Average,No,Occasional,7-9 hrs,Intense,Moderate,High,Poor,Trust in doctor,No,Public transport,0
+Patient_0958,45,Other,Asian,PhD,Employed,Hypertension,Dust,None,Lisinopril,Average,No,None,5-7 hrs,None,High,Low,Average,Improve symptoms,No,Public transport,0
+Patient_0959,45,Female,Black,High School,Retired,Diabetes,Pollen,None,Lisinopril,Good,No,None,>9 hrs,None,Low,High,Average,Improve symptoms,No,No access,0
+Patient_0960,54,Other,Other,Bachelor,Student,Cancer,Pollen,None,Insulin,Average,No,Occasional,7-9 hrs,Intense,High,Low,Average,Trust in doctor,No,Public transport,1
+Patient_0961,58,Female,Other,None,Employed,Hypertension,Penicillin,Obesity,Metformin,Average,No,Regular,7-9 hrs,Intense,High,Medium,Poor,Trust in doctor,Yes,Own vehicle,0
+Patient_0962,53,Other,Other,High School,Unemployed,None,Food,Anxiety,Aspirin,Poor,Yes,None,7-9 hrs,None,Low,Medium,Good,Improve symptoms,No,Own vehicle,0
+Patient_0963,44,Male,Black,PhD,Employed,Cardiac issues,Penicillin,Anxiety,Metformin,Average,Yes,Regular,<5 hrs,Moderate,Low,Low,Good,Trust in doctor,Yes,Own vehicle,0
+Patient_0964,71,Female,Hispanic,PhD,Unemployed,Asthma,Pollen,Obesity,Insulin,Poor,Yes,None,7-9 hrs,Intense,Moderate,Medium,Average,Trust in doctor,Yes,Public transport,0
+Patient_0965,34,Female,Hispanic,None,Student,Asthma,Pollen,Depression,Insulin,Average,Yes,Occasional,5-7 hrs,Moderate,High,High,Average,No expectations,Yes,No access,1
+Patient_0966,26,Female,White,None,Unemployed,Hypertension,None,None,Aspirin,Average,No,Regular,>9 hrs,Intense,Moderate,Low,Poor,Trust in doctor,No,No access,1
+Patient_0967,50,Male,Other,High School,Unemployed,Asthma,Dust,Anxiety,None,Average,Yes,Regular,7-9 hrs,Intense,Low,Low,Good,No expectations,Yes,No access,0
+Patient_0968,70,Male,Hispanic,Master,Unemployed,Asthma,Pollen,Obesity,None,Good,Yes,None,7-9 hrs,Moderate,Low,Low,Average,Hope for cure,No,Public transport,0
+Patient_0969,37,Male,White,None,Unemployed,Diabetes,Penicillin,None,Aspirin,Poor,No,Regular,>9 hrs,Moderate,High,Medium,Poor,No expectations,Yes,No access,0
+Patient_0970,30,Male,Hispanic,Master,Employed,None,Penicillin,Depression,None,Good,Yes,None,7-9 hrs,None,Moderate,Medium,Average,No expectations,No,Own vehicle,0
+Patient_0971,45,Male,Other,Bachelor,Unemployed,None,Dust,Depression,Lisinopril,Average,No,Occasional,<5 hrs,Intense,Moderate,High,Poor,Trust in doctor,Yes,No access,1
+Patient_0972,65,Female,Asian,PhD,Employed,Diabetes,Dust,None,None,Good,No,Regular,5-7 hrs,Light,High,High,Good,Improve symptoms,Yes,Public transport,0
+Patient_0973,46,Male,Other,Master,Unemployed,Diabetes,None,Depression,None,Poor,No,None,>9 hrs,Light,High,Low,Poor,Hope for cure,No,Public transport,0
+Patient_0974,30,Female,Black,PhD,Retired,Asthma,Food,Anxiety,None,Average,No,Regular,>9 hrs,Intense,Moderate,High,Average,Hope for cure,No,No access,0
+Patient_0975,63,Male,Hispanic,Master,Student,Cancer,Penicillin,Anxiety,Lisinopril,Good,No,None,<5 hrs,Intense,Low,Medium,Average,Hope for cure,Yes,Public transport,1
+Patient_0976,52,Other,Hispanic,Bachelor,Unemployed,Cardiac issues,Dust,Anxiety,None,Good,Yes,None,5-7 hrs,Intense,Low,High,Good,Improve symptoms,Yes,No access,0
+Patient_0977,78,Female,Black,None,Retired,Cardiac issues,Penicillin,Depression,Lisinopril,Poor,Yes,None,<5 hrs,Moderate,High,Medium,Good,Hope for cure,No,No access,1
+Patient_0978,23,Other,Black,Bachelor,Unemployed,Asthma,Dust,Anxiety,Aspirin,Good,Yes,Occasional,5-7 hrs,Light,Moderate,High,Average,Hope for cure,Yes,Own vehicle,0
+Patient_0979,35,Female,Asian,None,Unemployed,Cardiac issues,Pollen,Obesity,Metformin,Poor,No,Regular,<5 hrs,Light,Moderate,Medium,Average,Improve symptoms,No,Public transport,0
+Patient_0980,68,Other,Hispanic,None,Unemployed,Diabetes,Penicillin,Anxiety,Aspirin,Average,Yes,Occasional,7-9 hrs,Light,Moderate,Medium,Average,Hope for cure,No,Own vehicle,1
+Patient_0981,22,Male,Hispanic,PhD,Retired,None,Pollen,Anxiety,Metformin,Average,Yes,None,<5 hrs,Intense,Low,High,Good,Trust in doctor,Yes,Public transport,0
+Patient_0982,64,Male,Asian,Bachelor,Student,Cardiac issues,Penicillin,Depression,Aspirin,Good,Yes,None,>9 hrs,Moderate,Low,High,Average,Trust in doctor,No,No access,0
+Patient_0983,42,Male,White,Master,Retired,Asthma,Food,Anxiety,Metformin,Average,Yes,Occasional,>9 hrs,Intense,Moderate,Medium,Good,No expectations,Yes,Public transport,0
+Patient_0984,19,Female,Asian,Bachelor,Student,Cancer,None,None,Metformin,Average,No,Occasional,>9 hrs,None,Moderate,Low,Average,No expectations,No,No access,0
+Patient_0985,27,Other,Other,PhD,Unemployed,Asthma,Pollen,Obesity,Insulin,Good,Yes,Regular,<5 hrs,None,High,High,Poor,No expectations,No,Public transport,0
+Patient_0986,73,Male,Hispanic,None,Employed,Hypertension,Dust,Depression,Metformin,Average,No,None,>9 hrs,Light,High,Medium,Poor,Trust in doctor,Yes,Own vehicle,1
+Patient_0987,47,Other,Black,PhD,Unemployed,Asthma,Food,Obesity,Metformin,Good,No,Occasional,>9 hrs,Intense,Moderate,High,Average,Trust in doctor,No,Own vehicle,0
+Patient_0988,67,Other,Other,High School,Student,Diabetes,Penicillin,None,Insulin,Poor,Yes,None,7-9 hrs,None,Moderate,High,Poor,Trust in doctor,Yes,No access,1
+Patient_0989,76,Male,Hispanic,High School,Retired,None,Pollen,Depression,None,Poor,No,None,7-9 hrs,None,Low,High,Good,No expectations,No,Own vehicle,0
+Patient_0990,62,Male,Asian,Master,Unemployed,None,Penicillin,Depression,None,Poor,No,Regular,5-7 hrs,Intense,Moderate,High,Poor,No expectations,No,No access,0
+Patient_0991,22,Other,Other,PhD,Retired,Cardiac issues,Penicillin,Anxiety,Insulin,Good,No,Regular,5-7 hrs,Moderate,High,High,Poor,No expectations,No,No access,0
+Patient_0992,72,Male,Hispanic,Master,Retired,Diabetes,Penicillin,Obesity,Lisinopril,Good,No,Regular,5-7 hrs,Intense,Low,Low,Good,No expectations,No,No access,1
+Patient_0993,73,Male,White,Master,Retired,Hypertension,None,None,Metformin,Average,No,Occasional,<5 hrs,Intense,High,Low,Poor,No expectations,Yes,Public transport,1
+Patient_0994,50,Male,White,High School,Unemployed,Diabetes,None,None,Metformin,Average,No,None,5-7 hrs,Moderate,High,Low,Poor,No expectations,No,No access,1
+Patient_0995,71,Female,Black,Master,Retired,Asthma,Dust,Depression,Insulin,Average,No,Occasional,<5 hrs,Light,Low,Medium,Average,Trust in doctor,No,Own vehicle,0
+Patient_0996,18,Other,Hispanic,High School,Retired,Diabetes,Pollen,Anxiety,Insulin,Average,Yes,Occasional,<5 hrs,Light,High,Low,Good,Improve symptoms,No,Public transport,0
+Patient_0997,35,Other,White,None,Unemployed,Diabetes,Food,Depression,Lisinopril,Average,Yes,Regular,5-7 hrs,Light,Moderate,Low,Good,Improve symptoms,Yes,Own vehicle,0
+Patient_0998,49,Female,Asian,PhD,Retired,Hypertension,Food,Depression,None,Good,No,None,5-7 hrs,Moderate,High,Medium,Average,No expectations,Yes,No access,1
+Patient_0999,64,Other,Hispanic,Master,Unemployed,Asthma,Food,Depression,Aspirin,Good,No,None,<5 hrs,None,Low,Low,Average,Improve symptoms,Yes,No access,0
+Patient_1000,66,Male,Asian,High School,Student,Cancer,Penicillin,Depression,None,Poor,Yes,Regular,7-9 hrs,Moderate,Low,High,Poor,Improve symptoms,Yes,Own vehicle,0
